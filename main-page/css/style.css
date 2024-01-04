@@ -20,7 +20,8 @@ html, body {
   text-decoration: none;
   font-size: 17px;
   border-radius: 15px;
-  width: 250px;
+  width: 200px;
+  height: 30px;
   text-align: center;
   margin: 0 auto;
   margin-bottom: 10px;
