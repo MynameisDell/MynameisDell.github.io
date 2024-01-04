@@ -49,7 +49,6 @@ html, body {
 .pill-nav a:hover {
   color: #1B1B1B; /* Màu chữ thay đổi khi hover */
   transform: scale(1.05); /* Thay đổi kích thước khi hover */
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Đổ bóng tăng cường khi hover */
 }
 
 .pill-nav a img {
@@ -57,9 +56,6 @@ html, body {
   margin-right: 10px; /* Tăng khoảng cách giữa hình ảnh và văn bản */
   border-radius: 50%; /* Làm tròn hình ảnh */
   transition: transform 0.3s; /* Hiệu ứng transition */
-
-  /* Đặt một đổ bóng nhẹ cho hình ảnh */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   width: 50px; /* Kích thước mặc định */
   height: 40px;
 }
