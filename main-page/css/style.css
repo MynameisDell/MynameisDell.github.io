@@ -56,8 +56,8 @@ html, body {
   margin-right: 10px; /* Tăng khoảng cách giữa hình ảnh và văn bản */
   border-radius: 50%; /* Làm tròn hình ảnh */
   transition: transform 0.3s; /* Hiệu ứng transition */
-  width: 50px; /* Kích thước mặc định */
-  height: 50px;
+  width: 40px; /* Kích thước mặc định */
+  height: 40px;
 }
 
 /* Hiệu ứng khi di chuột qua hình ảnh */
