@@ -5,10 +5,77 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Creative Contact Info</title>
   <link rel="stylesheet" href="./main-page/css/style.css">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
   <style>
     /* Additional styles can be added here */
     /* Avoid including specific CSS code here as much as possible for cleaner structure */
+
+    /* Creative Contact Info */
+    .contact-info {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
+
+    .creative-link {
+      text-decoration: none;
+      margin: 0 15px;
+      position: relative;
+      overflow: hidden;
+      color: #333; /* Màu chữ */
+      display: inline-block;
+    }
+
+    .creative-container {
+      position: relative;
+      width: 120px;
+      height: 120px;
+      overflow: hidden;
+    }
+
+    .creative-icon {
+      width: 100%;
+      height: 100%;
+      border-radius: 50%; /* Bo tròn ảnh */
+      transition: transform 0.5s ease, box-shadow 0.5s ease;
+    }
+
+    .creative-label {
+      position: absolute;
+      bottom: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      font-size: 16px;
+      font-weight: bold;
+      margin-top: 10px;
+      opacity: 0;
+      transition: opacity 0.5s ease;
+    }
+
+    .creative-link:hover .creative-icon {
+      transform: scale(1.2); /* Phóng to ảnh khi di chuột qua */
+      box-shadow: 0 0 20px rgba(234, 90, 71, 0.5); /* Hiệu ứng bóng đổ màu khi di chuột qua */
+    }
+
+    .creative-link:hover .creative-label {
+      opacity: 1;
+    }
+
+    /* Additional Animation */
+    @keyframes bounce {
+      0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+      }
+      40% {
+        transform: translateY(-30px);
+      }
+      60% {
+        transform: translateY(-15px);
+      }
+    }
+
+    .bounce {
+      animation: bounce 1s infinite;
+    }
   </style>
 </head>
 
@@ -42,75 +109,32 @@
   <!-- Creative Contact Info -->
   <div class="contact-info">
     <a href="mailto:dvq273665536@gmail.com" class="creative-link">
-      <div class="creative-container">
+      <div class="creative-container bounce">
         <img src="./main-page/assets/Gmail_logo.png" alt="Gmail Logo" class="creative-icon">
         <span class="creative-label">Email</span>
       </div>
     </a> 
 
     <a href="https://github.com/mynameisdell" class="creative-link">
-      <div class="creative-container">
+      <div class="creative-container bounce">
         <img src="./main-page/assets/GitHub_logo.png" alt="GitHub Logo" class="creative-icon">
         <span class="creative-label">GitHub</span>
       </div>
     </a>
 
     <a href="https://t.me/mynameisdell" class="creative-link">
-      <div class="creative-container">
+      <div class="creative-container bounce">
         <img src="./main-page/assets/Telegram_logo.png" alt="Telegram Logo" class="creative-icon">
         <span class="creative-label">Telegram</span>
       </div>
     </a>
 
     <a href="https://www.paypal.com/paypalme/mynameisdellvn" class="creative-link">
-      <div class="creative-container">
+      <div class="creative-container bounce">
         <img src="./main-page/assets/Paypal_logo.png" alt="Paypal Logo" class="creative-icon">
         <span class="creative-label">PayPal</span>
       </div>
     </a>
   </div>
-
-  <script>
-    // Use anime.js for creative animations
-    const creativeLinks = document.querySelectorAll('.creative-link');
-
-    creativeLinks.forEach(link => {
-      link.addEventListener('mouseenter', function() {
-        anime({
-          targets: link.querySelector('.creative-icon'),
-          scale: 1.2,
-          rotate: '1turn',
-          duration: 1000,
-          easing: 'easeInOutElastic',
-        });
-
-        anime({
-          targets: link.querySelector('.creative-label'),
-          translateY: [-20, 0],
-          opacity: [0, 1],
-          duration: 800,
-          easing: 'easeOutQuad',
-        });
-      });
-
-      link.addEventListener('mouseleave', function() {
-        anime({
-          targets: link.querySelector('.creative-icon'),
-          scale: 1,
-          rotate: '0turn',
-          duration: 1000,
-          easing: 'easeInOutElastic',
-        });
-
-        anime({
-          targets: link.querySelector('.creative-label'),
-          translateY: [0, 20],
-          opacity: [1, 0],
-          duration: 800,
-          easing: 'easeInQuad',
-        });
-      });
-    });
-  </script>
 </body>
 </html>
