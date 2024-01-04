@@ -13,39 +13,40 @@ html, body {
   overflow-x: initial;
   
 }
-.container {
-  max-width: 800px;
-  margin: 20px auto;
-  padding: 20px;
-}
 
+/* Phần thông tin liên hệ */
 .contact-info {
-      position: absolute;
-      margin-bottom: 20px;
-      text-align: right;
-      top: 0;
-      right: 0;
-      padding: 10px;
-      align-items: center;
-       position: relative;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
 }
 
-.contact-info::before {
-  content: ""; /* Tạo một phần tử giả trước .contact-info để căn giữa */  
-  vertical-align: middle;
-  height: 100%;
+.contact-info a {
+  text-decoration: none;
+  margin: 0 15px;
+  color: #333; /* Màu chữ */
+  position: relative;
+  display: inline-block;
+  transition: color 0.3s ease;
 }
+
+.contact-info a:hover {
+  color: #EA5A47; /* Màu chữ khi di chuột qua */
+}
+
 .contact-info img {
-  width: 30px; /* Giảm kích thước hình ảnh */
-  border-radius: 50%;
-  margin-right: 10px; /* Khoảng cách giữa biểu tượng và văn bản */
-  vertical-align: middle;
+  width: 50px; /* Kích thước ảnh */
+  height: 50px;
+  border-radius: 50%; /* Bo tròn ảnh */
+  transition: transform 0.3s ease;
+  filter: grayscale(100%); /* Chuyển ảnh thành đen trắng, sáng màu khi di chuột qua */
 }
 
 .contact-info img:hover {
-  transform: scale(1.1);
-  transition: transform 0.3s ease-in-out;
+  transform: scale(1.2); /* Phóng to ảnh khi di chuột qua */
+  filter: grayscale(0%); /* Khôi phục màu sắc của ảnh khi di chuột qua */
 }
+
 
 .pill-nav a {
   display: block;
