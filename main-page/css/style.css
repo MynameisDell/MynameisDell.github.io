@@ -32,19 +32,19 @@ html, body {
 }
 
 .pill-nav a:nth-child(1) {
-  background-color: #F46036; /* Màu cam */
+  background-image: linear-gradient(to left, #ff8c5a, #f44136); /* Gradient màu cam */
 }
 
 .pill-nav a:nth-child(2) {
-  background-color: #808080; /* Màu xám */
+  background-image: linear-gradient(to left, #a0a0a0, #606060); /* Gradient màu xám */
 }
 
 .pill-nav a:nth-child(3) {
-  background-color: #4CAF50; /* Màu xanh lá cây */
+  background-image: linear-gradient(to left, #7ed56f, #4caf50); /* Gradient màu xanh lá cây */
 }
 
 .pill-nav a:nth-child(4) {
-  background-color: #2196F3; /* Màu xanh dương */
+  background-image: linear-gradient(to left, #6fa1ed, #2196f3); /* Gradient màu xanh dương */
 }
 
 .pill-nav a:hover {
