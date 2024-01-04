@@ -14,19 +14,15 @@ html, body {
 }
 
 .pill-nav a {
-  display: block;
-  color: white;
-  padding: 20px;
-  text-decoration: none;
-  font-size: 17px;
-  border-radius: 15px;
-  background-color: #1B1B1B;
-  width: 250px;
-  text-align: center;
-  margin: 0 auto;
-  margin-bottom: 10px;
-  border: 2px solid #F46036;
-}
+      display: inline-block;
+      padding: 10px 20px;
+      text-decoration: none;
+      border: 1px solid #3498db;
+      color: #3498db;
+      border-radius: 5px;
+      margin: 5px;
+      transition: background-color 0.3s, color 0.3s;
+    }
 
 /* Change the color of links on mouse-over */
 .pill-nav a:hover {
