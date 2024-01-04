@@ -60,16 +60,13 @@ html, body {
 
   /* Đặt một đổ bóng nhẹ cho hình ảnh */
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 50px; /* Kích thước mặc định */
+  height: 40px;
 }
 
 /* Hiệu ứng khi di chuột qua hình ảnh */
 .pill-nav a:hover img {
   transform: rotate(360deg); /* Hiệu ứng quay khi hover */
-}
-
-/* Hiệu ứng khi hover lên pill-nav */
-.pill-nav:hover {
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 
 /* Add a color to the active/current link */
