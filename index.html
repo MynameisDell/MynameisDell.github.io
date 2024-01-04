@@ -3,10 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Dell Repository</title>
+  <title>Creative Contact Info</title>
   <link rel="stylesheet" href="./main-page/css/style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
   <style>
     /* Additional styles can be added here */
+    /* Avoid including specific CSS code here as much as possible for cleaner structure */
   </style>
 </head>
 
@@ -37,25 +39,78 @@
       <img src="./main-page/assets/Installer_logo.png" alt="Cydia Logo" height="20" width="25"> Add to Installer</a>
   </div>
 
-  <!-- Thêm thông tin liên hệ Gmail -->
+  <!-- Creative Contact Info -->
   <div class="contact-info">
-    <a href="mailto:dvq273665536@gmail.com">
-      <img src="./main-page/assets/Gmail_logo.png" alt="Gmail Logo">
+    <a href="mailto:dvq273665536@gmail.com" class="creative-link">
+      <div class="creative-container">
+        <img src="./main-page/assets/Gmail_logo.png" alt="Gmail Logo" class="creative-icon">
+        <span class="creative-label">Email</span>
+      </div>
     </a> 
-  <!-- Thêm thông tin liên hệ GitHub --> 
-    <a href="https://github.com/mynameisdell">
-      <img src="./main-page/assets/GitHub_logo.png" alt="GitHub Logo">
+
+    <a href="https://github.com/mynameisdell" class="creative-link">
+      <div class="creative-container">
+        <img src="./main-page/assets/GitHub_logo.png" alt="GitHub Logo" class="creative-icon">
+        <span class="creative-label">GitHub</span>
+      </div>
     </a>
-  <!-- Thêm thông tin liên hệ Telegram -->
-    <a href="https://t.me/mynameisdell">
-      <img src="./main-page/assets/Telegram_logo.png" alt="Telegram Logo">
+
+    <a href="https://t.me/mynameisdell" class="creative-link">
+      <div class="creative-container">
+        <img src="./main-page/assets/Telegram_logo.png" alt="Telegram Logo" class="creative-icon">
+        <span class="creative-label">Telegram</span>
+      </div>
     </a>
-  <!-- Thêm thông tin liên hệ Paypal -->
-    <a href="https://www.paypal.com/paypalme/mynameisdellvn">
-      <img src="./main-page/assets/Paypal_logo.png" alt="Paypal Logo">
+
+    <a href="https://www.paypal.com/paypalme/mynameisdellvn" class="creative-link">
+      <div class="creative-container">
+        <img src="./main-page/assets/Paypal_logo.png" alt="Paypal Logo" class="creative-icon">
+        <span class="creative-label">PayPal</span>
+      </div>
     </a>
   </div>
-  
-  <script src='https://kit.fontawesome.com/a076d05399.js'></script>
+
+  <script>
+    // Use anime.js for creative animations
+    const creativeLinks = document.querySelectorAll('.creative-link');
+
+    creativeLinks.forEach(link => {
+      link.addEventListener('mouseenter', function() {
+        anime({
+          targets: link.querySelector('.creative-icon'),
+          scale: 1.2,
+          rotate: '1turn',
+          duration: 1000,
+          easing: 'easeInOutElastic',
+        });
+
+        anime({
+          targets: link.querySelector('.creative-label'),
+          translateY: [-20, 0],
+          opacity: [0, 1],
+          duration: 800,
+          easing: 'easeOutQuad',
+        });
+      });
+
+      link.addEventListener('mouseleave', function() {
+        anime({
+          targets: link.querySelector('.creative-icon'),
+          scale: 1,
+          rotate: '0turn',
+          duration: 1000,
+          easing: 'easeInOutElastic',
+        });
+
+        anime({
+          targets: link.querySelector('.creative-label'),
+          translateY: [0, 20],
+          opacity: [1, 0],
+          duration: 800,
+          easing: 'easeInQuad',
+        });
+      });
+    });
+  </script>
 </body>
 </html>
