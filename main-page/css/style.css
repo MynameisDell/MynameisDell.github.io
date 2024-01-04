@@ -14,20 +14,62 @@ html, body {
 }
 
 .pill-nav a {
-      display: inline-block;
-      padding: 10px 20px;
-      text-decoration: none;
-      border: 1px solid #3498db;
-      color: #3498db;
-      border-radius: 5px;
-      margin: 5px;
-      transition: background-color 0.3s, color 0.3s;
-    }
-
-/* Change the color of links on mouse-over */
-.pill-nav a:hover {
-  background-color: #1B1B1B;
+  display: block;
   color: white;
+  padding: 20px;
+  text-decoration: none;
+  font-size: 17px;
+  border-radius: 15px;
+  width: 250px;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  transition: background-color 0.3s, color 0.3s, transform 0.3s; /* Hiệu ứng transition */
+
+  /* Thêm đổ bóng */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.pill-nav a:nth-child(1) {
+  background-color: #F46036; /* Màu cam */
+}
+
+.pill-nav a:nth-child(2) {
+  background-color: #808080; /* Màu xám */
+}
+
+.pill-nav a:nth-child(3) {
+  background-color: #4CAF50; /* Màu xanh lá cây */
+}
+
+.pill-nav a:nth-child(4) {
+  background-color: #2196F3; /* Màu xanh dương */
+}
+
+.pill-nav a:hover {
+  color: #1B1B1B; /* Màu chữ thay đổi khi hover */
+  transform: scale(1.05); /* Thay đổi kích thước khi hover */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Đổ bóng tăng cường khi hover */
+}
+
+.pill-nav a img {
+  vertical-align: middle;
+  margin-right: 10px; /* Tăng khoảng cách giữa hình ảnh và văn bản */
+  border-radius: 50%; /* Làm tròn hình ảnh */
+  transition: transform 0.3s; /* Hiệu ứng transition */
+
+  /* Đặt một đổ bóng nhẹ cho hình ảnh */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Hiệu ứng khi di chuột qua hình ảnh */
+.pill-nav a:hover img {
+  transform: rotate(360deg); /* Hiệu ứng quay khi hover */
+}
+
+/* Hiệu ứng khi hover lên pill-nav */
+.pill-nav:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 
 /* Add a color to the active/current link */
