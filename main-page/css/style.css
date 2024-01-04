@@ -13,33 +13,40 @@ html, body {
   overflow-x: initial;
   
 }
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+}
 
-    .contact-info {
+.contact-info {
       position: absolute;
+      margin-bottom: 20px;
+      text-align: right;
       top: 0;
       right: 0;
       padding: 10px;
-      background-color: #f0f0f0; /* Màu nền của phần thông tin liên hệ */
-      border: 1px solid #ccc; /* Viền */
-      display: flex;
       align-items: center;
-    }
+       position: relative;
+}
 
-    .contact-info h3 {
-      margin-right: 10px;
-    }
+.contact-info::before {
+  content: ""; /* Tạo một phần tử giả trước .contact-info để căn giữa */  
+  vertical-align: middle;
+  height: 100%;
+}
+.contact-info img {
+  width: 30px; /* Giảm kích thước hình ảnh */
+  border-radius: 50%;
+  margin-right: 10px; /* Khoảng cách giữa biểu tượng và văn bản */
+  vertical-align: middle;
+}
 
-    .contact-info img {
-      height: 20px;
-      width: 20px;
-      margin-right: 5px;
-    }
+.contact-info img:hover {
+  transform: scale(1.1);
+  transition: transform 0.3s ease-in-out;
+}
 
-    .contact-info a {
-      color: #007bff; /* Màu liên kết */
-      text-decoration: none;
-    }
-    
 .pill-nav a {
   display: block;
   color: white;
