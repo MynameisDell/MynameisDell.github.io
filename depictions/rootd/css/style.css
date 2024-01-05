@@ -1,8 +1,7 @@
 body {
-  background-color: #000; /* Màu nền đen hiện đại */
-  background-image: linear-gradient(45deg, #1a1a1a, #2d2d2d); /* Pha trộn nhiều màu khác nhau */
-  color: #fff; /* Màu chữ trắng */
-  font-family: Arial, sans-serif; /* Kiểu font chữ */
+  background: #121212;
+  color: #fff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 0;
 }
 
@@ -10,11 +9,12 @@ body {
   max-width: 1200px;
   margin: 0 auto;
   padding: 20px;
+  box-sizing: border-box;
 }
 
 .about h1 {
-  font-size: 2em;
-  color: #00ffcc; /* Màu chữ xanh lam nhạt */
+  font-size: 2.5em;
+  color: #00ffcc;
 }
 
 .screenshots {
@@ -30,44 +30,91 @@ body {
 }
 
 .screenshots li {
-  flex: 0 0 48%; /* 48% để có khoảng trống giữa 2 hình ảnh */
+  flex: 0 0 48%;
 }
 
 .screenshots img {
   width: 100%;
   height: auto;
-  border: 2px solid #00ffcc; /* Đường viền màu xanh lam nhạt */
+  border: 2px solid #00ffcc;
   border-radius: 8px;
+  transition: transform 0.3s ease-in-out;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
-.apps {
-  border: 2px solid #666; /* Đường viền màu xám đậm */
-  background-color: #333; /* Màu nền xám đậm */
-}
-
-.apps h1 {
-  color: #00ffcc; /* Màu chữ xanh lam nhạt */
+.screenshots img:hover {
+  transform: scale(1.1);
 }
 
 .info-label-value {
-  margin-bottom: 10px;
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out;
 }
 
 .info-label {
   font-weight: bold;
-  color: #00ffcc; /* Màu chữ xanh lam nhạt */
+  color: #00ffcc;
+  font-size: 1.2em;
+  margin-right: 8px;
+  display: block;
+  position: relative;
+  transition: transform 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.info-label::before {
+  content: '';
+  width: 10px;
+  height: 10px;
+  background-color: #00ffcc;
+  border-radius: 50%;
+  margin-right: 5px;
+  transition: transform 0.3s ease-in-out;
 }
 
 .info-value {
-  color: #fff; /* Màu chữ trắng */
-  word-break: break-all; /* Ngắt từ khi độ dài vượt quá khung */
+  color: #fff;
+  word-break: break-all;
+  transition: color 0.3s ease-in-out;
 }
 
-.dev {
-  background-color: #222; /* Màu nền xám đậm */
-  border: 2px solid #00ffcc; /* Đường viền màu xanh lam nhạt */
+.info-value a {
+  text-decoration: none;
+  color: #007BFF;
+  transition: color 0.3s ease-in-out;
 }
 
-.dev h1 {
-  color: #00ffcc; /* Màu chữ xanh lam nhạt */
+.info-value a:hover {
+  color: #00ffcc;
+}
+
+.info-label-value:hover {
+  background: linear-gradient(45deg, #00ffcc, #ff4d00, #aa00ff, #00aaff); /* Gradient màu khi hover */
+  animation: gradientAnimation 5s infinite alternate;
+  transition: background 0.3s ease-in-out;
+  transform: scale(1.05);
+}
+
+@keyframes gradientAnimation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.info-label:hover::before {
+  transform: scale(1.2);
+}
+
+.info-value:hover {
+  transform: translateX(5px);
 }
