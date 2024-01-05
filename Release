@@ -1,8 +1,8 @@
-Origin: TitanD3v
-Label: TitanD3v
+Origin: Dell's Repository
+Label: Dell's Repository
 Suite: stable
 Version: 1.0
 Codename: cydia-ios
 Architectures: iphoneos-arm
 Components: main
-Description: Bringing sophisticated iOS tweaks to your iDevice
+Description: Dell's Repository
