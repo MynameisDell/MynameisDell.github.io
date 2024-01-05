@@ -1,102 +1,73 @@
-/* Reset some default styles */
-body, h1, h2, h3, p, ul {
-  margin: 0;
-  padding: 0;
-}
-
 body {
-  font-family: 'Arial', sans-serif;
-  line-height: 1.6;
-  background-color: #f5f5f5;
+  background-color: #000; /* Màu nền đen hiện đại */
+  background-image: linear-gradient(45deg, #1a1a1a, #2d2d2d); /* Pha trộn nhiều màu khác nhau */
+  color: #fff; /* Màu chữ trắng */
+  font-family: Arial, sans-serif; /* Kiểu font chữ */
+  margin: 0;
 }
 
 .container {
   max-width: 1200px;
   margin: 0 auto;
-}
-
-/* Header styling */
-.about {
-  background-color: #3498db;
-  color: #fff;
-  text-align: center;
-  padding: 40px 0;
+  padding: 20px;
 }
 
 .about h1 {
   font-size: 2em;
+  color: #00ffcc; /* Màu chữ xanh lam nhạt */
 }
 
-/* Screenshots styling */
 .screenshots {
-  background-color: #ecf0f1;
-  padding: 40px 0;
+  margin-top: 40px;
 }
 
 .screenshots ul {
   list-style: none;
+  padding: 0;
+  margin: 0;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: space-between;
 }
 
 .screenshots li {
-  margin: 0 10px;
+  flex: 0 0 48%; /* 48% để có khoảng trống giữa 2 hình ảnh */
 }
 
 .screenshots img {
-  max-width: 100%;
+  width: 100%;
   height: auto;
-  border: 2px solid #bdc3c7;
+  border: 2px solid #00ffcc; /* Đường viền màu xanh lam nhạt */
   border-radius: 8px;
 }
 
-/* Apps styling */
 .apps {
-  background-color: #2ecc71;
-  color: #fff;
-  text-align: center;
-  padding: 40px 0;
+  border: 2px solid #666; /* Đường viền màu xám đậm */
+  background-color: #333; /* Màu nền xám đậm */
 }
 
 .apps h1 {
-  font-size: 2em;
+  color: #00ffcc; /* Màu chữ xanh lam nhạt */
 }
 
 .info-label-value {
-  margin: 10px 0;
+  margin-bottom: 10px;
 }
 
 .info-label {
   font-weight: bold;
-  margin-right: 10px;
+  color: #00ffcc; /* Màu chữ xanh lam nhạt */
 }
 
-.info-value a {
-  color: #fff;
-  text-decoration: none;
+.info-value {
+  color: #fff; /* Màu chữ trắng */
+  word-break: break-all; /* Ngắt từ khi độ dài vượt quá khung */
 }
 
-/* Developer information styling */
 .dev {
-  background-color: #e74c3c;
-  color: #fff;
-  text-align: center;
-  padding: 40px 0;
+  background-color: #222; /* Màu nền xám đậm */
+  border: 2px solid #00ffcc; /* Đường viền màu xanh lam nhạt */
 }
 
 .dev h1 {
-  font-size: 2em;
-}
-
-/* Footer styling */
-body {
-  margin-bottom: 50px;
-}
-
-/* Responsive styles */
-@media only screen and (max-width: 600px) {
-  .about, .screenshots, .apps, .dev {
-    padding: 20px 0;
-  }
+  color: #00ffcc; /* Màu chữ xanh lam nhạt */
 }
