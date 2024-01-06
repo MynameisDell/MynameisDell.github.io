@@ -1,15 +1,15 @@
 body {
-  background: linear-gradient(135deg, #222, #555);
+  background: linear-gradient(45deg, #121212, #000000);
   color: #fff;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px; /* Đặt kích thước cơ bản cho body */
   margin: 0;
-  transition: background 0.5s ease-in-out;
 }
 
 .container {
-  max-width: 1000px;
+  max-width: 1200px;
   margin: 0 auto;
-  padding: 40px;
+  padding: 1.25em; /* Sử dụng padding thay vì pixel để giữ kích thước tương đối */
   box-sizing: border-box;
   box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
   transition: box-shadow 0.3s ease-in-out;
@@ -20,57 +20,56 @@ body {
 }
 
 .about h1 {
-  font-size: 3em;
-  color: #ffcc00;
+  font-size: 1.5em; /* Giảm kích thước chữ của tiêu đề */
+  color: #00ffcc;
 }
 
 .screenshots {
-  margin-top: 60px;
+  margin-top: 40px;
 }
 
 .screenshots ul {
   list-style: none;
   padding: 0;
   margin: 0;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 20px;
+  display: flex;
+  justify-content: space-between;
 }
 
 .screenshots li {
-  overflow: hidden;
-  border-radius: 20px;
-  position: relative;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
-  transition: transform 0.5s ease-in-out;
+  flex: 0 0 48%;
 }
 
 .screenshots img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
-  border-radius: 20px;
+  height: auto;
+  border: 2px solid #00ffcc;
+  border-radius: 8px;
+  transition: transform 0.5s ease-in-out;
+  transform-origin: center center;
 }
 
-.screenshots li:hover {
-  transform: scale(1.05);
+.screenshots img:hover {
+  transform: scale(1.1) translateY(-10px);
+  border-color: #ff6600;
+  background-color: rgba(255, 255, 255, 0.1);
 }
 
 .info-label-value {
-  margin-bottom: 30px;
+  margin-bottom: 15px;
   display: flex;
   align-items: center;
-  border-radius: 20px;
+  border-radius: 10px;
   overflow: hidden;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
-  transition: transform 0.3s ease-in-out, background 0.3s ease-in-out;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out;
 }
 
 .info-label {
   font-weight: bold;
-  color: #ffcc00;
-  font-size: 1.5em;
-  margin-right: 10px;
+  color: #00ffcc;
+  font-size: 1em; /* Điều chỉnh kích thước của nhãn thông tin */
+  margin-right: 8px;
   display: block;
   position: relative;
   transition: transform 0.3s ease-in-out, color 0.3s ease-in-out;
@@ -78,16 +77,17 @@ body {
 
 .info-label::before {
   content: '';
-  width: 15px;
-  height: 15px;
-  background-color: #ffcc00;
+  width: 10px;
+  height: 10px;
+  background-color: #00ffcc;
   border-radius: 50%;
-  margin-right: 6px;
+  margin-right: 5px;
   transition: transform 0.3s ease-in-out;
 }
 
 .info-value {
-  color: #eee;
+  font-size: 0.9em; /* Điều chỉnh kích thước của giá trị thông tin */
+  color: #fff;
   word-break: break-all;
   transition: color 0.3s ease-in-out;
 }
@@ -99,12 +99,13 @@ body {
 }
 
 .info-value a:hover {
-  color: #ffcc00;
+  color: #00ffcc;
 }
 
 .info-label-value:hover {
-  background: linear-gradient(135deg, #ffcc00, #ff6600, #ff00cc, #00aaff);
+  background: linear-gradient(45deg, #00ffcc, #ff4d00, #aa00ff, #00aaff);
   animation: gradientAnimation 5s infinite alternate;
+  transition: background 0.3s ease-in-out;
   transform: scale(1.05);
 }
 
@@ -121,10 +122,10 @@ body {
 }
 
 .info-label:hover::before {
-  transform: scale(1.3);
+  transform: scale(1.2);
 }
 
 .info-value:hover {
-  transform: translateX(8px);
-  color: #ffcc00;
+  transform: translateX(5px);
+  color: #ff6600;
 }
