@@ -3,79 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Creative Contact Info</title>
+  <title>Dell's Repository</title>
   <link rel="stylesheet" href="./main-page/css/style.css">
   <style>
     /* Additional styles can be added here */
-    /* Avoid including specific CSS code here as much as possible for cleaner structure */
-
-    /* Creative Contact Info */
-    .contact-info {
-      display: flex;
-      justify-content: center;
-      margin-top: 20px;
-    }
-
-    .creative-link {
-      text-decoration: none;
-      margin: 0 15px;
-      position: relative;
-      overflow: hidden;
-      color: #333; /* Màu chữ */
-      display: inline-block;
-    }
-
-    .creative-container {
-      position: relative;
-      width: 120px;
-      height: 120px;
-      overflow: hidden;
-    }
-
-    .creative-icon {
-      width: 100%;
-      height: 100%;
-      border-radius: 50%; /* Bo tròn ảnh */
-      transition: transform 0.5s ease, box-shadow 0.5s ease;
-    }
-
-    .creative-label {
-      position: absolute;
-      bottom: 0;
-      left: 50%;
-      transform: translateX(-50%);
-      font-size: 16px;
-      font-weight: bold;
-      margin-top: 10px;
-      opacity: 0;
-      transition: opacity 0.5s ease;
-    }
-
-    .creative-link:hover .creative-icon {
-      transform: scale(1.2); /* Phóng to ảnh khi di chuột qua */
-      box-shadow: 0 0 20px rgba(234, 90, 71, 0.5); /* Hiệu ứng bóng đổ màu khi di chuột qua */
-    }
-
-    .creative-link:hover .creative-label {
-      opacity: 1;
-    }
-
-    /* Additional Animation */
-    @keyframes bounce {
-      0%, 20%, 50%, 80%, 100% {
-        transform: translateY(0);
-      }
-      40% {
-        transform: translateY(-30px);
-      }
-      60% {
-        transform: translateY(-15px);
-      }
-    }
-
-    .bounce {
-      animation: bounce 1s infinite;
-    }
   </style>
 </head>
 
@@ -88,7 +19,7 @@
   
   <div class="tdtitle">
     <div class="container">
-      <h2>Dell Repository</h2>
+      <h2>Dell's Repository</h2>
     </div>
   </div>
   
@@ -96,45 +27,35 @@
   <br>
   
   <div class="pill-nav">
-    <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://mynameisdell.github.io/">
+    <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://titand3v.github.io/">
       <img src="./main-page/assets/Cydia_logo.png" alt="Cydia Logo" height="20" width="25"> Add to Cydia</a>
-    <a href="zbra://sources/add/https://mynameisdell.github.io/">
+    <a href="zbra://sources/add/https://titand3v.github.io/">
       <img src="./main-page/assets/Zebra_logo.png" alt="Cydia Logo" height="20" width="25"> Add to Zebra</a>
-    <a href="sileo://source/https://mynameisdell.github.io/">
+    <a href="sileo://source/https://titand3v.github.io/">
       <img src="./main-page/assets/Sileo_logo.png" alt="Cydia Logo" height="20" width="25"> Add to Sileo</a>
-    <a href="installer://add/https://mynameisdell.github.io/">
+    <a href="installer://add/https://titand3v.github.io/">
       <img src="./main-page/assets/Installer_logo.png" alt="Cydia Logo" height="20" width="25"> Add to Installer</a>
   </div>
 
-  <!-- Creative Contact Info -->
+  <!-- Thêm thông tin liên hệ Gmail -->
   <div class="contact-info">
-    <a href="mailto:dvq273665536@gmail.com" class="creative-link">
-      <div class="creative-container bounce">
-        <img src="./main-page/assets/Gmail_logo.png" alt="Gmail Logo" class="creative-icon">
-        
-      </div>
+    <a href="mailto:dvq273665536@gmail.com">
+      <img src="./main-page/assets/Gmail_logo.png" alt="Gmail Logo">
     </a> 
-
-    <a href="https://github.com/mynameisdell" class="creative-link">
-      <div class="creative-container bounce">
-        <img src="./main-page/assets/GitHub_logo.png" alt="GitHub Logo" class="creative-icon">
-
-      </div>
+  <!-- Thêm thông tin liên hệ GitHub --> 
+    <a href="https://github.com/mynameisdell">
+      <img src="./main-page/assets/GitHub_logo.png" alt="GitHub Logo">
     </a>
-
-    <a href="https://t.me/mynameisdell" class="creative-link">
-      <div class="creative-container bounce">
-        <img src="./main-page/assets/Telegram_logo.png" alt="Telegram Logo" class="creative-icon">
-        
-      </div>
+  <!-- Thêm thông tin liên hệ Telegram -->
+    <a href="https://t.me/mynameisdell">
+      <img src="./main-page/assets/Telegram_logo.png" alt="Telegram Logo">
     </a>
-
-    <a href="https://www.paypal.com/paypalme/mynameisdellvn" class="creative-link">
-      <div class="creative-container bounce">
-        <img src="./main-page/assets/Paypal_logo.png" alt="Paypal Logo" class="creative-icon">
-        
-      </div>
+  <!-- Thêm thông tin liên hệ Paypal -->
+    <a href="https://www.paypal.com/paypalme/mynameisdellvn">
+      <img src="./main-page/assets/Paypal_logo.png" alt="Paypal Logo">
     </a>
   </div>
+
+  <script src='https://kit.fontawesome.com/a076d05399.js'></script>
 </body>
 </html>
