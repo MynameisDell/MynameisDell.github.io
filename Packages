@@ -12,8 +12,8 @@ SHA256: ca1b6d85729ae53365c749063a1ee7f82fff40324d51090beadd4c0e5783e7b9
 Section: Tweaks
 Description: Unlock Rootd Lifetime Full Access
 Author: Dell <dvq273665536@gmail.com>
-Depiction: https://mynameisdell.github.io/rootd/index.html
-Icon: https://mynameisdell.github.io/rootd/assets/icon.png
+Depiction: https://mynameisdell.vercel.app/rootd/index.html
+Icon: https://mynameisdell.vercel.app/rootd/assets/icon.png
 Name: Rootd Unlocked
 
 Package: com.dell.mindkitpatch
@@ -30,6 +30,6 @@ SHA256: 5da00a7354324aa6009dd0304377cef4bcad040dea4dbb4a203cbd0cff483448
 Section: Tweaks
 Description: Unlock Mindkit Pro Permanently
 Author: Dell <dvq273665536@gmail.com>
-Depiction: https://mynameisdell.github.io/depictions/mindkit/index.html
-Icon: https://mynameisdell.github.io/depictions/mindkit/assets/icon.png
+Depiction: https://mynameisdell.vercel.app/depictions/mindkit/index.html
+Icon: https://mynameisdell.vercel.app/depictions/mindkit/assets/icon.png
 Name: Mindkit Unlocked
