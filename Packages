@@ -33,3 +33,21 @@ Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/mindkit/index.html
 Icon: https://mynameisdell.github.io/depictions/mindkit/assets/icon.png
 Name: Mindkit Unlocked
+
+Package: com.dell.zoomrpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 933704
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.zoomrpatch_0.0.1_iphoneos-arm.deb
+Size: 936368
+MD5sum: 00e6348f622a633d9f1450af7a108458
+SHA1: db5d23698d8aff803b99afd59586999fc0259c67
+SHA256: 3cf147d122c5cdaafbd7469e6b2526310a97141d30cadc1e5d46fac0f7ff8d0d
+Section: Tweaks
+Description: Unlock Yearly Subscription
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/nerolens/index.html
+Icon: https://mynameisdell.github.io/depictions/nerolens/assets/icon.png
+Name: Mindkit Unlocked
