@@ -38,10 +38,10 @@ Package: com.dell.zoomrpatch
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
-Installed-Size: 933704
+Installed-Size: 2964
 Depends: mobilesubstrate
 Filename: ./debs/com.dell.zoomrpatch_0.0.1_iphoneos-arm.deb
-Size: 936368
+Size: 933704
 MD5sum: 00e6348f622a633d9f1450af7a108458
 SHA1: db5d23698d8aff803b99afd59586999fc0259c67
 SHA256: 3cf147d122c5cdaafbd7469e6b2526310a97141d30cadc1e5d46fac0f7ff8d0d
@@ -51,3 +51,21 @@ Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/nerolens/index.html
 Icon: https://mynameisdell.github.io/depictions/nerolens/assets/icon.png
 Name: Nero Lens Unlocked
+
+Package: com.dell.structuredpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.structuredpatch_0.0.1_iphoneos-arm.deb
+Size: 931564
+MD5sum: 813c18b9266a39210f387d015bd9404b
+SHA1: b19c9e20120f0b24c0d50408de4119d4f3c92b4e
+SHA256: ed52fef7d7dc9fba8503e95d4a3879e64d5cd934727e7b2e1b14ef93faa5137f
+Section: Tweaks
+Description: Unlock Structured Pro (Lifetime)
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/structured/index.html
+Icon: https://mynameisdell.github.io/depictions/structured/assets/icon.png
+Name: Structured Unlocked
