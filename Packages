@@ -14,6 +14,7 @@ Description: Unlock Rootd Lifetime Full Access
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/rootd/index.html
 Icon: https://mynameisdell.github.io/depictions/rootd/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.rootdpatch_1.0.0_iphoneos-arm.deb
 Name: Rootd Unlocked
 
 Package: com.dell.mindkitpatch
@@ -32,6 +33,7 @@ Description: Unlock Mindkit Pro Permanently
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/mindkit/index.html
 Icon: https://mynameisdell.github.io/depictions/mindkit/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.mindkitpatch_0.0.1_iphoneos-arm.deb
 Name: Mindkit Unlocked
 
 Package: com.dell.zoomrpatch
@@ -50,6 +52,7 @@ Description: Unlock Yearly Subscription
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/nerolens/index.html
 Icon: https://mynameisdell.github.io/depictions/nerolens/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.zoomrpatch_0.0.1_iphoneos-arm.deb
 Name: Nero Lens Unlocked
 
 Package: com.dell.structuredpatch
@@ -68,4 +71,5 @@ Description: Unlock Structured Pro (Lifetime)
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/structured/index.html
 Icon: https://mynameisdell.github.io/depictions/structured/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.structuredpatch_0.0.1_iphoneos-arm.deb
 Name: Structured Unlocked

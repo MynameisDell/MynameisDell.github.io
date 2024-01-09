@@ -75,6 +75,11 @@ body {
   transition: transform 0.3s ease-in-out, color 0.3s ease-in-out;
 }
 
+.info-label a {
+    text-decoration: none; /* Loại bỏ đường gạch chân */
+    color: #00ffcc;
+}
+
 .info-label::before {
   content: '';
   width: 10px;
@@ -83,6 +88,10 @@ body {
   border-radius: 50%;
   margin-right: 5px;
   transition: transform 0.3s ease-in-out;
+}
+
+.info-label:hover::before {
+  transform: scale(1.2);
 }
 
 .info-value {
@@ -102,6 +111,11 @@ body {
   color: #00ffcc;
 }
 
+.info-value:hover {
+  transform: translateX(5px);
+  color: #ff6600;
+}
+
 .info-label-value:hover {
   background: linear-gradient(45deg, #00ffcc, #ff4d00, #aa00ff, #00aaff);
   animation: gradientAnimation 5s infinite alternate;
@@ -119,13 +133,4 @@ body {
   100% {
     background-position: 0% 50%;
   }
-}
-
-.info-label:hover::before {
-  transform: scale(1.2);
-}
-
-.info-value:hover {
-  transform: translateX(5px);
-  color: #ff6600;
 }

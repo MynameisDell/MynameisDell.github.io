@@ -66,96 +66,33 @@ body {
 }
 
 .info-label {
-  position: relative;
-  display: inline-block;
-  padding: 10px 15px;
   font-weight: bold;
-  text-decoration: none;
-  border-radius: 10px;
-  color: #fff;
-  background: linear-gradient(135deg, #3498db, #8e44ad);
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
-  overflow: hidden;
-  transition: transform 0.5s ease-in-out, box-shadow 0.5s ease-in-out, background 0.5s ease-in-out;
-  transform-style: preserve-3d;
+  color: #00ffcc;
+  font-size: 1em; /* Điều chỉnh kích thước của nhãn thông tin */
+  margin-right: 8px;
+  display: block;
+  position: relative;
+  transition: transform 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.info-label a {
+    text-decoration: none; /* Loại bỏ đường gạch chân */
+    color: #00ffcc;
 }
 
 .info-label::before {
   content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(45deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0));
-  transform: scaleX(0);
-  transform-origin: left;
-  transition: transform 0.5s ease-in-out;
-  z-index: -1;
-}
-
-.info-label:hover {
-  transform: translateY(-5px) rotateX(20deg) rotateZ(15deg);
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
-  background: linear-gradient(135deg, #2980b9, #6f7c80);
+  width: 10px;
+  height: 10px;
+  background-color: #00ffcc;
+  border-radius: 50%;
+  margin-right: 5px;
+  transition: transform 0.3s ease-in-out;
 }
 
 .info-label:hover::before {
-  transform: scaleX(1);
+  transform: scale(1.2);
 }
-
-.info-label a {
-  color: inherit;
-  position: relative;
-  z-index: 1;
-  display: inline-block;
-  transition: color 0.3s ease-in-out;
-}
-
-.info-label a::before {
-  content: '';
-  position: absolute;
-  bottom: -10px;
-  left: 50%;
-  width: 80%;
-  height: 2px;
-  background-color: #fff;
-  transform-origin: 50% 100%;
-  transform: scaleX(0) translateX(-50%);
-  transition: transform 0.5s ease-in-out;
-}
-
-.info-label:hover a::before {
-  transform: scaleX(1) translateX(-50%);
-}
-
-.info-label a::after {
-  content: '🚀';
-  position: absolute;
-  opacity: 0;
-  transform: translateX(-50%);
-  transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
-}
-
-.info-label:hover a::after {
-  opacity: 1;
-  transform: translateX(-50%) translateY(-50%);
-}
-
-.info-label:hover a {
-  color: #f39c12;
-}
-
-@keyframes blink {
-  50% {
-    opacity: 0.5;
-  }
-}
-
-.info-label:hover a {
-  animation: blink 1s infinite;
-}
-
 
 .info-value {
   font-size: 0.9em; /* Điều chỉnh kích thước của giá trị thông tin */
