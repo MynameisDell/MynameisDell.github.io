@@ -66,24 +66,67 @@ body {
 }
 
 .info-label {
+  display: inline-flex;
+  align-items: center;
   font-weight: bold;
-  color: #00ffcc;
-  font-size: 1em; /* Điều chỉnh kích thước của nhãn thông tin */
-  margin-right: 8px;
-  display: block;
+  color: #ffffff;
+  font-size: 1em;
+  margin-right: 12px;
   position: relative;
-  transition: transform 0.3s ease-in-out, color 0.3s ease-in-out;
+  transition: transform 0.3s ease-in-out, color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  border-radius: 12px;
+  padding: 12px;
+  background: linear-gradient(135deg, #00ccff, #0099cc);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden; /* Ẩn bớt phần dư thừa của ::before */
+}
+
+.info-label a {
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.3s ease-in-out;
 }
 
 .info-label::before {
   content: '';
-  width: 10px;
-  height: 10px;
-  background-color: #00ffcc;
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(white, transparent);
   border-radius: 50%;
-  margin-right: 5px;
-  transition: transform 0.3s ease-in-out;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0);
+  transition: transform 0.5s ease-in-out;
 }
+
+.info-label:hover::before {
+  transform: translate(-50%, -50%) scale(2);
+}
+
+.info-label:hover {
+  transform: translateY(-4px) scale(1.05);
+}
+
+.info-label a:hover {
+  color: #ffffff;
+}
+
+@keyframes labelEntrance {
+  from {
+    opacity: 0;
+    transform: translateY(-20px) scale(0.8);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.info-label {
+  animation: labelEntrance 0.5s ease-out;
+}
+
 
 .info-value {
   font-size: 0.9em; /* Điều chỉnh kích thước của giá trị thông tin */
@@ -100,6 +143,11 @@ body {
 
 .info-value a:hover {
   color: #00ffcc;
+}
+
+.info-value:hover {
+  transform: translateX(5px);
+  color: #ff6600;
 }
 
 .info-label-value:hover {
@@ -119,13 +167,4 @@ body {
   100% {
     background-position: 0% 50%;
   }
-}
-
-.info-label:hover::before {
-  transform: scale(1.2);
-}
-
-.info-value:hover {
-  transform: translateX(5px);
-  color: #ff6600;
 }

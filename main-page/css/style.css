@@ -1,4 +1,4 @@
-html, body {
+body {
   
   margin: 0;
   padding: 0;
@@ -13,6 +13,7 @@ html, body {
   overflow-x: initial;
   
 }
+
 
 .small-logo {
   position: fixed;
