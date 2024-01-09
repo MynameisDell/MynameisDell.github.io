@@ -66,65 +66,94 @@ body {
 }
 
 .info-label {
-  display: inline-flex;
-  align-items: center;
-  font-weight: bold;
-  color: #ffffff;
-  font-size: 1em;
-  margin-right: 12px;
   position: relative;
-  transition: transform 0.3s ease-in-out, color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-  border-radius: 12px;
-  padding: 12px;
-  background: linear-gradient(135deg, #00ccff, #0099cc);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  overflow: hidden; /* Ẩn bớt phần dư thừa của ::before */
-}
-
-.info-label a {
+  display: inline-block;
+  padding: 10px 15px;
+  font-weight: bold;
   text-decoration: none;
-  color: inherit;
-  transition: color 0.3s ease-in-out;
+  border-radius: 10px;
+  color: #fff;
+  background: linear-gradient(135deg, #3498db, #8e44ad);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  transition: transform 0.5s ease-in-out, box-shadow 0.5s ease-in-out, background 0.5s ease-in-out;
+  transform-style: preserve-3d;
 }
 
 .info-label::before {
   content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
   width: 100%;
   height: 100%;
-  background: radial-gradient(white, transparent);
-  border-radius: 50%;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%) scale(0);
+  background: linear-gradient(45deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0));
+  transform: scaleX(0);
+  transform-origin: left;
   transition: transform 0.5s ease-in-out;
-}
-
-.info-label:hover::before {
-  transform: translate(-50%, -50%) scale(2);
+  z-index: -1;
 }
 
 .info-label:hover {
-  transform: translateY(-4px) scale(1.05);
+  transform: translateY(-5px) rotateX(20deg) rotateZ(15deg);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+  background: linear-gradient(135deg, #2980b9, #6f7c80);
 }
 
-.info-label a:hover {
-  color: #ffffff;
+.info-label:hover::before {
+  transform: scaleX(1);
 }
 
-@keyframes labelEntrance {
-  from {
-    opacity: 0;
-    transform: translateY(-20px) scale(0.8);
+.info-label a {
+  color: inherit;
+  position: relative;
+  z-index: 1;
+  display: inline-block;
+  transition: color 0.3s ease-in-out;
+}
+
+.info-label a::before {
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  left: 50%;
+  width: 80%;
+  height: 2px;
+  background-color: #fff;
+  transform-origin: 50% 100%;
+  transform: scaleX(0) translateX(-50%);
+  transition: transform 0.5s ease-in-out;
+}
+
+.info-label:hover a::before {
+  transform: scaleX(1) translateX(-50%);
+}
+
+.info-label a::after {
+  content: '🚀';
+  position: absolute;
+  opacity: 0;
+  transform: translateX(-50%);
+  transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
+}
+
+.info-label:hover a::after {
+  opacity: 1;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.info-label:hover a {
+  color: #f39c12;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0.5;
   }
-  to {
-    opacity: 1;
-    transform: translateY(0) scale(1);
-  }
 }
 
-.info-label {
-  animation: labelEntrance 0.5s ease-out;
+.info-label:hover a {
+  animation: blink 1s infinite;
 }
 
 
