@@ -15,12 +15,30 @@ html, body {
 }
 
 .small-logo {
-      position: absolute;
-      top: 10px; /* Điều chỉnh giá trị top theo yêu cầu */
-      right: 10px; /* Điều chỉnh giá trị right theo yêu cầu */
-      width: 200px; /* Điều chỉnh kích thước theo yêu cầu */
-      height: auto; /* Đảm bảo tỷ lệ khung hình được giữ nguyên */
-    }
+  position: fixed;
+  top: 20px; /* Điều chỉnh giá trị top theo yêu cầu */
+  right: 20px; /* Điều chỉnh giá trị right theo yêu cầu */
+  width: 50px; /* Điều chỉnh kích thước theo yêu cầu */
+  height: auto; /* Đảm bảo tỷ lệ khung hình được giữ nguyên */
+  opacity: 0.8; /* Điều chỉnh độ mờ theo yêu cầu */
+  transition: all 0.3s ease-in-out; /* Tạo hiệu ứng chuyển động mềm mại */
+  animation: rotateScaleAnimation 4s infinite linear; /* Áp dụng animation */
+}
+
+@keyframes rotateScaleAnimation {
+  0%, 20%, 50%, 80%, 100% {
+    transform: scale(1) rotate(0deg); /* Góc xoay và phóng to ban đầu */
+    opacity: 0.8; /* Độ mờ ban đầu */
+  }
+  40% {
+    transform: scale(1.5) rotate(180deg); /* Góc xoay và phóng to tăng lên */
+    opacity: 0.4; /* Giảm độ mờ */
+  }
+  60% {
+    transform: scale(1) rotate(360deg); /* Góc xoay và phóng to giảm xuống */
+    opacity: 0.8; /* Tăng độ mờ */
+  }
+}
 
 /* Phần thông tin liên hệ */
 .contact-info {
