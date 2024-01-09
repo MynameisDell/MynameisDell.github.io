@@ -18,7 +18,7 @@ html, body {
   position: fixed;
   top: 20px; /* Điều chỉnh giá trị top theo yêu cầu */
   right: 20px; /* Điều chỉnh giá trị right theo yêu cầu */
-  width: 60px; /* Điều chỉnh kích thước theo yêu cầu */
+  width: 50px; /* Điều chỉnh kích thước theo yêu cầu */
   height: auto; /* Đảm bảo tỷ lệ khung hình được giữ nguyên */
   opacity: 0.8; /* Điều chỉnh độ mờ theo yêu cầu */
   transition: all 0.3s ease-in-out; /* Tạo hiệu ứng chuyển động mềm mại */
@@ -27,10 +27,16 @@ html, body {
 
 @keyframes rotateLightAnimation {
   0%, 100% {
-    transform: rotate(0deg); /* Góc xoay ban đầu */
+    transform: rotate(0deg) scale(1) skew(0deg) translateX(0); /* Góc xoay, phóng to, nghiêng và di chuyển ban đầu */
+  }
+  25% {
+    transform: rotate(90deg) scale(1.5) skew(20deg) translateX(20px); /* Góc xoay, phóng to, nghiêng và di chuyển ở 1/4 đoạn */
   }
   50% {
-    transform: rotate(180deg); /* Góc xoay giữa chừng */
+    transform: rotate(180deg) scale(1) skew(0deg) translateX(0); /* Góc xoay, phóng to, nghiêng và di chuyển giữa chừng */
+  }
+  75% {
+    transform: rotate(270deg) scale(1.5) skew(-20deg) translateX(-20px); /* Góc xoay, phóng to, nghiêng và di chuyển ở 3/4 đoạn */
   }
 }
 
