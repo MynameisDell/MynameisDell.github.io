@@ -73,3 +73,41 @@ Depiction: https://mynameisdell.github.io/depictions/structured/index.html
 Icon: https://mynameisdell.github.io/depictions/structured/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.structuredpatch_0.0.1_iphoneos-arm.deb
 Name: Structured Unlocked
+
+Package: com.dell.strpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2996
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.strpatch_0.0.1_iphoneos-arm.deb
+Size: 938902
+MD5sum: 3a930f002b3f49a36852308f3789656c
+SHA1: c97e9d7b1ce62d870301ccee60a5ada9ac487622
+SHA256: dda047153eb6b0e115dd2d675ff54066ce8ea008c2f4212a504706ee79493c22
+Section: Tweaks
+Description: Unlock Story Maker for Instagram
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/str/index.html
+Icon: https://mynameisdell.github.io/depictions/str/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.strpatch_0.0.1_iphoneos-arm.deb
+Name: STR Unlocked
+
+Package: com.dell.designlabpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2996
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.designlabpatch_0.0.1_iphoneos-arm.deb
+Size: 944378
+MD5sum: f1086344ce26e5f879b4ff93fe1ce621
+SHA1: 8ddbc40ceca556a81530c3bb2ffc538c85bf8b88
+SHA256: 04d9f3cbc3a76f06f4926c6de289de517b2e562982ec9c784f6abfa4f4249877
+Section: Tweaks
+Description: Unlock One-time purchase
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/designlab/index.html
+Icon: https://mynameisdell.github.io/depictions/designlab/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.designlabpatch_0.0.1_iphoneos-arm.deb
+Name: Design Lab Unlocked
