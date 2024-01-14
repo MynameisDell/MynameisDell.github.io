@@ -111,3 +111,22 @@ Depiction: https://mynameisdell.github.io/depictions/designlab/index.html
 Icon: https://mynameisdell.github.io/depictions/designlab/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.designlabpatch_0.0.1_iphoneos-arm.deb
 Name: Design Lab Unlocked
+
+Package: com.dell.qrcodegeneratorpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2980
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.qrcodegeneratorpatch_0.0.1_iphoneos-arm.deb
+Size: 940442
+MD5sum: 96b20f072f1f7ee212256453477cd7e5
+SHA1: b634f04616cf4a6f4f98a79d7ff3db3531d66811
+SHA256: f0d01f3ec071f55e54e052418c546295ce17cbf2c21748d73e1258a801f28581
+Section: Tweaks
+Description: Unlock Lifetime VIP
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/qrcodegenerator/index.html
+Icon: https://mynameisdell.github.io/depictions/qrcodegenerator/assets/icon.png
+Deb: https://mynameisdell.github.io/com.dell.qrcodegeneratorpatch_0.0.1_iphoneos-arm.deb
+Name: QR Creator Unlocked
