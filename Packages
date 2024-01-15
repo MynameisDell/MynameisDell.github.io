@@ -187,3 +187,22 @@ Depiction: https://mynameisdell.github.io/depictions/promova/index.html
 Icon: https://mynameisdell.github.io/depictions/promova/assets/icon.png
 Deb: https://mynameisdell.github.io/com.dell.promovapatch_0.0.1_iphoneos-arm.deb
 Name: Promova Unlocked
+
+Package: com.dell.ticktickpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2916
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.ticktickpatch_0.0.1_iphoneos-arm.deb
+Size: 929206
+MD5sum: f56f9a262722d8567f7691041ca4a96e
+SHA1: d424bad165fa017e240997307b125a91260835d7
+SHA256: 6b7107a8c16cb262573b93e70d99e677cca5e13cc9b17007fccba33da61cd9ad
+Section: Tweaks
+Description: Unlock Annual TickTick Premium
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/ticktick/index.html
+Icon: https://mynameisdell.github.io/depictions/ticktick/assets/icon.png
+Deb: https://mynameisdell.github.io/com.dell.ticktickpatch_0.0.1_iphoneos-arm.deb
+Name: TickTick Unlocked
