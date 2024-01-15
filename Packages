@@ -168,3 +168,22 @@ Depiction: https://mynameisdell.github.io/depictions/videoeditor/index.html
 Icon: https://mynameisdell.github.io/depictions/videoeditor/assets/icon.png
 Deb: https://mynameisdell.github.io/com.dell.videoeditorpatch_0.0.1_iphoneos-arm.deb
 Name: VideoShot Unlocked
+
+Package: com.dell.promovapatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.promovapatch_0.0.1_iphoneos-arm.deb
+Size: 932582
+MD5sum: 0485c96d51dd790b53a0057df781019d
+SHA1: 49abfcb47356f6d1f972bc942cb00a1e877a2e8d
+SHA256: 3729270319c8fcce7747fe6292225c0cf567fbabe1da0b4247061b90dad4e37f
+Section: Tweaks
+Description: Unlock Premium
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/promova/index.html
+Icon: https://mynameisdell.github.io/depictions/promova/assets/icon.png
+Deb: https://mynameisdell.github.io/com.dell.promovapatch_0.0.1_iphoneos-arm.deb
+Name: Promova Unlocked
