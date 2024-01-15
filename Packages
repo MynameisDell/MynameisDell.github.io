@@ -130,3 +130,41 @@ Depiction: https://mynameisdell.github.io/depictions/qrcodegenerator/index.html
 Icon: https://mynameisdell.github.io/depictions/qrcodegenerator/assets/icon.png
 Deb: https://mynameisdell.github.io/com.dell.qrcodegeneratorpatch_0.0.1_iphoneos-arm.deb
 Name: QR Creator Unlocked
+
+Package: com.dell.easynotespatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.easynotespatch_0.0.1_iphoneos-arm.deb
+Size: 936050
+MD5sum: 2a536132f1c3895ba314e778fe28b611
+SHA1: 54ee0ef99fcb5fdc48ad39b95e9851668636fd95
+SHA256: 369bbc455a383f482baffdab8604692bbdf8359f6acb9a564a10d7cf70a09445
+Section: Tweaks
+Description: Unlock VIP - Lifetime
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/easynotes/index.html
+Icon: https://mynameisdell.github.io/depictions/easynotes/assets/icon.png
+Deb: https://mynameisdell.github.io/com.dell.easynotespatch_0.0.1_iphoneos-arm.deb
+Name: EasyNotes Unlocked
+
+Package: com.dell.videoeditorpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2980
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.videoeditorpatch_0.0.1_iphoneos-arm.deb
+Size: 940572
+MD5sum: 1cdab062c6c104f9b1562df75d6dd251
+SHA1: 12514e5930e2e1893d6c927dff816f988ea1bcd2
+SHA256: 9017f4abdf1005aba0856e852c42a99cd111ffe4f29ada27f6ca1add76488013
+Section: Tweaks
+Description: Unlock Lifetime VIP
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/videoeditor/index.html
+Icon: https://mynameisdell.github.io/depictions/videoeditor/assets/icon.png
+Deb: https://mynameisdell.github.io/com.dell.videoeditorpatch_0.0.1_iphoneos-arm.deb
+Name: VideoShot Unlocked
