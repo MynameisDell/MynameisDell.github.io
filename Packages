@@ -206,3 +206,22 @@ Depiction: https://mynameisdell.github.io/depictions/ticktick/index.html
 Icon: https://mynameisdell.github.io/depictions/ticktick/assets/icon.png
 Deb: https://mynameisdell.github.io/com.dell.ticktickpatch_0.0.1_iphoneos-arm.deb
 Name: TickTick Unlocked
+
+Package: com.dell.mepatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.mepatch_0.0.1_iphoneos-arm.deb
+Size: 937748
+MD5sum: 969c1458b237f908790bd564a139e8d1
+SHA1: 31c96bea3a60f1c48444e1294e2458b0ed82c1b9
+SHA256: ea785e42680cfe1eaaffa5a21a80b953fc62a5a6201b9793bfc082ae0b69d1a0
+Section: Tweaks
+Description: Unlock Year Me Plus Premium
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/me/index.html
+Icon: https://mynameisdell.github.io/depictions/me/assets/icon.png
+Deb: https://mynameisdell.github.io/com.dell.mepatch_0.0.1_iphoneos-arm.deb
+Name: Me+ Unlocked
