@@ -128,7 +128,7 @@ Description: Unlock Lifetime VIP
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/qrcodegenerator/index.html
 Icon: https://mynameisdell.github.io/depictions/qrcodegenerator/assets/icon.png
-Deb: https://mynameisdell.github.io/com.dell.qrcodegeneratorpatch_0.0.1_iphoneos-arm.deb
+Deb: https://mynameisdell.github.io/debs/com.dell.qrcodegeneratorpatch_0.0.1_iphoneos-arm.deb
 Name: QR Creator Unlocked
 
 Package: com.dell.easynotespatch
@@ -147,7 +147,7 @@ Description: Unlock VIP - Lifetime
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/easynotes/index.html
 Icon: https://mynameisdell.github.io/depictions/easynotes/assets/icon.png
-Deb: https://mynameisdell.github.io/com.dell.easynotespatch_0.0.1_iphoneos-arm.deb
+Deb: https://mynameisdell.github.io/debs/com.dell.easynotespatch_0.0.1_iphoneos-arm.deb
 Name: EasyNotes Unlocked
 
 Package: com.dell.videoeditorpatch
@@ -166,7 +166,7 @@ Description: Unlock Lifetime VIP
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/videoeditor/index.html
 Icon: https://mynameisdell.github.io/depictions/videoeditor/assets/icon.png
-Deb: https://mynameisdell.github.io/com.dell.videoeditorpatch_0.0.1_iphoneos-arm.deb
+Deb: https://mynameisdell.github.io/debs/com.dell.videoeditorpatch_0.0.1_iphoneos-arm.deb
 Name: VideoShot Unlocked
 
 Package: com.dell.promovapatch
@@ -185,7 +185,7 @@ Description: Unlock Premium
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/promova/index.html
 Icon: https://mynameisdell.github.io/depictions/promova/assets/icon.png
-Deb: https://mynameisdell.github.io/com.dell.promovapatch_0.0.1_iphoneos-arm.deb
+Deb: https://mynameisdell.github.io/debs/com.dell.promovapatch_0.0.1_iphoneos-arm.deb
 Name: Promova Unlocked
 
 Package: com.dell.ticktickpatch
@@ -204,7 +204,7 @@ Description: Unlock Annual TickTick Premium
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/ticktick/index.html
 Icon: https://mynameisdell.github.io/depictions/ticktick/assets/icon.png
-Deb: https://mynameisdell.github.io/com.dell.ticktickpatch_0.0.1_iphoneos-arm.deb
+Deb: https://mynameisdell.github.io/debs/com.dell.ticktickpatch_0.0.1_iphoneos-arm.deb
 Name: TickTick Unlocked
 
 Package: com.dell.mepatch
@@ -223,7 +223,7 @@ Description: Unlock Year Me Plus Premium
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/me/index.html
 Icon: https://mynameisdell.github.io/depictions/me/assets/icon.png
-Deb: https://mynameisdell.github.io/com.dell.mepatch_0.0.1_iphoneos-arm.deb
+Deb: https://mynameisdell.github.io/debs/com.dell.mepatch_0.0.1_iphoneos-arm.deb
 Name: Me+ Unlocked
 
 Package: com.dell.locketpatch
@@ -242,5 +242,24 @@ Description: Unlock Locket Gold
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/locket/index.html
 Icon: https://mynameisdell.github.io/depictions/locket/assets/icon.png
-Deb: https://mynameisdell.github.io/com.dell.locketpatch_0.0.1_iphoneos-arm.deb
+Deb: https://mynameisdell.github.io/debs/com.dell.locketpatch_0.0.1_iphoneos-arm.deb
 Name: Locket Widget Unlocked
+
+Package: com.dell.swizzpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/rootless/com.dell.swizzpatch_0.0.1_iphoneos-arm64.deb
+Size: 931230
+MD5sum: 07281bd0774531a1e84452b0083f0fc7
+SHA1: 60f498c81281586a20fb494d851fd357741fe68b
+SHA256: ff30f12e2a906ecd96823d8969076fcb7612bb6fcb951fe016b19b4114a953e6
+Section: Tweaks Rootless
+Description: Unlock Lifetime
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/swizz/index.html
+Icon: https://mynameisdell.github.io/depictions/swizz/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/rootless/com.dell.swizzpatch_0.0.1_iphoneos-arm64.deb
+Name: SwizzAI Unlocked (Rootless)
