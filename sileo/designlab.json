@@ -1,0 +1,68 @@
+{
+    "minVersion": "0.4",
+    "tintColor": "#ff78fd",
+    "headerImage": "",
+    "class": "DepictionTabView",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "markdown": "Unlock One-time purchase",
+                    "class": "DepictionMarkdownView",
+                    "title": "markdown-description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "0.0.1",
+                    "title": "Version"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "11-01-2024",
+                    "title": "Released"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Free",
+                    "title": "Price"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Dell",
+                    "title": "Developer"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                }
+            ]
+        },
+        {
+            "tabname": "Changelog",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "0.0.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Initial release"
+                }
+            ]
+        }
+    ]
+}
