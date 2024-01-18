@@ -110,7 +110,6 @@ Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/designlab/index.html
 Icon: https://mynameisdell.github.io/depictions/designlab/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.designlabpatch_0.0.1_iphoneos-arm.deb
-Sileodepiction:  https://mynameisdell.github.io/sileo/designlab.json
 Name: Design Lab Unlocked
 
 Package: com.dell.qrcodegeneratorpatch
