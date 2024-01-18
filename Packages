@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
 Installed-Size: 420
 Depends: mobilesubstrate
-Filename: ./debs/com.dell.rootdpatch_1.0.0_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.dell.rootdpatch_1.0.0_iphoneos-arm.deb
 Size: 70538
 MD5sum: b284bd2c34d1e4683e4dbcebdc27fb05
 SHA1: 4cc35fbdd7c58fec2b5e6c617d67e2ef0821e483
@@ -14,7 +14,7 @@ Description: Unlock Rootd Lifetime Full Access
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/rootd/index.html
 Icon: https://mynameisdell.github.io/depictions/rootd/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/com.dell.rootdpatch_1.0.0_iphoneos-arm.deb
+Deb: https://mynameisdell.github.io/debs/rootfull/com.dell.rootdpatch_1.0.0_iphoneos-arm.deb
 Name: Rootd Unlocked
 
 Package: com.dell.mindkitpatch
@@ -23,7 +23,7 @@ Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
 Installed-Size: 2964
 Depends: mobilesubstrate
-Filename: ./debs/com.dell.mindkitpatch_0.0.1_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.dell.mindkitpatch_0.0.1_iphoneos-arm.deb
 Size: 936368
 MD5sum: 8ced857de58b4cdd620e4a1e387395c9
 SHA1: 6e931db1b809301d3be8fcaa08228f14033552d6
@@ -33,7 +33,7 @@ Description: Unlock Mindkit Pro Permanently
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/mindkit/index.html
 Icon: https://mynameisdell.github.io/depictions/mindkit/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/com.dell.mindkitpatch_0.0.1_iphoneos-arm.deb
+Deb: https://mynameisdell.github.io/debs/rootfull/com.dell.mindkitpatch_0.0.1_iphoneos-arm.deb
 Name: Mindkit Unlocked
 
 Package: com.dell.zoomrpatch
@@ -42,7 +42,7 @@ Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
 Installed-Size: 2964
 Depends: mobilesubstrate
-Filename: ./debs/com.dell.zoomrpatch_0.0.1_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.dell.zoomrpatch_0.0.1_iphoneos-arm.deb
 Size: 933704
 MD5sum: 00e6348f622a633d9f1450af7a108458
 SHA1: db5d23698d8aff803b99afd59586999fc0259c67
@@ -52,7 +52,7 @@ Description: Unlock Yearly Subscription
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/nerolens/index.html
 Icon: https://mynameisdell.github.io/depictions/nerolens/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/com.dell.zoomrpatch_0.0.1_iphoneos-arm.deb
+Deb: https://mynameisdell.github.io/debs/rootfull/com.dell.zoomrpatch_0.0.1_iphoneos-arm.deb
 Name: Nero Lens Unlocked
 
 Package: com.dell.structuredpatch
@@ -61,7 +61,7 @@ Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
 Installed-Size: 2964
 Depends: mobilesubstrate
-Filename: ./debs/com.dell.structuredpatch_0.0.1_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.dell.structuredpatch_0.0.1_iphoneos-arm.deb
 Size: 931564
 MD5sum: 813c18b9266a39210f387d015bd9404b
 SHA1: b19c9e20120f0b24c0d50408de4119d4f3c92b4e
@@ -71,7 +71,7 @@ Description: Unlock Structured Pro (Lifetime)
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/structured/index.html
 Icon: https://mynameisdell.github.io/depictions/structured/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/com.dell.structuredpatch_0.0.1_iphoneos-arm.deb
+Deb: https://mynameisdell.github.io/debs/rootfull/com.dell.structuredpatch_0.0.1_iphoneos-arm.deb
 Name: Structured Unlocked
 
 Package: com.dell.strpatch
@@ -80,7 +80,7 @@ Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
 Installed-Size: 2996
 Depends: mobilesubstrate
-Filename: ./debs/com.dell.strpatch_0.0.1_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.dell.strpatch_0.0.1_iphoneos-arm.deb
 Size: 938902
 MD5sum: 3a930f002b3f49a36852308f3789656c
 SHA1: c97e9d7b1ce62d870301ccee60a5ada9ac487622
@@ -90,7 +90,7 @@ Description: Unlock Story Maker for Instagram
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/str/index.html
 Icon: https://mynameisdell.github.io/depictions/str/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/com.dell.strpatch_0.0.1_iphoneos-arm.deb
+Deb: https://mynameisdell.github.io/debs/rootfull/com.dell.strpatch_0.0.1_iphoneos-arm.deb
 Name: STR Unlocked
 
 Package: com.dell.designlabpatch
@@ -99,7 +99,7 @@ Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
 Installed-Size: 2996
 Depends: mobilesubstrate
-Filename: ./debs/com.dell.designlabpatch_0.0.1_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.dell.designlabpatch_0.0.1_iphoneos-arm.deb
 Size: 944378
 MD5sum: f1086344ce26e5f879b4ff93fe1ce621
 SHA1: 8ddbc40ceca556a81530c3bb2ffc538c85bf8b88
@@ -109,7 +109,7 @@ Description: Unlock One-time purchase
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/designlab/index.html
 Icon: https://mynameisdell.github.io/depictions/designlab/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/com.dell.designlabpatch_0.0.1_iphoneos-arm.deb
+Deb: https://mynameisdell.github.io/debs/rootfull/com.dell.designlabpatch_0.0.1_iphoneos-arm.deb
 Name: Design Lab Unlocked
 
 Package: com.dell.qrcodegeneratorpatch
@@ -118,7 +118,7 @@ Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
 Installed-Size: 2980
 Depends: mobilesubstrate
-Filename: ./debs/com.dell.qrcodegeneratorpatch_0.0.1_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.dell.qrcodegeneratorpatch_0.0.1_iphoneos-arm.deb
 Size: 940442
 MD5sum: 96b20f072f1f7ee212256453477cd7e5
 SHA1: b634f04616cf4a6f4f98a79d7ff3db3531d66811
@@ -128,7 +128,7 @@ Description: Unlock Lifetime VIP
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/qrcodegenerator/index.html
 Icon: https://mynameisdell.github.io/depictions/qrcodegenerator/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/com.dell.qrcodegeneratorpatch_0.0.1_iphoneos-arm.deb
+Deb: https://mynameisdell.github.io/debs/rootfull/com.dell.qrcodegeneratorpatch_0.0.1_iphoneos-arm.deb
 Name: QR Creator Unlocked
 
 Package: com.dell.easynotespatch
@@ -137,7 +137,7 @@ Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
 Installed-Size: 2964
 Depends: mobilesubstrate
-Filename: ./debs/com.dell.easynotespatch_0.0.1_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.dell.easynotespatch_0.0.1_iphoneos-arm.deb
 Size: 936050
 MD5sum: 2a536132f1c3895ba314e778fe28b611
 SHA1: 54ee0ef99fcb5fdc48ad39b95e9851668636fd95
@@ -147,7 +147,7 @@ Description: Unlock VIP - Lifetime
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/easynotes/index.html
 Icon: https://mynameisdell.github.io/depictions/easynotes/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/com.dell.easynotespatch_0.0.1_iphoneos-arm.deb
+Deb: https://mynameisdell.github.io/debs/rootfull/com.dell.easynotespatch_0.0.1_iphoneos-arm.deb
 Name: EasyNotes Unlocked
 
 Package: com.dell.videoeditorpatch
@@ -156,7 +156,7 @@ Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
 Installed-Size: 2980
 Depends: mobilesubstrate
-Filename: ./debs/com.dell.videoeditorpatch_0.0.1_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.dell.videoeditorpatch_0.0.1_iphoneos-arm.deb
 Size: 940572
 MD5sum: 1cdab062c6c104f9b1562df75d6dd251
 SHA1: 12514e5930e2e1893d6c927dff816f988ea1bcd2
@@ -166,7 +166,7 @@ Description: Unlock Lifetime VIP
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/videoeditor/index.html
 Icon: https://mynameisdell.github.io/depictions/videoeditor/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/com.dell.videoeditorpatch_0.0.1_iphoneos-arm.deb
+Deb: https://mynameisdell.github.io/debs/rootfull/com.dell.videoeditorpatch_0.0.1_iphoneos-arm.deb
 Name: VideoShot Unlocked
 
 Package: com.dell.promovapatch
@@ -175,7 +175,7 @@ Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
 Installed-Size: 2964
 Depends: mobilesubstrate
-Filename: ./debs/com.dell.promovapatch_0.0.1_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.dell.promovapatch_0.0.1_iphoneos-arm.deb
 Size: 932582
 MD5sum: 0485c96d51dd790b53a0057df781019d
 SHA1: 49abfcb47356f6d1f972bc942cb00a1e877a2e8d
@@ -185,7 +185,7 @@ Description: Unlock Premium
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/promova/index.html
 Icon: https://mynameisdell.github.io/depictions/promova/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/com.dell.promovapatch_0.0.1_iphoneos-arm.deb
+Deb: https://mynameisdell.github.io/debs/rootfull/com.dell.promovapatch_0.0.1_iphoneos-arm.deb
 Name: Promova Unlocked
 
 Package: com.dell.ticktickpatch
@@ -194,7 +194,7 @@ Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
 Installed-Size: 2916
 Depends: mobilesubstrate
-Filename: ./debs/com.dell.ticktickpatch_0.0.1_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.dell.ticktickpatch_0.0.1_iphoneos-arm.deb
 Size: 929206
 MD5sum: f56f9a262722d8567f7691041ca4a96e
 SHA1: d424bad165fa017e240997307b125a91260835d7
@@ -204,7 +204,7 @@ Description: Unlock Annual TickTick Premium
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/ticktick/index.html
 Icon: https://mynameisdell.github.io/depictions/ticktick/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/com.dell.ticktickpatch_0.0.1_iphoneos-arm.deb
+Deb: https://mynameisdell.github.io/debs/rootfull/com.dell.ticktickpatch_0.0.1_iphoneos-arm.deb
 Name: TickTick Unlocked
 
 Package: com.dell.mepatch
@@ -213,7 +213,7 @@ Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
 Installed-Size: 2964
 Depends: mobilesubstrate
-Filename: ./debs/com.dell.mepatch_0.0.1_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.dell.mepatch_0.0.1_iphoneos-arm.deb
 Size: 937748
 MD5sum: 969c1458b237f908790bd564a139e8d1
 SHA1: 31c96bea3a60f1c48444e1294e2458b0ed82c1b9
@@ -223,7 +223,7 @@ Description: Unlock Year Me Plus Premium
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/me/index.html
 Icon: https://mynameisdell.github.io/depictions/me/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/com.dell.mepatch_0.0.1_iphoneos-arm.deb
+Deb: https://mynameisdell.github.io/debs/rootfull/com.dell.mepatch_0.0.1_iphoneos-arm.deb
 Name: Me+ Unlocked
 
 Package: com.dell.locketpatch
@@ -232,7 +232,7 @@ Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
 Installed-Size: 2948
 Depends: mobilesubstrate
-Filename: ./debs/com.dell.locketpatch_0.0.1_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.dell.locketpatch_0.0.1_iphoneos-arm.deb
 Size: 931156
 MD5sum: 735869b602541d6c03df25d572213c16
 SHA1: 21530be0c18f77cbd7e695cde8aa0f73dfab9f3c
@@ -242,7 +242,7 @@ Description: Unlock Locket Gold
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/locket/index.html
 Icon: https://mynameisdell.github.io/depictions/locket/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/com.dell.locketpatch_0.0.1_iphoneos-arm.deb
+Deb: https://mynameisdell.github.io/debs/rootfull/com.dell.locketpatch_0.0.1_iphoneos-arm.deb
 Name: Locket Widget Unlocked
 
 Package: com.dell.swizzpatch
