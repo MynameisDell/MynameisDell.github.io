@@ -263,22 +263,3 @@ Depiction: https://mynameisdell.github.io/depictions/swizz/rootless/index.html
 Icon: https://mynameisdell.github.io/depictions/swizz/rootless/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/rootless/com.dell.swizzpatch_0.0.1_iphoneos-arm64.deb
 Name: SwizzAI Unlocked (Rootless)
-
-Package: com.dell.swizzpatch
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: Dell <dvq273665536@gmail.com>
-Installed-Size: 2948
-Depends: mobilesubstrate
-Filename: ./debs/roothide/com.dell.swizzpatch_0.0.1_iphoneos-arm64e.deb
-Size: 931430
-MD5sum: 772e0b173484e918539be8934bf4d1a6
-SHA1: 4894abc08ebb8b27efbb9eac0ddef9d26d7aa660
-SHA256: 193fc03f2066b22420b7fb01517fba90fc7b85717941b306f08dbd886b91b7b2
-Section: Tweaks Roothide
-Description: Unlock Lifetime
-Author: Dell <dvq273665536@gmail.com>
-Depiction: https://mynameisdell.github.io/depictions/swizz/roothide/index.html
-Icon: https://mynameisdell.github.io/depictions/swizz/roothide/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/roothide/com.dell.swizzpatch_0.0.1_iphoneos-arm64e.deb
-Name: SwizzAI Unlocked (Roothide)
