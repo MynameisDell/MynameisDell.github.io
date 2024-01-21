@@ -247,7 +247,7 @@ Name: Locket Widget Unlocked
 
 Package: com.dell.swizzpatch
 Version: 0.0.1
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: Dell <dvq273665536@gmail.com>
 Installed-Size: 2948
 Depends: mobilesubstrate
@@ -263,3 +263,41 @@ Depiction: https://mynameisdell.github.io/depictions/swizz/rootless/index.html
 Icon: https://mynameisdell.github.io/depictions/swizz/rootless/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/rootless/com.dell.swizzpatch_0.0.1_iphoneos-arm64.deb
 Name: SwizzAI Unlocked (Rootless)
+
+Package: com.dell.retouchpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3028
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/com.dell.retouchpatch_0.0.1_iphoneos-arm.deb
+Size: 950960
+MD5sum: 930a0283e15840f14ca5d59b33d1ba30
+SHA1: e87372d31f59fe232a5ac3cfd14a76843dced952
+SHA256: 72b64ccacf57a45414326ec7c5f0c32da05f200452178be47f8a2d840dec112c
+Section: Tweaks
+Description: Unlock Lifetime Subs
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/retouch/rootfull/index.html
+Icon: https://mynameisdell.github.io/depictions/retouch/rootfull/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/rootfull/com.dell.rootdpatch_1.0.0_iphoneos-arm.deb
+Name: Retouch Unlocked
+
+Package: com.dell.retouchpatch
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3028
+Depends: mobilesubstrate
+Filename: ./debs/rootless/com.dell.retouchpatch_0.0.1_iphoneos-arm64.deb
+Size: 950960
+MD5sum: 5a72ce702db98ba604ac85e948cef4ed
+SHA1: 5c822dd687dfc9fd87f08c2c01b8a93f10b72a07
+SHA256: 173fd3ef619ea6e0c0fb570a2da2622999819e74af7467caa9c410dab0973947
+Section: Tweaks Rootless
+Description: Unlock Lifetime Subs
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/retouch/rootless/index.html
+Icon: https://mynameisdell.github.io/depictions/retouch/rootless/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/rootless/com.dell.rootdpatch_1.0.0_iphoneos-arm64.deb
+Name: Retouch Unlocked(Rootless)
