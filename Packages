@@ -259,7 +259,26 @@ SHA256: 72b64ccacf57a45414326ec7c5f0c32da05f200452178be47f8a2d840dec112c
 Section: Tweaks
 Description: Unlock Lifetime Subs
 Author: Dell <dvq273665536@gmail.com>
-Depiction: https://mynameisdell.github.io/depictions/rootfull/index.html
+Depiction: https://mynameisdell.github.io/depictions/retouch/index.html
 Icon: https://mynameisdell.github.io/depictions/retouch/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.rootdpatch_1.0.0_iphoneos-arm.deb
 Name: Retouch Unlocked
+
+Package: com.dell.tingleepatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2980
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.tingleepatch_0.0.1_iphoneos-arm.deb
+Size: 941240
+MD5sum: 119edda1e5f1b6b05ead89574812953f
+SHA1: d2faa8286c93f1cb949c9d8e81cfea2f1afa81b8
+SHA256: 146bda4eb385737f4adf51af986f321c6ce4866d49b064b9222d9e17051c5d42
+Section: Tweaks
+Description: Unlock Forever
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/tinglee/index.html
+Icon: https://mynameisdell.github.io/depictions/tinglee/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.tingleepatch_0.0.1_iphoneos-arm.deb
+Name: Tinglee Unlocked
