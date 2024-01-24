@@ -320,3 +320,22 @@ Depiction: https://mynameisdell.github.io/depictions/waterminder/index.html
 Icon: https://mynameisdell.github.io/depictions/waterminder/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.waterminderpatch_0.0.1_iphoneos-arm.deb
 Name: WaterMinder® Unlocked
+
+Package: com.dell.watchfacespatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3028
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.watchfacespatch_0.0.1_iphoneos-arm.deb
+Size: 950248
+MD5sum: b66258bb40e6fa88e2ba8ebc754c8ed6
+SHA1: 55dbb4cdf0946ad803fbcdbb8c6d6ab39bc9c0bb
+SHA256: 0998d638a07e5f88142c3028f02a7d8b1670f82548122a56ba99b46efbdc52d2
+Section: Tweaks
+Description: Unlock Faces Lifetime
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/watchfaces/index.html
+Icon: https://mynameisdell.github.io/depictions/watchfaces/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.watchfacespatch_0.0.1_iphoneos-arm.deb
+Name: Watch Faces Unlocked
