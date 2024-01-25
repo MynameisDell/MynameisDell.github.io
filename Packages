@@ -339,3 +339,41 @@ Depiction: https://mynameisdell.github.io/depictions/watchfaces/index.html
 Icon: https://mynameisdell.github.io/depictions/watchfaces/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.watchfacespatch_0.0.1_iphoneos-arm.deb
 Name: Watch Faces Unlocked
+
+Package: com.dell.volumeboosterpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3028
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.volumeboosterpatch_0.0.1_iphoneos-arm.deb
+Size: 950412
+MD5sum: 0b14d05d55c325f97cc440fdb1b065ab
+SHA1: f111803c0cecaa229a109c1fbd31ee4abb50d6a0
+SHA256: 3e186dd224096dcedcd090e392391c338882d148293b51b136ff36f1f49a011f
+Section: Tweaks
+Description: Unlock Lifetime Access
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/volumebooster/index.html
+Icon: https://mynameisdell.github.io/depictions/volumebooster/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.volumeboosterpatch_0.0.1_iphoneos-arm.deb
+Name: Volume Booster Unlocked
+
+Package: com.dell.wifianalyzerpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3028
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.wifianalyzerpatch_0.0.1_iphoneos-arm.deb
+Size: 950182
+MD5sum: 279d5f93e7aabc5fd0b99616b14bd4e6
+SHA1: 4ca669ddfca118b77cf7eefa65be2c455c3dc996
+SHA256: 0d698736468584392aae675e08c26d306eb92fb25bf6176cbf21fc708d7d6501
+Section: Tweaks
+Description: Unlock Lifetime Premium
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/wifianalyzer/index.html
+Icon: https://mynameisdell.github.io/depictions/wifianalyzer/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.wifianalyzerpatch_0.0.1_iphoneos-arm.deb
+Name: Wifi Analyzer Unlocked
