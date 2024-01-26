@@ -377,3 +377,22 @@ Depiction: https://mynameisdell.github.io/depictions/wifianalyzer/index.html
 Icon: https://mynameisdell.github.io/depictions/wifianalyzer/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.wifianalyzerpatch_0.0.1_iphoneos-arm.deb
 Name: Wifi Analyzer Unlocked
+
+Package: com.dell.alohapatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.alohapatch_0.0.1_iphoneos-arm.deb
+Size: 932856
+MD5sum: 175a739d4bd6e00fbac075ff4acdc893
+SHA1: 1977030eca6f332efb08a8c530a41932ed2a9a4f
+SHA256: 96e85af371808f605ad917a750e068665801700c034c1b2c1ba362c3580a618f
+Section: Tweaks
+Description: Unlock Premium Yearly
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/aloha/index.html
+Icon: https://mynameisdell.github.io/depictions/aloha/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.alohapatch_0.0.1_iphoneos-arm.deb
+Name: Aloha Unlocked
