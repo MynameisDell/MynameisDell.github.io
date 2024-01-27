@@ -396,3 +396,22 @@ Depiction: https://mynameisdell.github.io/depictions/aloha/index.html
 Icon: https://mynameisdell.github.io/depictions/aloha/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.alohapatch_0.0.1_iphoneos-arm.deb
 Name: Aloha Unlocked
+
+Package: com.dell.femometerpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2932
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.femometerpatch_0.0.1_iphoneos-arm.deb
+Size: 932900
+MD5sum: aa907244166c468fec195332eb342176
+SHA1: 46cdb4ade55d58bc6365c4a465aa5f673b45bc22
+SHA256: 8a189a4961b317bdb2218ce85159a0e8800542945e09c817158569aa52d6137a
+Section: Tweaks
+Description: Unlock Femometer Prime
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/femometer/index.html
+Icon: https://mynameisdell.github.io/depictions/femometer/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.femometerpatch_0.0.1_iphoneos-arm.deb
+Name: Femometer Unlocked
