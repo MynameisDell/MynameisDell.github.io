@@ -434,3 +434,22 @@ Depiction: https://mynameisdell.github.io/depictions/fastin/index.html
 Icon: https://mynameisdell.github.io/depictions/fastin/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.fastingpatch_0.0.1_iphoneos-arm.deb
 Name: Fastin Unlocked
+
+Package: com.dell.grammarlypatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.grammarlypatch_0.0.1_iphoneos-arm.deb
+Size: 932506
+MD5sum: d23aabd6662cdd9c2a581bcaffbba648
+SHA1: 24047aeb814ce3f9bb4a0f5eb53ddcaf0f56a60f
+SHA256: 6b0a581211e687eb76484ae7d577d00a4de03231cd7d84cdea04bb38cb73dd2b
+Section: Tweaks
+Description: Unlock Annual Plan
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/grammarly/index.html
+Icon: https://mynameisdell.github.io/depictions/grammarly/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.grammarlypatch_0.0.1_iphoneos-arm.deb
+Name: Grammarly Unlocked
