@@ -472,3 +472,22 @@ Depiction: https://mynameisdell.github.io/depictions/adguard/index.html
 Icon: https://mynameisdell.github.io/depictions/adguard/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.adguardpatch_0.0.1_iphoneos-arm.deb
 Name: AdGuard Unlocked
+
+Package: com.dell.myfitnesspalpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2932
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.myfitnesspalpatch_0.0.1_iphoneos-arm.deb
+Size: 929830
+MD5sum: e29ef995db772066013e7bb140b817b2
+SHA1: 3c21f6f72e4a959071d01b9ae445ec71af79fa00
+SHA256: 59358af51042acf0ab2ed866b8f405e79a0e1bbdd5a0f762a56db07c76b85a5e
+Section: Tweaks
+Description: Unlock Yearly Premium
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/myfitnesspal/index.html
+Icon: https://mynameisdell.github.io/depictions/myfitnesspal/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.myfitnesspalpatch_0.0.1_iphoneos-arm.deb
+Name: MyFitnessPal Unlocked
