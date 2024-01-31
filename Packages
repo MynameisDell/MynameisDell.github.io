@@ -491,3 +491,22 @@ Depiction: https://mynameisdell.github.io/depictions/myfitnesspal/index.html
 Icon: https://mynameisdell.github.io/depictions/myfitnesspal/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.myfitnesspalpatch_0.0.1_iphoneos-arm.deb
 Name: MyFitnessPal Unlocked
+
+Package: com.dell.smallpdfpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.smallpdfpatch_0.0.1_iphoneos-arm.deb
+Size: 935434
+MD5sum: e7a7527160bc9e9f030ad7a014e6c776
+SHA1: 4581414401c7c39e948c5def9c1149edfaa59e44
+SHA256: 984d16c87f6f8bf55527cd443c3601bb46dcbc645a5892b73bec5087f7cb708d
+Section: Tweaks
+Description: Unlock Plan
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/smallpdf/index.html
+Icon: https://mynameisdell.github.io/depictions/smallpdf/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.smallpdfpatch_0.0.1_iphoneos-arm.deb
+Name: Smallpdf Unlocked
