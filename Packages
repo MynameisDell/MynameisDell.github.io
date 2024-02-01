@@ -529,3 +529,22 @@ Depiction: https://mynameisdell.github.io/depictions/parallax/index.html
 Icon: https://mynameisdell.github.io/depictions/parallax/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.parallaxpatch_0.0.1_iphoneos-arm.deb
 Name: Parallax Unlocked
+
+Package: com.dell.kikakeyboardpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.kikakeyboardpatch_0.0.1_iphoneos-arm.deb
+Size: 934446
+MD5sum: ad7b297125f1f0b21f2adc81f7c6535f
+SHA1: a8d9f30bf8222ae78d737f12c7a9606fd2e716c4
+SHA256: ad528ff8e77a975f1d1b7bc06869d71661946ca4434f9b995ff55f35cea8c5f3
+Section: Tweaks
+Description: Unlock Yearly Premium
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/kikakeyboard/index.html
+Icon: https://mynameisdell.github.io/depictions/kikakeyboard/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.kikakeyboardpatch_0.0.1_iphoneos-arm.deb
+Name: Kika Keyboard Unlocked
