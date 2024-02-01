@@ -510,3 +510,22 @@ Depiction: https://mynameisdell.github.io/depictions/smallpdf/index.html
 Icon: https://mynameisdell.github.io/depictions/smallpdf/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.smallpdfpatch_0.0.1_iphoneos-arm.deb
 Name: Smallpdf Unlocked
+
+Package: com.dell.parallaxpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.parallaxpatch_0.0.1_iphoneos-arm.deb
+Size: 932978
+MD5sum: 4e381ef73c95285101a7f890a54f68b4
+SHA1: 84f375483edf47704d49b50e9b1fe35e9000b737
+SHA256: 5303db781198fb31d466174cbaca1bd3c913367e3d0fcda34de8bde1d1b20314
+Section: Tweaks
+Description: Unlock Lifetime
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/parallax/index.html
+Icon: https://mynameisdell.github.io/depictions/parallax/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.parallaxpatch_0.0.1_iphoneos-arm.deb
+Name: Parallax Unlocked
