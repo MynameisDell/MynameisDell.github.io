@@ -548,3 +548,22 @@ Depiction: https://mynameisdell.github.io/depictions/kikakeyboard/index.html
 Icon: https://mynameisdell.github.io/depictions/kikakeyboard/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.kikakeyboardpatch_0.0.1_iphoneos-arm.deb
 Name: Kika Keyboard Unlocked
+
+Package: com.dell.noteplanpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.noteplanpatch_0.0.1_iphoneos-arm.deb
+Size: 932838
+MD5sum: 3ab687339528b3a81a2a5d0408f37f34
+SHA1: 2b755f571bdef5617592ce15f53971d0223038d6
+SHA256: 56ac4f0d2c7e956590c23236de9e6999eb5869170f0fafeb09528be5c7b8c272
+Section: Tweaks
+Description: Unlock Business Class
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/noteplan/index.html
+Icon: https://mynameisdell.github.io/depictions/noteplan/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.noteplanpatch_0.0.1_iphoneos-arm.deb
+Name: NotePlan Unlocked
