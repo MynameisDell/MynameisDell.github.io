@@ -567,3 +567,22 @@ Depiction: https://mynameisdell.github.io/depictions/noteplan/index.html
 Icon: https://mynameisdell.github.io/depictions/noteplan/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.noteplanpatch_0.0.1_iphoneos-arm.deb
 Name: NotePlan Unlocked
+
+Package: com.dell.pikpakpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.pikpakpatch_0.0.1_iphoneos-arm.deb
+Size: 934546
+MD5sum: 537efafc9ce8b8b34848be848cc5ba0b
+SHA1: 8a5c88f24e100d50f04c47a5bb546c5b0d02ce82
+SHA256: ddfcf62304edba95a8f2bea3a045227b7aa836d2325bc195d42d229dae3fc3a9
+Section: Tweaks
+Description: Unlock Global Premium Yearly
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/pikpak/index.html
+Icon: https://mynameisdell.github.io/depictions/pikpak/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.pikpakpatch_0.0.1_iphoneos-arm.deb
+Name: PikPak Unlocked
