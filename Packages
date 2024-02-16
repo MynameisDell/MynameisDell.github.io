@@ -605,3 +605,22 @@ Depiction: https://mynameisdell.github.io/depictions/mgicai/index.html
 Icon: https://mynameisdell.github.io/depictions/mgicai/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.mgicaipatch_0.0.1_iphoneos-arm.deb
 Name: Mgic AI Unlocked
+
+Package: com.dell.prismapatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2932
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.prismapatch_0.0.1_iphoneos-arm.deb
+Size: 932714
+MD5sum: 6282cf941c146ccf6f0890d5c549801d
+SHA1: 6b634bebd8a3f79ec4455c651b093ae5448a3703
+SHA256: bb71837403c7878c2c0f9c725745e525bd17c77c1f694d4c711c9976076c7289
+Section: Tweaks
+Description: Unlock Prisma Premium – 1 Year
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/prisma/index.html
+Icon: https://mynameisdell.github.io/depictions/prisma/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.prismapatch_0.0.1_iphoneos-arm.deb
+Name: Prisma Unlocked
