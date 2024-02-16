@@ -586,3 +586,22 @@ Depiction: https://mynameisdell.github.io/depictions/pikpak/index.html
 Icon: https://mynameisdell.github.io/depictions/pikpak/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.pikpakpatch_0.0.1_iphoneos-arm.deb
 Name: PikPak Unlocked
+
+Package: com.dell.mgicaipatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2980
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.mgicaipatch_0.0.1_iphoneos-arm.deb
+Size: 941922
+MD5sum: 867effc82591070fb09388b94560bfc3
+SHA1: 7414c471a61e17fcf2a7503d82c985fb45b98ce3
+SHA256: 0f7d2e032b28cd59c39d9eab55495d92a3b7764bae9511e8fbd8edec571fab70
+Section: Tweaks
+Description: Unlock Mgic Pro Yearly
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/mgicai/index.html
+Icon: https://mynameisdell.github.io/depictions/mgicai/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.mgicaipatch_0.0.1_iphoneos-arm.deb
+Name: Mgic AI Unlocked
