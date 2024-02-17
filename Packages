@@ -624,3 +624,22 @@ Depiction: https://mynameisdell.github.io/depictions/prisma/index.html
 Icon: https://mynameisdell.github.io/depictions/prisma/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.prismapatch_0.0.1_iphoneos-arm.deb
 Name: Prisma Unlocked
+
+Package: com.dell.photogridpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2916
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.photogridpatch_0.0.1_iphoneos-arm.deb
+Size: 930298
+MD5sum: 15dde82beb5a2f2dddceecfce47b2291
+SHA1: c85ab799205e8ef07c22fd63831da17b025cd90e
+SHA256: b21fbf05c58caf3824c3b5921a43c3c3a01109f27b6cafacc099397829e1c70c
+Section: Tweaks
+Description: Unlock PhotoGrid Premium
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/photogrid/index.html
+Icon: https://mynameisdell.github.io/depictions/photogrid/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.photogridpatch_0.0.1_iphoneos-arm.deb
+Name: PhotoGrid Unlocked
