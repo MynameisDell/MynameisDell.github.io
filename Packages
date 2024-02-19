@@ -662,3 +662,22 @@ Depiction: https://mynameisdell.github.io/depictions/facelab/index.html
 Icon: https://mynameisdell.github.io/depictions/facelab/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.facelabpatch_0.0.1_iphoneos-arm.deb
 Name: FaceLab Unlocked
+
+Package: com.dell.cosmopatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.cosmopatch_0.0.1_iphoneos-arm.deb
+Size: 933258
+MD5sum: ceafc8c5c00ec4c9719f288b13e93268
+SHA1: 8a502bb09262232be132943d97c6c6cff204892c
+SHA256: 52b5d5bc72c29a1e576e5a5cbd534715784094c9b1e16059648118c3559ecaeb
+Section: Tweaks
+Description: Unlock Face retouch & Makeup filters
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/cosmo/index.html
+Icon: https://mynameisdell.github.io/depictions/cosmo/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.cosmopatch_0.0.1_iphoneos-arm.deb
+Name: Cosmo Unlocked
