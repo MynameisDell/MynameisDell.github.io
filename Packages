@@ -643,3 +643,22 @@ Depiction: https://mynameisdell.github.io/depictions/photogrid/index.html
 Icon: https://mynameisdell.github.io/depictions/photogrid/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.photogridpatch_0.0.1_iphoneos-arm.deb
 Name: PhotoGrid Unlocked
+
+Package: com.dell.facelabpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2932
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.facelabpatch_0.0.1_iphoneos-arm.deb
+Size: 933258
+MD5sum: 30b18bf18d60aa2dc3b8b27b046987d6
+SHA1: f2b01b5fbbc5108d638a65ecfb0185fcc7c9d1b2
+SHA256: 86e4de0d1566417874227a31cb9f519a94ef4e898d0170328f3276c9d5455833
+Section: Tweaks
+Description: Unlock Premium
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/facelab/index.html
+Icon: https://mynameisdell.github.io/depictions/facelab/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.facelabpatch_0.0.1_iphoneos-arm.deb
+Name: FaceLab Unlocked
