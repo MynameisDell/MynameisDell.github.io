@@ -681,3 +681,22 @@ Depiction: https://mynameisdell.github.io/depictions/cosmo/index.html
 Icon: https://mynameisdell.github.io/depictions/cosmo/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.cosmopatch_0.0.1_iphoneos-arm.deb
 Name: Cosmo Unlocked
+
+Package: com.dell.gramaipatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.gramaipatch_0.0.1_iphoneos-arm.deb
+Size: 932184
+MD5sum: 6728d25b2e25fb4859e348ff432fcc46
+SHA1: 971ca4501d1d41b1294ba99f376f867985cf89a5
+SHA256: c11cc5d53dc04f6420ddf1ae2a63d3656e0f2864c00737fdacff5f9a7df2a84a
+Section: Tweaks
+Description: Unlock Annual Subscriptio
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/gramai/index.html
+Icon: https://mynameisdell.github.io/depictions/gramai/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.gramaipatch_0.0.1_iphoneos-arm.deb
+Name: Gram AI Unlocked
