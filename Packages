@@ -700,3 +700,22 @@ Depiction: https://mynameisdell.github.io/depictions/gramai/index.html
 Icon: https://mynameisdell.github.io/depictions/gramai/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.gramaipatch_0.0.1_iphoneos-arm.deb
 Name: Gram AI Unlocked
+
+Package: com.dell.snapeditpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2980
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.snapeditpatch_0.0.1_iphoneos-arm.deb
+Size: 941464
+MD5sum: 0b14d05d55c325f97cc440fdb1b065ab
+SHA1: f111803c0cecaa229a109c1fbd31ee4abb50d6a0
+SHA256: 3e186dd224096dcedcd090e392391c338882d148293b51b136ff36f1f49a011f
+Section: Tweaks
+Description: Unlock Lifetime
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/snapedit/index.html
+Icon: https://mynameisdell.github.io/depictions/snapedit/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.snapeditpatch_0.0.1_iphoneos-arm.deb
+Name: SnapEdit Unlocked
