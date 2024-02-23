@@ -719,3 +719,22 @@ Depiction: https://mynameisdell.github.io/depictions/snapedit/index.html
 Icon: https://mynameisdell.github.io/depictions/snapedit/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.snapeditpatch_0.0.1_iphoneos-arm.deb
 Name: SnapEdit Unlocked
+
+Package: com.dell.magictiles3patch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.magictiles3patch_0.0.1_iphoneos-arm.deb
+Size: 932808
+MD5sum: a8f1195b8873a2df88968641f82e9738
+SHA1: c6b7afcbff7c0c99120bfe3ea1590a8f6ac15774
+SHA256: 03c00c17969e5a61b3e246b001b00f8c85bd97094aaf9e99f2e2cb2ad4ea29a3
+Section: Tweaks
+Description: Unlock VIP subscription 1 Year
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/magictiles3/index.html
+Icon: https://mynameisdell.github.io/depictions/magictiles3/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.magictiles3patch_0.0.1_iphoneos-arm.deb
+Name:  Magic Tiles 3 Unlocked
