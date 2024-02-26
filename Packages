@@ -738,3 +738,22 @@ Depiction: https://mynameisdell.github.io/depictions/magictiles3/index.html
 Icon: https://mynameisdell.github.io/depictions/magictiles3/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.magictiles3patch_0.0.1_iphoneos-arm.deb
 Name:  Magic Tiles 3 Unlocked
+
+Package: com.dell.portalpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2916
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.portalpatch_0.0.1_iphoneos-arm.deb
+Size: 929560
+MD5sum: aef445559133c5d3eb002605bd88ecaf
+SHA1: 4481c0ccd85554336ea0a26a48535847402ba6d8
+SHA256: 50aecd67191556c76d7a490c0e1203ee4aa2224bb4bbb8a255f8505a78a566d7
+Section: Tweaks
+Description: Unlock Portal Membership (Lifetime)
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/portal/index.html
+Icon: https://mynameisdell.github.io/depictions/portal/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.portalpatch_0.0.1_iphoneos-arm.deb
+Name: Portal Unlocked
