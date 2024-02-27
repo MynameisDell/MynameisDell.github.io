@@ -757,3 +757,22 @@ Depiction: https://mynameisdell.github.io/depictions/portal/index.html
 Icon: https://mynameisdell.github.io/depictions/portal/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.portalpatch_0.0.1_iphoneos-arm.deb
 Name: Portal Unlocked
+
+Package: com.dell.rnifilmspatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2932
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.rnifilmspatch_0.0.1_iphoneos-arm.deb
+Size: 933572
+MD5sum: fb25931cb07f07da6e1ce96ccdaff400
+SHA1: 16d751cd761964ffb23d1b2df242347b17993ed4
+SHA256: e46ed3deef78f2ac167865ff52b4f7d672de265b977d2682b18fb7d904b0fd2d
+Section: Tweaks
+Description: Unlock Yearly RNI Pro Subscription
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/rni/index.html
+Icon: https://mynameisdell.github.io/depictions/rni/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.rnifilmspatch_0.0.1_iphoneos-arm.deb
+Name:  RNI Films Unlocked
