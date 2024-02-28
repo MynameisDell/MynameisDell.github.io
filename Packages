@@ -775,4 +775,23 @@ Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/rni/index.html
 Icon: https://mynameisdell.github.io/depictions/rni/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.rnifilmspatch_0.0.1_iphoneos-arm.deb
-Name:  RNI Films Unlocked
+Name: RNI Films Unlocked
+
+Package: com.dell.simplyguitarpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.simplyguitarpatch_0.0.1_iphoneos-arm.deb
+Size: 933572
+MD5sum: c2ac74a8e2f5ef3dba02400fcc202511
+SHA1: c0715a73ce822093b826197183604ff08e05cf3d
+SHA256: ddd8fe1bcf445b5443c5fbf42b8fb44645e92b87819c32504234e3fdbb94c028
+Section: Tweaks
+Description: Unlock Simply Guitar Premium Full Access
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/simplyguitar/index.html
+Icon: https://mynameisdell.github.io/depictions/simplyguitar/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.simplyguitarpatch_0.0.1_iphoneos-arm.deb
+Name: Simply Guitar Unlocked
