@@ -803,7 +803,7 @@ Maintainer: Dell <dvq273665536@gmail.com>
 Installed-Size: 2932
 Depends: mobilesubstrate
 Filename: ./debs/com.dell.busuupatch_0.0.1_iphoneos-arm.deb
-Size: 933572
+Size: 933720
 MD5sum: e0ee18f85f5ad864b792e43f0ccc02e2
 SHA1: 3aa1b3972cfe04842dfbefb6fc3867083e5c332f
 SHA256: 40c31109c07f7f4d656bb200f1ea5cd2efdd68f83293dae3ad1a8e01b069aaee
@@ -814,3 +814,22 @@ Depiction: https://mynameisdell.github.io/depictions/busuu/index.html
 Icon: https://mynameisdell.github.io/depictions/busuu/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.busuupatch_0.0.1_iphoneos-arm.deb
 Name: Busuu Unlocked
+
+Package: com.dell.winkpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.winkpatch_0.0.1_iphoneos-arm.deb
+Size: 934410
+MD5sum: 60d8a1b1c6b093f633c1f3e1f5061342
+SHA1: 62e78d97ef8c112303acbb22766c090d9704a50a
+SHA256: 20321238ad6273ae3e454675f51610ee6a97804d5b643444bf725fc80fac63c5
+Section: Tweaks
+Description: Unlock Yearly Auto-renew VIP
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/wink/index.html
+Icon: https://mynameisdell.github.io/depictions/wink/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.winkpatch_0.0.1_iphoneos-arm.deb
+Name: Wink Unlocked
