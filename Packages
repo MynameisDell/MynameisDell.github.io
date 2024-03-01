@@ -833,3 +833,22 @@ Depiction: https://mynameisdell.github.io/depictions/wink/index.html
 Icon: https://mynameisdell.github.io/depictions/wink/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.winkpatch_0.0.1_iphoneos-arm.deb
 Name: Wink Unlocked
+
+Package: com.dell.faceswapperpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2932
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.faceswapperpatch_0.0.1_iphoneos-arm.deb
+Size: 933236
+MD5sum: a2bca6f3a431754c4fb71f23884e7631
+SHA1: 420e3ec33c5a437a2f167031d1014fcd93f18d24
+SHA256: e6efa018b6c6244911d42c1e4dc9599e47b51b29a5bf6edb354ef308edadcc7a
+Section: Tweaks
+Description: Unlock Yearly VIP
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/faceswapper/index.html
+Icon: https://mynameisdell.github.io/depictions/faceswapper/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.faceswapperpatch_0.0.1_iphoneos-arm.deb
+Name: FaceSwapper Unlocked
