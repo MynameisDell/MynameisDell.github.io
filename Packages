@@ -804,9 +804,9 @@ Installed-Size: 2932
 Depends: mobilesubstrate
 Filename: ./debs/com.dell.busuupatch_0.0.1_iphoneos-arm.deb
 Size: 933720
-MD5sum: e0ee18f85f5ad864b792e43f0ccc02e2
-SHA1: 3aa1b3972cfe04842dfbefb6fc3867083e5c332f
-SHA256: 40c31109c07f7f4d656bb200f1ea5cd2efdd68f83293dae3ad1a8e01b069aaee
+MD5sum: 131eab6dc813027609d43a44c2e396ff
+SHA1: 02212d5240fd9361f78d24c0c9ac37a727172590
+SHA256: 5731aa1e1c7c64de04f9d63242fe87e7565ba8132a4b30d82ace3b557b005fb2
 Section: Tweaks
 Description: Unlock Premium Plus
 Author: Dell <dvq273665536@gmail.com>
@@ -871,3 +871,22 @@ Depiction: https://mynameisdell.github.io/depictions/simplypiano/index.html
 Icon: https://mynameisdell.github.io/depictions/simplypiano/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.simplypianopatch_0.0.1_iphoneos-arm.deb
 Name: Simply Piano Unlocked
+
+Package: com.dell.parallellivepatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.parallellivepatch_0.0.1_iphoneos-arm.deb
+Size: 934668
+MD5sum: 17cf3b86d88ffdbcc04f3a22b8a3d5e5
+SHA1: de55df2a2af86fc97bb47dd64449a7373b486d79
+SHA256: f29518143162a725a76c1f5675a7d395e7ab102d631d65af64570f82f79a1f11
+Section: Tweaks
+Description: Unlock Everything
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/parallellive/index.html
+Icon: https://mynameisdell.github.io/depictions/parallellive/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.parallellivepatch_0.0.1_iphoneos-arm.deb
+Name: Parallel Live Unlocked
