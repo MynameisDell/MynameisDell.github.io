@@ -890,3 +890,22 @@ Depiction: https://mynameisdell.github.io/depictions/parallellive/index.html
 Icon: https://mynameisdell.github.io/depictions/parallellive/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.parallellivepatch_0.0.1_iphoneos-arm.deb
 Name: Parallel Live Unlocked
+
+Package: com.dell.rainrainpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2932
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.rainrainpatch_0.0.1_iphoneos-arm.deb
+Size: 932768
+MD5sum: 88ad83062d49c449bedfacaa6f19595f
+SHA1: 49be12114f3650646a6fbda878667f76496d4a0f
+SHA256: 7c5e86f912fa45098492829bf43df807abffc66eb06956ae9e08769d5ccc494c
+Section: Tweaks
+Description: Unlock Rain Rain Premium (Annual)
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/rainrain/index.html
+Icon: https://mynameisdell.github.io/depictions/rainrain/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.rainrainpatch_0.0.1_iphoneos-arm.deb
+Name: Rain Rain Unlocked
