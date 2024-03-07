@@ -928,3 +928,22 @@ Depiction: https://mynameisdell.github.io/depictions/lambus/index.html
 Icon: https://mynameisdell.github.io/depictions/lambus/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.lambuspatch_0.0.1_iphoneos-arm.deb
 Name: Lambus Unlocked
+
+Package: com.dell.sleeptrackerpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2916
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.sleeptrackerpatch_0.0.1_iphoneos-arm.deb
+Size: 930482
+MD5sum: 0c2d9a4070053ea9225b35ed13085035
+SHA1: 7a0d5a6b3a90a81c856bedfa5518052f813a1f28
+SHA256: d55580b1a9e07f45cb59a4243592af29932e56a1bdf549946e725a38fb02e512
+Section: Tweaks
+Description: Unlock Premium
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/sleeptracker/index.html
+Icon: https://mynameisdell.github.io/depictions/sleeptracker/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.sleeptrackerpatch_0.0.1_iphoneos-arm.deb
+Name: Sleep Tracker Unlocked
