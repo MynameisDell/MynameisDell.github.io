@@ -966,3 +966,22 @@ Depiction: https://mynameisdell.github.io/depictions/sleep/index.html
 Icon: https://mynameisdell.github.io/depictions/sleep/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.sleeppatch_0.0.1_iphoneos-arm.deb.deb
 Name: Sleep Unlocked
+
+Package: com.dell.pairedpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.pairedpatch_0.0.1_iphoneos-arm.deb
+Size: 931656
+MD5sum: 4704f9c4a80b1388b2222205e7b92db6
+SHA1: 99df5c7cfedf89601d468e62a268a4282626361a
+SHA256: 939fb8f7dd2ec4a5338e13524d86b90f4b4b13710e1475428e9209f4035d5fd9
+Section: Tweaks
+Description: Unlock Paired Premium
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/paired/index.html
+Icon: https://mynameisdell.github.io/depictions/paired/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.pairedpatch_0.0.1_iphoneos-arm.deb
+Name: Paired Unlocked
