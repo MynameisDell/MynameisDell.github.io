@@ -985,3 +985,22 @@ Depiction: https://mynameisdell.github.io/depictions/paired/index.html
 Icon: https://mynameisdell.github.io/depictions/paired/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.pairedpatch_0.0.1_iphoneos-arm.deb
 Name: Paired Unlocked
+
+Package: com.dell.sleepmonitorpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.sleepmonitorpatch_0.0.1_iphoneos-arm.deb
+Size: 934878
+MD5sum: a1583ebe3a2674669805cad5e34048d5
+SHA1: c9bb8efdfbcb2636f1897d4d9d545a80e4b7075c
+SHA256: 78b0297d59fda122a889934f944d47f9001452336015042a1c2beffbd089e7d0
+Section: Tweaks
+Description: Unlock Sleep Monitor Yearly Premium
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/sleepmonitor/index.html
+Icon: https://mynameisdell.github.io/depictions/sleepmonitor/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.sleepmonitorpatch_0.0.1_iphoneos-arm.deb
+Name: Sleep Monitor Unlocked
