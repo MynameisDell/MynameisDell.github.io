@@ -1012,7 +1012,7 @@ Maintainer: Dell <dvq273665536@gmail.com>
 Installed-Size: 2948
 Depends: mobilesubstrate
 Filename: ./debs/com.dell.stretchingexercisespatch_0.0.1_iphoneos-arm.deb
-Size: 934878
+Size: 931910
 MD5sum: 33b9b92f0489b6a031aa894a79236813
 SHA1: fb20f6512b07f2590938f2dbdd93e0a3051ee09b
 SHA256: 25daaa9784c496da6b927a0ff3a7d281a74a94f1f40f849c12c538f497cdb573
@@ -1023,3 +1023,22 @@ Depiction: https://mynameisdell.github.io/depictions/stretchingexercises/index.h
 Icon: https://mynameisdell.github.io/depictions/stretchingexercises/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.stretchingexercisespatch_0.0.1_iphoneos-arm.deb
 Name: Stretch Unlocked
+
+Package: com.dell.losebellyfatpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.losebellyfatpatch_0.0.1_iphoneos-arm.deb
+Size: 931968
+MD5sum: b3b8b8fbddf8b4a3ee31f1ae7f9ac633
+SHA1: 49d359440d9f845d48743b0c18451021096ce051
+SHA256: 4ac32636c120b0652747be5a267e8f1c933a89cae1db837e10aecd29fce7afe9
+Section: Tweaks
+Description: Unlock Yearly
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/losebellyfat/index.html
+Icon: https://mynameisdell.github.io/depictions/losebellyfat/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.losebellyfatpatch_0.0.1_iphoneos-arm.deb
+Name: Lose Belly Fat Unlocked
