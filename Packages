@@ -1049,7 +1049,7 @@ Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
 Installed-Size: 2996
 Depends: mobilesubstrate
-Filename: ./debs/com.dell.losebellyfatpatch_0.0.1_iphoneos-arm.deb
+Filename: ./debs/com.dell.bodyfastpatch_0.0.1_iphoneos-arm.deb
 Size: 940660
 MD5sum: 7c81f16f7a133688718b89d5f0eac3fb
 SHA1: f7361381e529b1f8f5682843e431268467636bec
@@ -1059,5 +1059,5 @@ Description: Unlock Coach subscription 12 months
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/bodyfast/index.html
 Icon: https://mynameisdell.github.io/depictions/bodyfast/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/com.dell.losebellyfatpatch_0.0.1_iphoneos-arm.deb
+Deb: https://mynameisdell.github.io/debs/com.dell.bodyfastpatch_0.0.1_iphoneos-arm.deb
 Name: BodyFast Unlocked
