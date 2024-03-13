@@ -1061,3 +1061,22 @@ Depiction: https://mynameisdell.github.io/depictions/bodyfast/index.html
 Icon: https://mynameisdell.github.io/depictions/bodyfast/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.bodyfastpatch_0.0.1_iphoneos-arm.deb
 Name: BodyFast Unlocked
+
+Package: com.dell.deepstashpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.deepstashpatch_0.0.1_iphoneos-arm.deb
+Size: 932102
+MD5sum: 17a0f76295c22275a3433be10c35fa48
+SHA1: 186563079b05b6d8c0e09ab7c19933e8d6ba80a8
+SHA256: 269f7a74f245bb9468b0a3ab5acb911c0bba85cb86883afa88c6ad8446d48b54
+Section: Tweaks
+Description: Unlock Pro Yearly Subscription
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/deepstash/index.html
+Icon: https://mynameisdell.github.io/depictions/deepstash/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.deepstashpatch_0.0.1_iphoneos-arm.deb
+Name: Deepstash Unlocked
