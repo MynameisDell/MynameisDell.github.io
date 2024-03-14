@@ -1080,3 +1080,22 @@ Depiction: https://mynameisdell.github.io/depictions/deepstash/index.html
 Icon: https://mynameisdell.github.io/depictions/deepstash/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.deepstashpatch_0.0.1_iphoneos-arm.deb
 Name: Deepstash Unlocked
+
+Package: com.dell.mapmyrunpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.mapmyrunpatch_0.0.1_iphoneos-arm.deb
+Size: 931578
+MD5sum: c597701d504c95a528864d13ccf52b0e
+SHA1: a3ece16eacba299a1034b2bdaaf21af578d50539
+SHA256: 7cc520dac3af734991c640e8f8b58177f0d2a22c4977f18d2da3d62d6ec1d79d
+Section: Tweaks
+Description: Unlock Annual MVP
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/mapmyrun/index.html
+Icon: https://mynameisdell.github.io/depictions/mapmyrun/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.mapmyrunpatch_0.0.1_iphoneos-arm.deb
+Name: Map My Run Unlocked
