@@ -1099,3 +1099,22 @@ Depiction: https://mynameisdell.github.io/depictions/mapmyrun/index.html
 Icon: https://mynameisdell.github.io/depictions/mapmyrun/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.mapmyrunpatch_0.0.1_iphoneos-arm.deb
 Name: Map My Run Unlocked
+
+Package: com.dell.cyclemeterpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.cyclemeterpatch_0.0.1_iphoneos-arm.deb
+Size: 936356
+MD5sum: b85550cdba658a07a707ef242a77670d
+SHA1: 4a879ba8ca1d6f42c62779e26bf5b2709e97d13b
+SHA256: 88c7957833bb448ae4412940abb9e5e55a8013f7d87f9a2467c71e5c6128e6d5
+Section: Tweaks
+Description: Unlock Elite Upgrade
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/cyclemeter/index.html
+Icon: https://mynameisdell.github.io/depictions/cyclemeter/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.cyclemeterpatch_0.0.1_iphoneos-arm.deb
+Name: Cyclemeter Unlocked
