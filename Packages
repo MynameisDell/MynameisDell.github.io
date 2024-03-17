@@ -1118,3 +1118,22 @@ Depiction: https://mynameisdell.github.io/depictions/cyclemeter/index.html
 Icon: https://mynameisdell.github.io/depictions/cyclemeter/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.cyclemeterpatch_0.0.1_iphoneos-arm.deb
 Name: Cyclemeter Unlocked
+
+Package: com.dell.photomynepatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.photomynepatch_0.0.1_iphoneos-arm.deb
+Size: 932784
+MD5sum: e6639da256a78e5ed7f1b20ab1ac608a
+SHA1: f3bbe66e2875d2232b0877d4397c61097e8e5279
+SHA256: 57df0e3b9a08e7da7fb05080e5b41b659c1b71cdd9145f63bf5a5a0d02efc668
+Section: Tweaks
+Description: Unlock Photomyne account
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/photomyne/index.html
+Icon: https://mynameisdell.github.io/depictions/photomyne/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.photomynepatch_0.0.1_iphoneos-arm.deb
+Name: Photomyne Unlocked
