@@ -1137,3 +1137,22 @@ Depiction: https://mynameisdell.github.io/depictions/photomyne/index.html
 Icon: https://mynameisdell.github.io/depictions/photomyne/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.photomynepatch_0.0.1_iphoneos-arm.deb
 Name: Photomyne Unlocked
+
+Package: com.dell.questionaipatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.questionaipatch_0.0.1_iphoneos-arm.deb
+Size: 934058
+MD5sum: da69fbda19449216b1c020069353d1ad
+SHA1: baba5b93e5bd8196312944639a852486f40c6a7c
+SHA256: bdc92f7b9699b1cc4433099f38ef48ac6ada603d8bd31510b11ea563b19ad478
+Section: Tweaks
+Description: Unlock Question.AI CPro - yearly
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/questionai/index.html
+Icon: https://mynameisdell.github.io/depictions/questionai/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.questionaipatch_0.0.1_iphoneos-arm.deb
+Name: Question.AI Unlocked
