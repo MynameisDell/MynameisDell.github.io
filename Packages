@@ -1156,3 +1156,22 @@ Depiction: https://mynameisdell.github.io/depictions/questionai/index.html
 Icon: https://mynameisdell.github.io/depictions/questionai/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.questionaipatch_0.0.1_iphoneos-arm.deb
 Name: Question.AI Unlocked
+
+Package: com.dell.itranscribepatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.itranscribepatch_0.0.1_iphoneos-arm.deb
+Size: 931658
+MD5sum: 6e27fee5644c3f3eb2bbed12f10c9f01
+SHA1: f1180b02c912206371989e4a7bb24b5e9bde7023
+SHA256: 38b771341d226671e5a9c2b4f0183ef2821603c0e99e124278104b578f918b09
+Section: Tweaks
+Description: Unlock iTranscribe Pro
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/itranscribe/index.html
+Icon: https://mynameisdell.github.io/depictions/itranscribe/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.itranscribepatch_0.0.1_iphoneos-arm.deb
+Name: iTranscribe Unlocked
