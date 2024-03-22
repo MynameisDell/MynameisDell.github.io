@@ -1194,3 +1194,22 @@ Depiction: https://mynameisdell.github.io/depictions/rapchat/index.html
 Icon: https://mynameisdell.github.io/depictions/rapchat/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.rapchatpatch_0.0.1_iphoneos-arm.deb
 Name: Rapchat Unlocked
+
+Package: com.dell.windyapppatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.windyapppatch_0.0.1_iphoneos-arm.deb
+Size: 933602 
+MD5sum: 3c9ea2853876fa4107302b6112789580
+SHA1: 397983761ef0457a3eb0f131a1d81a14a6e86f63
+SHA256: 387024a656de7e3a994760ad0d4570cb76ff9705b431479b1fd3dd90c2cca031
+Section: Tweaks
+Description: Unlock WINDY PRO account
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/windyapp/index.html
+Icon: https://mynameisdell.github.io/depictions/windyapp/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.windyapppatch_0.0.1_iphoneos-arm.deb
+Name: Windy.app Unlocked
