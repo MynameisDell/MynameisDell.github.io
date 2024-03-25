@@ -1213,3 +1213,22 @@ Depiction: https://mynameisdell.github.io/depictions/windyapp/index.html
 Icon: https://mynameisdell.github.io/depictions/windyapp/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.windyapppatch_0.0.1_iphoneos-arm.deb
 Name: Windy.app Unlocked
+
+Package:com.dell.kinemasterpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.kinemasterpatch_0.0.1_iphoneos-arm.deb
+Size: 933212 
+MD5sum: 96f8b44630528aad1f934500ce11372c
+SHA1: 7e906b9c07f43ccf49eb97679e5b697276999182
+SHA256: 4eae374316ac2feb72306b87bf8027c42298d33c5e6734587202f9cf0e4d39d7
+Section: Tweaks
+Description: Unlock KineMaster's Premium (Annual)
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/kinemaster/index.html
+Icon: https://mynameisdell.github.io/depictions/kinemaster/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.kinemasterpatch_0.0.1_iphoneos-arm.deb
+Name: KineMaster Unlocked
