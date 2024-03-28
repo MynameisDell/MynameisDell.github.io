@@ -1270,3 +1270,22 @@ Depiction: https://mynameisdell.github.io/depictions/livecollage/index.html
 Icon: https://mynameisdell.github.io/depictions/livecollage/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.livecollagepatch_0.0.1_iphoneos-arm.deb
 Name: LiveCollage Unlocked
+
+Package: com.dell.loseweightin30dayspatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.loseweightin30dayspatch_0.0.1_iphoneos-arm.deb
+Size: 931924 
+MD5sum: d1f36ea1f3f3bf4a60bf492e31c081c9
+SHA1: 90fd97080b47e58d0962928c0877c1d1e34c645d
+SHA256: 87f95bdb2e474661d0826a9c700863dfca5f0d1f8be4f3cbbfb06d5ebadf8411
+Section: Tweaks
+Description: Unlock Premium Yearly
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/loseweightin30days/index.html
+Icon: https://mynameisdell.github.io/depictions/loseweightin30days/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.loseweightin30dayspatch_0.0.1_iphoneos-arm.deb
+Name: Lose Weight Unlocked
