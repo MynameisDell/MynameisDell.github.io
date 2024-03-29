@@ -1289,3 +1289,41 @@ Depiction: https://mynameisdell.github.io/depictions/loseweightin30days/index.ht
 Icon: https://mynameisdell.github.io/depictions/loseweightin30days/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.loseweightin30dayspatch_0.0.1_iphoneos-arm.deb
 Name: Lose Weight Unlocked
+
+Package: com.dell.craftpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.craftpatch_0.0.1_iphoneos-arm.deb
+Size: 935032 
+MD5sum: 861567d22a6ef3147dbe848f5904eae3
+SHA1: b4417b498d1f5455d286b74bcdf3dbc29172abc8
+SHA256: 17dea82df27ee5f0132be6509587f43526200565489163c4305abdd19bc7767e
+Section: Tweaks
+Description: Unlock Team Annual Subscription
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/craft/index.html
+Icon: https://mynameisdell.github.io/depictions/craft/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.craftpatch_0.0.1_iphoneos-arm.deb
+Name: Craft Unlocked
+
+Package: com.dell.dmvtestpracticepatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2996
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.dmvtestpracticepatch_0.0.1_iphoneos-arm.deb
+Size: 939840 
+MD5sum: 3d026b7af57f0754b31364c1b1aaa382
+SHA1: 70cdbe95f4ca18cfc2685bbc01c74c3fd54b3970
+SHA256: 72cc3232f33852ee9e11225bc320a40d969b7d6006a84e99ae508912f67ffd25
+Section: Tweaks
+Description: Unlock Life Time Plan
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/dmvtestpractice/index.html
+Icon: https://mynameisdell.github.io/depictions/dmvtestpractice/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.dmvtestpracticepatch_0.0.1_iphoneos-arm.deb
+Name: DMV Practice Unlocked
