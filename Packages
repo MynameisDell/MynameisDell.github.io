@@ -1327,3 +1327,41 @@ Depiction: https://mynameisdell.github.io/depictions/dmvtestpractice/index.html
 Icon: https://mynameisdell.github.io/depictions/dmvtestpractice/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.dmvtestpracticepatch_0.0.1_iphoneos-arm.deb
 Name: DMV Practice Unlocked
+
+Package: com.dell.termiuspatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2996
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.termiuspatch_0.0.1_iphoneos-arm.deb
+Size: 940124 
+MD5sum: ed333c39e157f3fc3295001eb2f1cae7
+SHA1: 03cfb9ebcc8b61fbffe0396ac91fded6b18f1e71
+SHA256: 53e685531d996526aa3315c095eb045a7c3cfe36724c275f40dedd0fb4eac3f5
+Section: Tweaks
+Description: Unlock Termius Pro Annual
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/termius/index.html
+Icon: https://mynameisdell.github.io/depictions/termius/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.termiuspatch_0.0.1_iphoneos-arm.deb
+Name: Termius Unlocked
+
+Package: com.dell.peakpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.peakpatch_0.0.1_iphoneos-arm.deb
+Size: 933624 
+MD5sum: d8b69e40a81d7971f23e3cabc778605a
+SHA1: 3ab41de0670fc0ea23592fc020f95e8ba4266cc1
+SHA256: 67f81daa935547db71821fa02e3b1acb4979023dd233af43c56eee6dde153864
+Section: Tweaks
+Description: Unlock Peak Pro Plan
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/peak/index.html
+Icon: https://mynameisdell.github.io/depictions/peak/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.peakpatch_0.0.1_iphoneos-arm.deb
+Name: Peak Unlocked
