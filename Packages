@@ -1384,3 +1384,79 @@ Depiction: https://mynameisdell.github.io/depictions/planty/index.html
 Icon: https://mynameisdell.github.io/depictions/planty/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.plantypatch_0.0.1_iphoneos-arm.deb
 Name: Planty Unlocked
+
+Package: com.dell.epikpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.epikpatch_0.0.1_iphoneos-arm.deb
+Size: 932536 
+MD5sum: d09b28c5f943861174581f1a9f0541b5
+SHA1: edd78ab5430fb1d13015e3826f21b9c46f569572
+SHA256: 7e62f983882fa353e31618977d8662b04390609626e0576baed067addb923e0f
+Section: Tweaks
+Description: Unlock EPIK PRO 1-year subscription
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/epik/index.html
+Icon: https://mynameisdell.github.io/depictions/epik/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.epikpatch_0.0.1_iphoneos-arm.deb
+Name: EPIK Unlocked
+
+Package: com.dell.b612patch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.b612patch_0.0.1_iphoneos-arm.deb
+Size: 935246 
+MD5sum: 145455c88766b68cf95b35cd2e5041cc
+SHA1: dfa4cc74d98571e14f1ded990b731beb2cf8dcc5
+SHA256: 7695f0069170300efd9394b45f27210780a33cc6cbf58daea157ff94071f52eb
+Section: Tweaks
+Description: Unlock B612 VIP annual subscription
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/b612/index.html
+Icon: https://mynameisdell.github.io/depictions/b612/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.b612patch_0.0.1_iphoneos-arm.deb
+Name: B612 Unlocked
+
+Package: com.dell.snowpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.snowpatch_0.0.1_iphoneos-arm.deb
+Size: 935100 
+MD5sum: c4a324e28df8f589aa5b7220e60adad0
+SHA1: 02a12b0467dc0434cac1f01bb6adcf232f519711
+SHA256: e6ddad21f8f746fa4327b99a0d34303c88cda2a0f0802354ac9af95125bf90ca
+Section: Tweaks
+Description: Unlock SNOW VIP annual subscription
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/snow/index.html
+Icon: https://mynameisdell.github.io/depictions/snow/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.snowpatch_0.0.1_iphoneos-arm.deb
+Name: SNOW Unlocked
+
+Package: com.dell.sodapatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.sodapatch_0.0.1_iphoneos-arm.deb
+Size: 932642 
+MD5sum: 8959585276cf43759ed1bdbf9b601a4d
+SHA1: 9b7918ede3220c4321fce3f27270737a3cf28d8e
+SHA256: e0676c07ee9c4c0aa3f60c9b29432d1b0aafeb47adfa1ef629bdb19452e7358e
+Section: Tweaks
+Description: Unlock SODA VIP annual subscription
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/soda/index.html
+Icon: https://mynameisdell.github.io/depictions/soda/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.sodapatch_0.0.1_iphoneos-arm.deb
+Name: SODA Unlocked
