@@ -1460,3 +1460,22 @@ Depiction: https://mynameisdell.github.io/depictions/soda/index.html
 Icon: https://mynameisdell.github.io/depictions/soda/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.sodapatch_0.0.1_iphoneos-arm.deb
 Name: SODA Unlocked
+
+Package: com.dell.muslimpropatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.muslimpropatch_0.0.1_iphoneos-arm.deb
+Size: 934898 
+MD5sum: 5c29a483d224e98c4a94017017904ccc
+SHA1: 0323cc2b7ebeefa4bbc46842b2b2a565f9dba334
+SHA256: 86c8f022345cc1097fbb2c1b71ce23a941b68b1ed378c9d0483d4e158a84f4c2
+Section: Tweaks
+Description: Unlock Yearly Subscription
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/muslimpro/index.html
+Icon: https://mynameisdell.github.io/depictions/muslimpro/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.sodapatch_0.0.1_iphoneos-arm.deb
+Name: Muslim Pro Unlocked
