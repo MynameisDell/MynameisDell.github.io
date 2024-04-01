@@ -1479,3 +1479,22 @@ Depiction: https://mynameisdell.github.io/depictions/muslimpro/index.html
 Icon: https://mynameisdell.github.io/depictions/muslimpro/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.muslimpropatch_0.0.1_iphoneos-arm.deb
 Name: Muslim Pro Unlocked
+
+Package: com.dell.7mworkoutpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3028
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.7mworkoutpatch_0.0.1_iphoneos-arm.deb
+Size: 953734 
+MD5sum: 10eb49c29e3d34290687093264432e3c
+SHA1: 3d9b3fdc57e01e86bc1e62f4406b2b2ef4bececb
+SHA256: e1f9fa3ac8c2b8c8122acc40780540d4ca980d6da285a9d5b6542b5536547924
+Section: Tweaks
+Description: Unlock 7M Workout Pro
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/7mworkout/index.html
+Icon: https://mynameisdell.github.io/depictions/7mworkout/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.7mworkoutpatch_0.0.1_iphoneos-arm.deb
+Name: 7 Minute Workout Unlocked
