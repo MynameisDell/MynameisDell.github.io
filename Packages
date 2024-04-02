@@ -1498,3 +1498,22 @@ Depiction: https://mynameisdell.github.io/depictions/7mworkout/index.html
 Icon: https://mynameisdell.github.io/depictions/7mworkout/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.7mworkoutpatch_0.0.1_iphoneos-arm.deb
 Name: 7 Minute Workout Unlocked
+
+Package: com.dell.picsartpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.picsartpatch_0.0.1_iphoneos-arm.deb
+Size: 933744 
+MD5sum: 09b2075c26d02c68279ac5be70153718
+SHA1: 0c8508474e1a9b09412e1880fc2bfe22426289d4
+SHA256: e3eb37dc152ebc258da7c5410d276bc5355b3fc7074bb2e19f98768490c20adb
+Section: Tweaks
+Description: Unlock Picsart Plus Annual
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/picsart/index.html
+Icon: https://mynameisdell.github.io/depictions/picsart/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.picsartpatch_0.0.1_iphoneos-arm.deb
+Name: Picsart Unlocked
