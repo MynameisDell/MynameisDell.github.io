@@ -1517,3 +1517,22 @@ Depiction: https://mynameisdell.github.io/depictions/picsart/index.html
 Icon: https://mynameisdell.github.io/depictions/picsart/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.picsartpatch_0.0.1_iphoneos-arm.deb
 Name: Picsart Unlocked
+
+Package: com.dell.shmoodypatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3028
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.shmoodypatch_0.0.1_iphoneos-arm.deb
+Size: 951130 
+MD5sum: 100a19850d78512a2c0a12cb0ea33114
+SHA1: 57c81956b6cd78d0a9eb5fb51010ce1e84d053ff
+SHA256: 5dd6b0e1a7b9ccfdd97734f26e9525fe0dd05e5ef546fb0fb0576ce1a9a7957e
+Section: Tweaks
+Description: Unlock Shmoody Premium
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/shmoody/index.html
+Icon: https://mynameisdell.github.io/depictions/shmoody/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.shmoodypatch_0.0.1_iphoneos-arm.deb
+Name: Shmoody Unlocked
