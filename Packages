@@ -1536,3 +1536,22 @@ Depiction: https://mynameisdell.github.io/depictions/shmoody/index.html
 Icon: https://mynameisdell.github.io/depictions/shmoody/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.shmoodypatch_0.0.1_iphoneos-arm.deb
 Name: Shmoody Unlocked
+
+Package: com.dell.bearablepatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.bearablepatch_0.0.1_iphoneos-arm64.deb
+Size: 934064 
+MD5sum: 919b737c52ec88a2eacdd1f710de627a
+SHA1: 712888c3e39ff261514f4737569a4bed4aac6048
+SHA256: 48b851f9853c26c26afecdf9dd0c281600429c963035f682a1b8f23be1dfb23b
+Section: Tweaks
+Description: Unlock Bearable premium
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/bearable/index.html
+Icon: https://mynameisdell.github.io/depictions/bearable/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.bearablepatch_0.0.1_iphoneos-arm64.deb
+Name: Bearable Unlocked
