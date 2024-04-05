@@ -1555,3 +1555,22 @@ Depiction: https://mynameisdell.github.io/depictions/bearable/index.html
 Icon: https://mynameisdell.github.io/depictions/bearable/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.bearablepatch_0.0.1_iphoneos-arm64.deb
 Name: Bearable Unlocked
+
+Package: com.dell.thumbnailmakerpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2996
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.thumbnailmakerpatch_0.0.1_iphoneos-arm64
+Size: 934766 
+MD5sum: f409774226a47e6c1a4822335011e5cf
+SHA1: d4f56ba3c8b4873ccd3dbf789dc9ddbb14febbf5
+SHA256: fbf12009443f398f628440bca0b1e21fc5c35d2cf482b55b7111feb05058ee27
+Section: Tweaks
+Description: Unlock Everything
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.github.io/depictions/thumbnailmaker/index.html
+Icon: https://mynameisdell.github.io/depictions/thumbnailmaker/assets/icon.png
+Deb: https://mynameisdell.github.io/debs/com.dell.thumbnailmakerpatch_0.0.1_iphoneos-arm64
+Name: Thumbnail Maker Unlocked
