@@ -1543,17 +1543,17 @@ Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
 Installed-Size: 2964
 Depends: mobilesubstrate
-Filename: ./debs/com.dell.bearablepatch_0.0.1_iphoneos-arm64.deb
-Size: 934064 
-MD5sum: 919b737c52ec88a2eacdd1f710de627a
-SHA1: 712888c3e39ff261514f4737569a4bed4aac6048
-SHA256: 48b851f9853c26c26afecdf9dd0c281600429c963035f682a1b8f23be1dfb23b
+Filename: ./debs/com.dell.bearablepatch_0.0.1_iphoneos-arm.deb
+Size: 933830 
+MD5sum: 3b78eb9bdd67ab60929592a928ce9e13
+SHA1: 3157aa22f43262f55bd960e03511673d7e10e796
+SHA256: 371850278dd0d423961d7f85f6d74ef1955ead77913e71326202ea98de63a330
 Section: Tweaks
 Description: Unlock Bearable premium
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/bearable/index.html
 Icon: https://mynameisdell.github.io/depictions/bearable/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/com.dell.bearablepatch_0.0.1_iphoneos-arm64.deb
+Deb: https://mynameisdell.github.io/debs/com.dell.bearablepatch_0.0.1_iphoneos-arm.deb
 Name: Bearable Unlocked
 
 Package: com.dell.thumbnailmakerpatch
@@ -1562,15 +1562,15 @@ Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
 Installed-Size: 2996
 Depends: mobilesubstrate
-Filename: ./debs/com.dell.thumbnailmakerpatch_0.0.1_iphoneos-arm64.deb
-Size: 934766 
-MD5sum: f409774226a47e6c1a4822335011e5cf
-SHA1: d4f56ba3c8b4873ccd3dbf789dc9ddbb14febbf5
-SHA256: fbf12009443f398f628440bca0b1e21fc5c35d2cf482b55b7111feb05058ee27
+Filename: ./debs/com.dell.thumbnailmakerpatch_0.0.1_iphoneos-arm.deb
+Size: 934828 
+MD5sum: 0104bdcac8f0f08587260e721234cce0
+SHA1: 295d6906dc8b8c5b2fe37f25a9bcd51036a8aae2
+SHA256: 061be6e8dce772abf5a1d0b1fa63ade0c7cecc8f3a23455c2a649e79e0a38298
 Section: Tweaks
 Description: Unlock Everything
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/thumbnailmaker/index.html
 Icon: https://mynameisdell.github.io/depictions/thumbnailmaker/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/com.dell.thumbnailmakerpatch_0.0.1_iphoneos-arm64.deb
+Deb: https://mynameisdell.github.io/debs/com.dell.thumbnailmakerpatch_0.0.1_iphoneos-arm.deb
 Name: Thumbnail Maker Unlocked
