@@ -1562,7 +1562,7 @@ Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
 Installed-Size: 2996
 Depends: mobilesubstrate
-Filename: ./debs/com.dell.thumbnailmakerpatch_0.0.1_iphoneos-arm64
+Filename: ./debs/com.dell.thumbnailmakerpatch_0.0.1_iphoneos-arm64.deb
 Size: 934766 
 MD5sum: f409774226a47e6c1a4822335011e5cf
 SHA1: d4f56ba3c8b4873ccd3dbf789dc9ddbb14febbf5
@@ -1572,5 +1572,5 @@ Description: Unlock Everything
 Author: Dell <dvq273665536@gmail.com>
 Depiction: https://mynameisdell.github.io/depictions/thumbnailmaker/index.html
 Icon: https://mynameisdell.github.io/depictions/thumbnailmaker/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/com.dell.thumbnailmakerpatch_0.0.1_iphoneos-arm64
+Deb: https://mynameisdell.github.io/debs/com.dell.thumbnailmakerpatch_0.0.1_iphoneos-arm64.deb
 Name: Thumbnail Maker Unlocked
