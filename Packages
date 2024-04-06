@@ -1574,3 +1574,22 @@ Depiction: https://mynameisdell.github.io/depictions/thumbnailmaker/index.html
 Icon: https://mynameisdell.github.io/depictions/thumbnailmaker/assets/icon.png
 Deb: https://mynameisdell.github.io/debs/com.dell.thumbnailmakerpatch_0.0.1_iphoneos-arm.deb
 Name: Thumbnail Maker Unlocked
+
+Package: com.dell.foodiepatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.foodiepatch_0.0.1_iphoneos-arm.deb
+Size: 932734 
+MD5sum: 60b3ec4e67761940c9833d4f2940f9ee
+SHA1: 3984e2239a03f19429efb2e1910542ca2d637a4e
+SHA256: 5a637069f99cb77938b14d9eedfaf53f11eb2028c1e2ebfe43b85834ae2e24ca
+Section: Tweaks
+Description: Unlock Foodie PRO annual subscription
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/foodie/index.html
+Icon: https://mynameisdell.vercel.app/depictions/foodie/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.foodiepatch_0.0.1_iphoneos-arm.deb
+Name: Foodie Unlocked
