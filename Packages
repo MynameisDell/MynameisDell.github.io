@@ -1650,3 +1650,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/mapmywalk/index.html
 Icon: https://mynameisdell.vercel.app/depictions/mapmywalk/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.mapmywalkpatch_0.0.1_iphoneos-arm.deb
 Name: Map My Walk Unlocked
+
+Package: com.dell.yukapatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.yukapatch_0.0.1_iphoneos-arm.deb
+Size: 932058 
+MD5sum: cb290cecffd4f0e9c0c31ecb7df40f29
+SHA1: 16f0b0bc3c6667a67f0eacf46b66efb5dad6406c
+SHA256: 8a60a8e631c195e332d10fa69948c826aeaa51e99cc5c9bac4b7939185f0fc7a
+Section: Tweaks
+Description: Unlock Premium Member
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/yuka/index.html
+Icon: https://mynameisdell.vercel.app/depictions/yuka/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.yukapatch_0.0.1_iphoneos-arm.deb
+Name: Yuka Unlocked
