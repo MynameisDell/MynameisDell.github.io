@@ -1707,3 +1707,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/quranpro/index.html
 Icon: https://mynameisdell.vercel.app/depictions/quranpro/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.quranpropatch_0.0.1_iphoneos-arm.deb
 Name: Quran Pro Unlocked
+
+Package: com.dell.thecalculatorpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3028
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.thecalculatorpatch_0.0.1_iphoneos-arm.deb
+Size: 950874 
+MD5sum: 9a1cf8892db351c78aa818efadfbd15c
+SHA1: ee334e5c950556a8bde1fcaa9c8e76c2a0efb60e
+SHA256: 5df515af03a64effd787c032e9dacc1baf2de77c24fb171c25b93bf38b0675fb
+Section: Tweaks
+Description: Unlock Unlimited Math Calculations
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/thecalculator/index.html
+Icon: https://mynameisdell.vercel.app/depictions/thecalculator/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.thecalculatorpatch_0.0.1_iphoneos-arm.deb
+Name: Calculator₊ Unlocked
