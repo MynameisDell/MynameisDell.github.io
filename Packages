@@ -1570,9 +1570,9 @@ SHA256: 061be6e8dce772abf5a1d0b1fa63ade0c7cecc8f3a23455c2a649e79e0a38298
 Section: Tweaks
 Description: Unlock Everything
 Author: Dell <dvq273665536@gmail.com>
-Depiction: https://mynameisdell.github.io/depictions/thumbnailmaker/index.html
-Icon: https://mynameisdell.github.io/depictions/thumbnailmaker/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/com.dell.thumbnailmakerpatch_0.0.1_iphoneos-arm.deb
+Depiction: https://mynameisdell.vercel.app/depictions/thumbnailmaker/index.html
+Icon: https://mynameisdell.vercel.app/depictions/thumbnailmaker/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.thumbnailmakerpatch_0.0.1_iphoneos-arm.deb
 Name: Thumbnail Maker Unlocked
 
 Package: com.dell.foodiepatch
@@ -1669,3 +1669,41 @@ Depiction: https://mynameisdell.vercel.app/depictions/yuka/index.html
 Icon: https://mynameisdell.vercel.app/depictions/yuka/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.yukapatch_0.0.1_iphoneos-arm.deb
 Name: Yuka Unlocked
+
+Package: com.dell.flighttrackerpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2996
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.flighttrackerpatch_0.0.1_iphoneos-arm.deb
+Size: 934738 
+MD5sum: 6d2cabe966c3a60ec1260f3c38b14518
+SHA1: 5d94b20d14c7ab8e2ec7ac247770800d961b5eb5
+SHA256: cb70b59da439511a4187797243e5df4c44377ce85278f5b4a8db251ff4f6f37f
+Section: Tweaks
+Description: Unlock Annual Premium Subscription
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/flighttracker/index.html
+Icon: https://mynameisdell.vercel.app/depictions/flighttracker/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.flighttrackerpatch_0.0.1_iphoneos-arm.deb
+Name: Flight Tracker + Unlocked
+
+Package: com.dell.quranpropatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.quranpropatch_0.0.1_iphoneos-arm.deb
+Size: 938142 
+MD5sum: 2da0428ccdc56a7d4c7ef32d24c1a800
+SHA1: 7acc9a46b985b7dd1dd10cba1300a0af24fe53c6
+SHA256: 1a201c1075b57e79d2869aa9314bd01b304bc517ca8f4b394e084868217afc52
+Section: Tweaks
+Description: Unlock Quran Pro Premium
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/quranpro/index.html
+Icon: https://mynameisdell.vercel.app/depictions/quranpro/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.quranpropatch_0.0.1_iphoneos-arm.deb
+Name: Quran Pro Unlocked
