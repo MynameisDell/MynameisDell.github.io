@@ -1764,3 +1764,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/mapmyride/index.html
 Icon: https://mynameisdell.vercel.app/depictions/mapmyride/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.mapmyridepatch_0.0.1_iphoneos-arm.deb.deb
 Name: Map My Ride Unlocked
+
+Package: com.dell.logomakerpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.logomakerpatch_0.0.1_iphoneos-arm.deb
+Size: 932262 
+MD5sum: 08da10c89741add49bc7681ef038d99f
+SHA1: 83096b58dda0106bfc51497883470bdcd27b35b0
+SHA256: a0872cd1ae1bab539f87054936d6042c23c3c9ef0a4656015d16474a839e4b35
+Section: Tweaks
+Description: Unlock Create logos like a pro
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/logomaker/index.html
+Icon: https://mynameisdell.vercel.app/depictions/logomaker/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.logomakerpatch_0.0.1_iphoneos-arm.deb
+Name: Logo Maker Unlocked
