@@ -1783,3 +1783,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/logomaker/index.html
 Icon: https://mynameisdell.vercel.app/depictions/logomaker/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.logomakerpatch_0.0.1_iphoneos-arm.deb
 Name: Logo Maker Unlocked
+
+Package: com.dell.videogptpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.videogptpatch_0.0.1_iphoneos-arm.deb
+Size: 932432 
+MD5sum: 45f4e19791f10a1a29c3e6c5d9e02447
+SHA1: 6c10e66cd02f0af0acea95077f185a460378741d
+SHA256: 53952b1bb1bb2a862eb1b044fa230c781b4729d611cd893f3b5a12d9d0634feb
+Section: Tweaks
+Description: Unlock Unlimited Year
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/videogpt/index.html
+Icon: https://mynameisdell.vercel.app/depictions/videogpt/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.videogptpatch_0.0.1_iphoneos-arm.deb
+Name: VideoGPT Unlocked
