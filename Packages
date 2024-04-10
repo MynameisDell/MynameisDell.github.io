@@ -1726,3 +1726,41 @@ Depiction: https://mynameisdell.vercel.app/depictions/thecalculator/index.html
 Icon: https://mynameisdell.vercel.app/depictions/thecalculator/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.thecalculatorpatch_0.0.1_iphoneos-arm.deb
 Name: Calculator₊ Unlocked
+
+Package: com.dell.mapmyfitnesspatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.mapmyfitnesspatch_0.0.1_iphoneos-arm.deb
+Size: 931828 
+MD5sum: 35d226fc73b7413ebd28c296febad654
+SHA1: 1c6a1a7f765259edf57ccd310cd226c122f3c292
+SHA256: 4101d1e8777792b4cc0195b3f900345e66f51775768908abec77ca2a1d97fb2c
+Section: Tweaks
+Description: Unlock Annual MVP
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/mapmyfitness/index.html
+Icon: https://mynameisdell.vercel.app/depictions/mapmyfitness/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.mapmyfitnesspatch_0.0.1_iphoneos-arm.deb
+Name: Map My Fitness Unlocked
+
+Package: com.dell.mapmyridepatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.mapmyridepatch_0.0.1_iphoneos-arm.deb
+Size: 931770 
+MD5sum: 90f2469c7a6194191b4cc4d2cbd2dc43
+SHA1: 9dcad1efad0d7dbeba5cbd4fd87d2800d62adfec
+SHA256: 2fd4c2a508b6e8cd7619414043135d7b44cf965840db86545837312220bbd71d
+Section: Tweaks
+Description: Unlock Annual MVP
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/mapmyride/index.html
+Icon: https://mynameisdell.vercel.app/depictions/mapmyride/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.mapmyridepatch_0.0.1_iphoneos-arm.deb.deb
+Name: Map My Ride Unlocked
