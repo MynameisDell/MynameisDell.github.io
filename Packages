@@ -1821,3 +1821,41 @@ Depiction: https://mynameisdell.vercel.app/depictions/sleepcycle/index.html
 Icon: https://mynameisdell.vercel.app/depictions/sleepcycle/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.sleepcyclepatch_0.0.1_iphoneos-arm.deb
 Name: Sleep Cycle Unlocked
+
+Package: com.dell.isharingpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.isharingpatch_0.0.1_iphoneos-arm.deb
+Size: 932362 
+MD5sum: 2c9fa9844ff1d0ca44bbb6a08cf81ca7
+SHA1: 6fae43808b3d9f71a680d0fe7cd2ff97b75fefbf
+SHA256: 770256154c3cb469ce10149cb04f475b5fc2f02209948545613cee635c6b1b66
+Section: Tweaks
+Description: Unlock Premium Service - 1 Year
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/isharing/index.html
+Icon: https://mynameisdell.vercel.app/depictions/isharing/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.isharingpatch_0.0.1_iphoneos-arm.deb
+Name: iSharing Unlocked
+
+Package: com.dell.heartifypatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.heartifypatch_0.0.1_iphoneos-arm.deb
+Size: 931914 
+MD5sum: ce897edaa6ce58800c1970e7962be068
+SHA1: 25ac36a3dbd9d8ce14269459a79e055f101bc6fd
+SHA256: a8157a278650d1e4abc2ee36283b0caf0a83d664e495bdd886810f5bf9a677bf
+Section: Tweaks
+Description: Unlock Heartify Premium
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/heartify/index.html
+Icon: https://mynameisdell.vercel.app/depictions/heartify/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.heartifypatch_0.0.1_iphoneos-arm.deb
+Name: Heartify Unlocked
