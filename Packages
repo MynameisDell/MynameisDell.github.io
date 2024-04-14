@@ -1859,3 +1859,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/heartify/index.html
 Icon: https://mynameisdell.vercel.app/depictions/heartify/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.heartifypatch_0.0.1_iphoneos-arm.deb
 Name: Heartify Unlocked
+
+Package: com.dell.runnapatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.runnapatch_0.0.1_iphoneos-arm.deb
+Size: 935284 
+MD5sum: 7030a6324b07fef85eea355bdd51c158
+SHA1: 180fbf065533c96d489bc7b81cef49a0c6d19a16
+SHA256: cc315984ee16408b20a9553db98c0d48e3a8a711b64af9801835bb04d12ff93a
+Section: Tweaks
+Description: Unlock Runna Premium
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/runna/index.html
+Icon: https://mynameisdell.vercel.app/depictions/runna/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.runnapatch_0.0.1_iphoneos-arm.deb
+Name: Runna Unlocked
