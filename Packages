@@ -1878,3 +1878,41 @@ Depiction: https://mynameisdell.vercel.app/depictions/runna/index.html
 Icon: https://mynameisdell.vercel.app/depictions/runna/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.runnapatch_0.0.1_iphoneos-arm.deb
 Name: Runna Unlocked
+
+Package: com.dell.collartpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.collartpatch_0.0.1_iphoneos-arm.deb
+Size: 934432 
+MD5sum: c04c36f952defd1684d0ad9f9d50b12c
+SHA1: af08b76b9dc9043da38bb16fdf485f46dbb81a4c
+SHA256: bb19ca621f8ae97451ca2d5e03f3c4207e2451f39d0a547e0891a73596804960
+Section: Tweaks
+Description: Unlock Collart Premium_Yearly
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/collart/index.html
+Icon: https://mynameisdell.vercel.app/depictions/collart/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.collartpatch_0.0.1_iphoneos-arm.deb
+Name: Collart AI Unlocked
+
+Package: com.dell.speedtestpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.speedtestpatch_0.0.1_iphoneos-arm.deb
+Size: 934374 
+MD5sum: df423192fcf15e9bc01308da058e0a99
+SHA1: 181808d87e8dbdc7791c42f3533f0af9bc5cb209
+SHA256: fd51072301032359c03e8f1b777c08a8b14b05eb4a320140d38c5fee625a225b
+Section: Tweaks
+Description: Unlock Lifetime Premium
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/speedtest/index.html
+Icon: https://mynameisdell.vercel.app/depictions/speedtest/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.speedtestpatch_0.0.1_iphoneos-arm.deb
+Name: SPEED TEST MASTER Unlocked
