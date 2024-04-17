@@ -1916,3 +1916,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/speedtest/index.html
 Icon: https://mynameisdell.vercel.app/depictions/speedtest/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.speedtestpatch_0.0.1_iphoneos-arm.deb
 Name: SPEED TEST MASTER Unlocked
+
+Package: com.dell.photoroompatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.photoroompatch_0.0.1_iphoneos-arm.deb
+Size: 935470 
+MD5sum: b2715fcfd362585abd8de39c4000aecd
+SHA1: f811c2d8df8e2851a03b9c26a1143f0fdfc40108
+SHA256: 7bbc477b0a8d9c4241fb05ac51e14ca8f67ad58a5fe046a3cd66b0b5eeb0fd70
+Section: Tweaks
+Description: Unlock PhotoRoom Business
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/photoroom/index.html
+Icon: https://mynameisdell.vercel.app/depictions/photoroom/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.photoroompatch_0.0.1_iphoneos-arm.deb
+Name: Photoroom Unlocked
