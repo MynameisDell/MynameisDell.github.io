@@ -1935,3 +1935,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/photoroom/index.html
 Icon: https://mynameisdell.vercel.app/depictions/photoroom/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.photoroompatch_0.0.1_iphoneos-arm.deb
 Name: Photoroom Unlocked
+
+Package: com.dell.balancepatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2932
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.balancepatch_0.0.1_iphoneos-arm.deb
+Size: 932590 
+MD5sum: 5be96ee53e1d1f11dd5f6d2b2091f5c4
+SHA1: 5473513c9225e26f6dd7ecef1872fc5234330d54
+SHA256: 7bbc477b0a8d9c4241fb05ac51e14ca8f67ad58a5fe046a3cd66b0b5eeb0fd70
+Section: Tweaks
+Description: Unlock Balance Lifetime
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/balance/index.html
+Icon: https://mynameisdell.vercel.app/depictions/balance/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.balancepatch_0.0.1_iphoneos-arm.deb
+Name: Balance Unlocked
