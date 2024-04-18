@@ -1954,3 +1954,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/balance/index.html
 Icon: https://mynameisdell.vercel.app/depictions/balance/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.balancepatch_0.0.1_iphoneos-arm.deb
 Name: Balance Unlocked
+
+Package: com.dell.shapypatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2932
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.shapypatch_0.0.1_iphoneos-arm.deb
+Size: 932876 
+MD5sum: 555a159db4ed95f977766fc4c013310d
+SHA1: 67082e2e072efbd3e39e4b1f652d05382e521d0f
+SHA256: 8103bd4e16fae99654ea1c1b6b812791235fccbc59b2502660d9bf26dbc08562
+Section: Tweaks
+Description: Unlock Prolong Results(6 Months Plan)
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/shapy/index.html
+Icon: https://mynameisdell.vercel.app/depictions/shapy/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.shapypatch_0.0.1_iphoneos-arm.deb
+Name: Shapy Unlocked
