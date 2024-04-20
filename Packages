@@ -1992,3 +1992,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/truckerpath/index.html
 Icon: https://mynameisdell.vercel.app/depictions/truckerpath/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.truckerpathpatch_0.0.1_iphoneos-arm.deb
 Name: Trucker Path Unlocked
+
+Package: com.dell.acrobatpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2916
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.acrobatpatch_0.0.1_iphoneos-arm.deb
+Size: 927118 
+MD5sum: a3d902f0fc884efcc0e0750163d61cd9
+SHA1: 149943f5cbe2614ce317600b836c34c43c52a771
+SHA256: 7a9aeefbf678e1131760c54a6310f67bb31b1e18108476a36be018ac6901e535
+Section: Tweaks
+Description: Unlock Acrobat Premium - Yearly
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/acrobat/index.html
+Icon: https://mynameisdell.vercel.app/depictions/acrobat/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.acrobatpatch_0.0.1_iphoneos-arm.deb
+Name: Adobe Acrobat Reader Unlocked
