@@ -2011,3 +2011,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/acrobat/index.html
 Icon: https://mynameisdell.vercel.app/depictions/acrobat/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.acrobatpatch_0.0.1_iphoneos-arm.deb
 Name: Adobe Acrobat Reader Unlocked
+
+Package: com.dell.fitnessonlinepatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.fitnessonlinepatch_0.0.1_iphoneos-arm.deb
+Size: 931660 
+MD5sum: 9faf6ecd759e8955786157d20d599af3
+SHA1: 2f9e22a0658a6fa77a39baddb2cff1a32f92a2cd
+SHA256: 7e3b9ddc7963fed6dc0c6ae56457758b219bbf9711581ad9764e8ed561d86435
+Section: Tweaks
+Description: Unlock Full unlimited access /annual
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/fitnessonline/index.html
+Icon: https://mynameisdell.vercel.app/depictions/fitnessonline/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.fitnessonlinepatch_0.0.1_iphoneos-arm.deb
+Name: Fitness App Unlocked
