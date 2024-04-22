@@ -2030,3 +2030,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/fitnessonline/index.html
 Icon: https://mynameisdell.vercel.app/depictions/fitnessonline/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.fitnessonlinepatch_0.0.1_iphoneos-arm.deb
 Name: Fitness App Unlocked
+
+Package: com.dell.beatpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.beatpatch_0.0.1_iphoneos-arm.deb
+Size: 940488 
+MD5sum: 250b6d20b21292a21240094896fbc581
+SHA1: b4dc7013e972af6c63061a156062dc8688389760
+SHA256: 427dfac6f49fd52e3a697579604d78469300784e97229fdc58b05710b2384af2
+Section: Tweaks
+Description: Unlock BEAT PRO - 12 Months
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/beat/index.html
+Icon: https://mynameisdell.vercel.app/depictions/beat/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.beatpatch_0.0.1_iphoneos-arm.deb
+Name: Instagram・BEAT Unlocked
