@@ -2049,3 +2049,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/beat/index.html
 Icon: https://mynameisdell.vercel.app/depictions/beat/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.beatpatch_0.0.1_iphoneos-arm.deb
 Name: Instagram・BEAT Unlocked
+
+Package: com.dell.pdf7patch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.pdf7patch_0.0.1_iphoneos-arm.deb
+Size: 931832 
+MD5sum: 97e777b59e30222e087516899eab5ec2
+SHA1: c8fef00a9fe5af5ce6c517059ed24a700bad6eca
+SHA256: a86e572062d4bde18e1b1108c47d3df0a66bacca1c846641bcf8e8a3196e7b38
+Section: Tweaks
+Description: Unlock 1 Year Plan
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/pdf7/index.html
+Icon: https://mynameisdell.vercel.app/depictions/pdf7/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.pdf7patch_0.0.1_iphoneos-arm.deb
+Name: PDF Editor ® Unlocked
