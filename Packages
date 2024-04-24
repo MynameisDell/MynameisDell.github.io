@@ -2068,3 +2068,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/pdf7/index.html
 Icon: https://mynameisdell.vercel.app/depictions/pdf7/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.pdf7patch_0.0.1_iphoneos-arm.deb
 Name: PDF Editor ® Unlocked
+
+Package: com.dell.touchretouchpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.touchretouchpatch_0.0.1_iphoneos-arm.deb
+Size: 936216 
+MD5sum: 62ceb41bdbf2aea848df5ca666c4ac21
+SHA1: 468b391d5afee2450b54119508237ddcaeb81a53
+SHA256: 92ad732524da08816c5e401b94e3dba95a9b327c3cadad29cccbf2113608e359
+Section: Tweaks
+Description: Unlock Yearly Plan
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/touchretouch/index.html
+Icon: https://mynameisdell.vercel.app/depictions/touchretouch/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.touchretouchpatch_0.0.1_iphoneos-arm.deb
+Name: TouchRetouch Unlocked
