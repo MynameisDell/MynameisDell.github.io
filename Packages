@@ -2106,3 +2106,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/photomath/index.html
 Icon: https://mynameisdell.vercel.app/depictions/photomath/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.photomathpatch_0.0.1_iphoneos-arm.deb
 Name: Photomath Unlocked
+
+Package: com.dell.endelpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.endelpatch_0.0.1_iphoneos-arm.deb
+Size: 933968 
+MD5sum: c189f5f99f39a77972a0122b4d1627a9
+SHA1: 7f83a4cc7cae9a7f0314e2cc562d98fb960a3c96
+SHA256: c05508197f6dae4b4b742dff818444d02be309c8cfb8899f611c2073920b6153
+Section: Tweaks
+Description: Unlock 12 Months
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/endel/index.html
+Icon: https://mynameisdell.vercel.app/depictions/endel/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.endelpatch_0.0.1_iphoneos-arm.deb
+Name: Endel Unlocked
