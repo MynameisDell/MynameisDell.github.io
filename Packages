@@ -309,16 +309,16 @@ Maintainer: Dell <dvq273665536@gmail.com>
 Installed-Size: 2996
 Depends: mobilesubstrate
 Filename: ./debs/com.dell.waterminderpatch_0.0.1_iphoneos-arm.deb
-Size: 939656
-MD5sum: 2fdaa3a6311b2918b443481f6c27d618
-SHA1: 44fd7c402115eef473a6985bc8c490f81afe2802
-SHA256: 2b13e977ff8e5af7fd5a989581d124999a2e5139ae9ac254fa1a338fa8e53563
+Size: 936872
+MD5sum: a853d05301c78fbc64d6cdefeb82b642
+SHA1: d140dbfe73912659def542bd4a6c3e0fe77c00d6
+SHA256: 1a8c9ae11b7201812ee1e876b2a75e98a9fb0bb22c79966182cadefee1fbbf39
 Section: Tweaks
 Description: Unlock Premium Yearly
 Author: Dell <dvq273665536@gmail.com>
-Depiction: https://mynameisdell.github.io/depictions/waterminder/index.html
-Icon: https://mynameisdell.github.io/depictions/waterminder/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/com.dell.waterminderpatch_0.0.1_iphoneos-arm.deb
+Depiction: https://mynameisdell.vercel.app/depictions/waterminder/index.html
+Icon: https://mynameisdell.vercel.app/depictions/waterminder/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.waterminderpatch_0.0.1_iphoneos-arm.deb
 Name: WaterMinder® Unlocked
 
 Package: com.dell.watchfacespatch
