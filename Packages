@@ -7,7 +7,7 @@ Depends: mobilesubstrate
 Filename: ./debs/com.dell.rootdpatch_1.0.0_iphoneos-arm.deb
 Size: 70538
 MD5sum: b284bd2c34d1e4683e4dbcebdc27fb05
-SHA1: 4cc35fbdd7c58fec2b5e6c617d67e2ef0821e483
+SHA1: 4cc35fbdd7c58fec2b5e6c617d67e2ef0821e48
 SHA256: ca1b6d85729ae53365c749063a1ee7f82fff40324d51090beadd4c0e5783e7b9
 Section: Tweaks
 Description: Unlock Rootd Lifetime Full Access
@@ -2125,3 +2125,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/endel/index.html
 Icon: https://mynameisdell.vercel.app/depictions/endel/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.endelpatch_0.0.1_iphoneos-arm.deb
 Name: Endel Unlocked
+
+Package: com.dell.dropspatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.dropspatch_0.0.1_iphoneos-arm.deb
+Size: 933778 
+MD5sum: 465b3f21877dbe3eddcd1915e1a8df41
+SHA1: 9638fb838a2227e8e4f5953657c603bdd85fe79c
+SHA256: 6fe6a74da3e848a4286bfe0ec6c5f32c3b7066142246c1fa9c6ca4095f88ca17
+Section: Tweaks
+Description: Unlock Premium
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/drops/index.html
+Icon: https://mynameisdell.vercel.app/depictions/drops/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.dropspatch_0.0.1_iphoneos-arm.deb
+Name: Drops Unlocked
