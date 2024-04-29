@@ -2144,3 +2144,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/drops/index.html
 Icon: https://mynameisdell.vercel.app/depictions/drops/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.dropspatch_0.0.1_iphoneos-arm.deb
 Name: Drops Unlocked
+
+Package: com.dell.camscannerpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.camscannerpatch_0.0.1_iphoneos-arm.deb
+Size: 932918 
+MD5sum: fed84b5c28cdf29a5ca4df2baa43c0f3
+SHA1: 1df393f64a3cf5001d6fdc584cf76fff2737799e
+SHA256: 6373a1beb1aa26dd4fbb30f1d871734b81567f094c4906aff0385b1d39b26a22
+Section: Tweaks
+Description: Unlock Premium Account(1 year)
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/camscanner/index.html
+Icon: https://mynameisdell.vercel.app/depictions/camscanner/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.camscannerpatch_0.0.1_iphoneos-arm.deb
+Name: CamScanner Unlocked
