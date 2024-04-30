@@ -2163,3 +2163,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/camscanner/index.html
 Icon: https://mynameisdell.vercel.app/depictions/camscanner/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.camscannerpatch_0.0.1_iphoneos-arm.deb
 Name: CamScanner Unlocked
+
+Package: com.dell.unzippatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.unzippatch_0.0.1_iphoneos-arm.deb
+Size: 932650 
+MD5sum: 6a1f7fcaa27ec3dff666a127ca9405e9
+SHA1: 2b13141d48504f194874f02030b7ff87eb245c6c
+SHA256: 5c54ef0752fd2961db6f38ae9d3da955d5e6820432d9131547d7c1222fc839bd
+Section: Tweaks
+Description: Unlock Pro
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/unzip/index.html
+Icon: https://mynameisdell.vercel.app/depictions/unzip/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.unzippatch_0.0.1_iphoneos-arm.deb
+Name: Unzip Unlocked
