@@ -1,22 +1,3 @@
-Package: com.dell.rootdpatch
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Dell <dvq273665536@gmail.com>
-Installed-Size: 420
-Depends: mobilesubstrate
-Filename: ./debs/com.dell.rootdpatch_1.0.0_iphoneos-arm.deb
-Size: 70538
-MD5sum: b284bd2c34d1e4683e4dbcebdc27fb05
-SHA1: 4cc35fbdd7c58fec2b5e6c617d67e2ef0821e48
-SHA256: ca1b6d85729ae53365c749063a1ee7f82fff40324d51090beadd4c0e5783e7b9
-Section: Tweaks
-Description: Unlock Rootd Lifetime Full Access
-Author: Dell <dvq273665536@gmail.com>
-Depiction: https://mynameisdell.github.io/depictions/rootd/index.html
-Icon: https://mynameisdell.github.io/depictions/rootd/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/com.dell.rootdpatch_1.0.0_iphoneos-arm.deb
-Name: Rootd Unlocked
-
 Package: com.dell.mindkitpatch
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -2182,3 +2163,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/unzip/index.html
 Icon: https://mynameisdell.vercel.app/depictions/unzip/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.unzippatch_0.0.1_iphoneos-arm.deb
 Name: Unzip Unlocked
+
+Package: com.dell.rootdpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.rootdpatch_0.0.1_iphoneos-arm.deb
+Size: 935862 
+MD5sum: 431ed0595795cdd2d17d7b5e3fca86a6
+SHA1: 5031cfe2cbd44359bc98f797635c919bd698c171
+SHA256: 88df8a212ce1669fb2b25f60c41abd5065df9122f6aa42ba11da908d043328b5
+Section: Tweaks
+Description: Unlock Rootd Lifetime Full Access
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/rootd/index.html
+Icon: https://mynameisdell.vercel.app/depictions/rootd/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.rootdpatch_0.0.1_iphoneos-arm.deb
+Name: Rootd Unlocked
