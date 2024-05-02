@@ -2182,3 +2182,41 @@ Depiction: https://mynameisdell.vercel.app/depictions/rootd/index.html
 Icon: https://mynameisdell.vercel.app/depictions/rootd/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.rootdpatch_0.0.1_iphoneos-arm.deb
 Name: Rootd Unlocked
+
+Package: com.dell.filmorapatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2996
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.filmorapatch_0.0.1_iphoneos-arm.deb
+Size: 940630 
+MD5sum: 47ca30800d499a55b9e61347046583d2
+SHA1: 0c45269539dedf750514b1f16668c77a5a6cadf8
+SHA256: 7fbb2cc38b6adaa753efc6d95290bb65847a831a2ac6d6d4a6aa34624774d631
+Section: Tweaks
+Description: Unlock FilmoraGo Pro（Perpetual Plan)
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/filmora/index.html
+Icon: https://mynameisdell.vercel.app/depictions/filmora/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.filmorapatch_0.0.1_iphoneos-arm.deb
+Name: Filmora Unlocked
+
+Package: com.dell.logoshoppatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3028
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.logoshoppatch_0.0.1.deb
+Size: 951208 
+MD5sum: 3e2ce7a388a4fb4012e71002526c7622
+SHA1: 7d189780fa8ea7d87b8218c13d24ba318a7a13d6
+SHA256: 7264c29f207ebd45ad71ed853dcf1aadaaebe089484679b191baafecb7b57416
+Section: Tweaks
+Description: Unlock Logo Maker Pro
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/logoshop/index.html
+Icon: https://mynameisdell.vercel.app/depictions/logoshop/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.logoshoppatch_0.0.1.deb
+Name: Logo Maker Shop Unlocked
