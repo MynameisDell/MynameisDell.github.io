@@ -1373,10 +1373,10 @@ Maintainer: Dell <dvq273665536@gmail.com>
 Installed-Size: 2964
 Depends: mobilesubstrate
 Filename: ./debs/com.dell.epikpatch_0.0.1_iphoneos-arm.deb
-Size: 932536 
-MD5sum: d09b28c5f943861174581f1a9f0541b5
-SHA1: edd78ab5430fb1d13015e3826f21b9c46f569572
-SHA256: 7e62f983882fa353e31618977d8662b04390609626e0576baed067addb923e0f
+Size: 932804 
+MD5sum: 45b0284a1fedd3aa082334212ac9f45d
+SHA1: 3a2f0f7cf0983c6f44ab5cce64bd18a901c34b0f
+SHA256: 596cd15c78918d8ec44ef3a7b1ea87d84f2c992b6c20de18948d8b5f8d0c6d8f
 Section: Tweaks
 Description: Unlock EPIK PRO 1-year subscription
 Author: Dell <dvq273665536@gmail.com>
