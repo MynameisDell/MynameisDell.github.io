@@ -2220,3 +2220,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/logoshop/index.html
 Icon: https://mynameisdell.vercel.app/depictions/logoshop/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.logoshoppatch_0.0.1.deb
 Name: Logo Maker Shop Unlocked
+
+Package: com.dell.stravapatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.stravapatch_0.0.1_iphoneos-arm.deb
+Size: 934266 
+MD5sum: d72708070201b8c71b93c6ba82f2a129
+SHA1: 6a57cfae55def911dd2c337352a490b3c0d34dc9
+SHA256: 1c967cc6d438ce83b5f35f7256e52ca9926d88cb400ffda2f0994adec2c19b7f
+Section: Tweaks
+Description: Unlock Strava Premium
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/strava/index.html
+Icon: https://mynameisdell.vercel.app/depictions/strava/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.stravapatch_0.0.1_iphoneos-arm.deb
+Name: Strava Unlocked
