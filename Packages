@@ -2239,3 +2239,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/strava/index.html
 Icon: https://mynameisdell.vercel.app/depictions/strava/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.stravapatch_0.0.1_iphoneos-arm.deb
 Name: Strava Unlocked
+
+Package: com.dell.walkmeterpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.walkmeterpatch_0.0.1_iphoneos-arm.deb
+Size: 931610 
+MD5sum: 7fd04c659d5b5296e7ceb393f0339c8a
+SHA1: 14fe91687027c8f992645cc248869982e6f359ca
+SHA256: 2a7b9b2b00113f8c99f89f8a995b82442c66bbe24c07423298e10c97535bb8d4
+Section: Tweaks
+Description: Unlock Elite Upgrade
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/walkmeter/index.html
+Icon: https://mynameisdell.vercel.app/depictions/walkmeter/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.walkmeterpatch_0.0.1_iphoneos-arm.deb
+Name: Walkmeter Unlocked
