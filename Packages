@@ -2277,3 +2277,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/unfold/index.html
 Icon: https://mynameisdell.vercel.app/depictions/unfold/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.unfoldpatch_0.0.1_iphoneos-arm.deb
 Name: Unfold Unlocked
+
+Package: com.dell.hanziidictpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.hanziidictpatch_0.0.1_iphoneos-arm.deb
+Size: 933538 
+MD5sum: 605ea6d441f85af43863f07d341e7b4d
+SHA1: fce249e2da4ee7f0d4a1abfc7e5a435d7b57e7ba
+SHA256: d02afaf225052cce029f05d55c06127c400820f4ab461058f7103f91ef3235d5
+Section: Tweaks
+Description: Unlock Premium version
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/hanziidict/index.html
+Icon: https://mynameisdell.vercel.app/depictions/hanziidict/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.hanziidictpatch_0.0.1_iphoneos-arm.deb
+Name: Hanzii Unlocked
