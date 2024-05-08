@@ -2296,3 +2296,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/hanziidict/index.html
 Icon: https://mynameisdell.vercel.app/depictions/hanziidict/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.hanziidictpatch_0.0.1_iphoneos-arm.deb
 Name: Hanzii Unlocked
+
+Package: com.dell.fltrpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.fltrpatch_0.0.1_iphoneos-arm.deb
+Size: 938136 
+MD5sum: 0578a4ab13d26c5cadb1c8b8e4b01cd9
+SHA1: ce05bfc18c8f9b7d8f190ddcd3ce6dd198c40d45
+SHA256: fd0c8356e3cba644f8887d332a105994fd14a32b7775f0861c266f6d808d7612
+Section: Tweaks
+Description: Unlock FLTR PRO - Lifetime
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/fltr/index.html
+Icon: https://mynameisdell.vercel.app/depictions/fltr/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.fltrpatch_0.0.1_iphoneos-arm.deb
+Name: FLTR Unlocked
