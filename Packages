@@ -2324,9 +2324,9 @@ Installed-Size: 2964
 Depends: mobilesubstrate
 Filename: ./debs/com.dell.stepsapppatch_0.0.1_iphoneos-arm.deb
 Size: 931696 
-MD5sum: 5691a5858123b41b3d26e9a9e6f0a1c4
-SHA1: a75d4cb1c643a38e491b0bb1f728638ce1b1f29b
-SHA256: f6f4b29f773605846619287c6e959e6cdad9a28c417ffcb8164a2e3e0bbb567f
+MD5sum: 80bb4b35e607b69a1799ff743c078467
+SHA1: feca2bd7c3f876a79409e4ab64f4966468223626
+SHA256: 27e056b0e3125c6a098ec333988730800f7472411e22fc3212c9145f9e98ddc5
 Section: Tweaks
 Description: Unlock StepsApp Pedometer Pro
 Author: Dell <dvq273665536@gmail.com>
