@@ -2315,3 +2315,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/fltr/index.html
 Icon: https://mynameisdell.vercel.app/depictions/fltr/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.fltrpatch_0.0.1_iphoneos-arm.deb
 Name: FLTR Unlocked
+
+Package: com.dell.stepsapppatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.stepsapppatch_0.0.1_iphoneos-arm.deb
+Size: 931696 
+MD5sum: 5691a5858123b41b3d26e9a9e6f0a1c4
+SHA1: a75d4cb1c643a38e491b0bb1f728638ce1b1f29b
+SHA256: f6f4b29f773605846619287c6e959e6cdad9a28c417ffcb8164a2e3e0bbb567f
+Section: Tweaks
+Description: Unlock StepsApp Pedometer Pro
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/stepsapp/index.html
+Icon: https://mynameisdell.vercel.app/depictions/stepsapp/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.stepsapppatch_0.0.1_iphoneos-arm.deb
+Name: StepsApp Unlocked
