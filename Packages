@@ -2353,3 +2353,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/dancefitme/index.html
 Icon: https://mynameisdell.vercel.app/depictions/dancefitme/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.dancefitmepatch_0.0.1_iphoneos-arm.deb
 Name: Dancefitme Unlocked
+
+Package: com.dell.shiftdayspatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.shiftdayspatch_0.0.1_iphoneos-arm.deb
+Size: 938640 
+MD5sum: d0185a6ac189b49332e7f7eaaada545d
+SHA1: f453565bdc4a672d40342e7ab906e5b97e3671a5
+SHA256: c27ecaf1cf5488a7481685549b157fc29cea493b3d7e3fdc800d9d40693cc8ce
+Section: Tweaks
+Description: Unlock Yearly Subscription
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/shiftdays/index.html
+Icon: https://mynameisdell.vercel.app/depictions/shiftdays/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.shiftdayspatch_0.0.1_iphoneos-arm.deb
+Name: Shift Days Unlocked
