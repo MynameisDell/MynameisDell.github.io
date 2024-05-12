@@ -2372,3 +2372,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/shiftdays/index.html
 Icon: https://mynameisdell.vercel.app/depictions/shiftdays/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.shiftdayspatch_0.0.1_iphoneos-arm.deb
 Name: Shift Days Unlocked
+
+Package: com.dell.filmmakerpropatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2932
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.filmmakerpropatch_0.0.1_iphoneos-arm.deb
+Size: 933094 
+MD5sum: 17673d0c05615f1f294ee065819c32a2
+SHA1: ef9b838d69f43c27fa0dbd94c6616e50ca0046dd
+SHA256: c3928778d18b7e1aefdd65210190f96a4570e2caa4dec6a8a5b1d84a89a4edb7
+Section: Tweaks
+Description: Unlock Premium One-Time Purchase
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/filmmakerpro/index.html
+Icon: https://mynameisdell.vercel.app/depictions/filmmakerpro/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.filmmakerpropatch_0.0.1_iphoneos-arm.deb
+Name: Filmmaker Pro Unlocked
