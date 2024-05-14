@@ -1788,13 +1788,13 @@ Package: com.dell.sleepcyclepatch
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
-Installed-Size: 2964
+Installed-Size: 2996
 Depends: mobilesubstrate
 Filename: ./debs/com.dell.sleepcyclepatch_0.0.1_iphoneos-arm.deb
-Size: 932428 
-MD5sum: 19f4ccbe22cd5a018adc21a8411a21b7
-SHA1: 4936c58ff6f946d9ce572f899f5d8282433e5b91
-SHA256: 53952b1bb1bb2a862eb1b044fa230c781b4729d611cd893f3b5a12d9d0634feb
+Size: 943246 
+MD5sum: 940902b1b925a1f085b2d249d494e4b7
+SHA1: 0da7e5ab914f1b7d97b6fe5801aadfdf5851b23f
+SHA256: c82909c85a3e7644cdd766429139cd57846d92f17db4b1d80eb7a790b1a4ef17
 Section: Tweaks
 Description: Unlock Premium: Unlock all features
 Author: Dell <dvq273665536@gmail.com>
