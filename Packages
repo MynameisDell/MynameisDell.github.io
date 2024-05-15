@@ -2410,3 +2410,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/wiser/index.html
 Icon: https://mynameisdell.vercel.app/depictions/wiser/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.wiserpatch_0.0.1_iphoneos-arm.deb
 Name: Wiser Unlocked
+
+Package: com.dell.githubpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2932
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.githubpatch_0.0.1_iphoneos-arm.deb
+Size: 933414 
+MD5sum: 9dc86a169b67443c284ec1fa0d53e7a4
+SHA1: 1a7043378f85c7251f5417221e632db4c54042ec
+SHA256: 53f0adb0ee93b48a7d462a56dc3e72ad4ab980072ab7945478b99efae84bc60a
+Section: Tweaks
+Description: Unlock GitHub Pro
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/github/index.html
+Icon: https://mynameisdell.vercel.app/depictions/github/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.githubpatch_0.0.1_iphoneos-arm.deb
+Name: GitHub Unlocked
