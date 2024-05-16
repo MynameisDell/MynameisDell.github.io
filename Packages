@@ -2429,3 +2429,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/github/index.html
 Icon: https://mynameisdell.vercel.app/depictions/github/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.githubpatch_0.0.1_iphoneos-arm.deb
 Name: GitHub Unlocked
+
+Package: com.dell.fitnesscoachpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2932
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.fitnesscoachpatch_0.0.1_iphoneos-arm.deb
+Size: 933580 
+MD5sum: 0a65b065256f333bddd2d548e333c832
+SHA1: 383792576802eabee9f3febba04cfaf3ed9f64ff
+SHA256: 83842fe271724413513cc500d0b5466563e2a0d572591dc4a8358a9d33a6562b
+Section: Tweaks
+Description: Unlock Premium
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/fitnesscoach/index.html
+Icon: https://mynameisdell.vercel.app/depictions/fitnesscoach/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.fitnesscoachpatch_0.0.1_iphoneos-arm.deb
+Name: Fitness Coach Unlocked
