@@ -2467,3 +2467,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/moises/index.html
 Icon: https://mynameisdell.vercel.app/depictions/moises/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.moisespatch_0.0.1_iphoneos-arm.deb
 Name: Moises Unlocked
+
+Package: com.dell.gowodpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2932
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.gowodpatch_0.0.1_iphoneos-arm.deb
+Size: 933722 
+MD5sum: 5bab0ea7394593d355f8e0c99793d653
+SHA1: 5356107d4644fc761e2b77773317a76ed2c7b9e9
+SHA256: 20ca6fcb888aba98b21895308f10cf84e5963fae830b04cbffb10a1563d95bd6
+Section: Tweaks
+Description: Unlock GOWOD Premium Yearly
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/gowod/index.html
+Icon: https://mynameisdell.vercel.app/depictions/gowod/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.gowodpatch_0.0.1_iphoneos-arm.deb
+Name: GOWOD Unlocked
