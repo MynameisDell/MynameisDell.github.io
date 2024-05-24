@@ -2486,3 +2486,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/gowod/index.html
 Icon: https://mynameisdell.vercel.app/depictions/gowod/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.gowodpatch_0.0.1_iphoneos-arm.deb
 Name: GOWOD Unlocked
+
+Package: com.dell.agendapatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.agendapatch_0.0.1_iphoneos-arm.deb
+Size: 932868 
+MD5sum: 8fed4d309f26d142b2a7d7b27a25cbeb
+SHA1: 38e6f95cbb37c3c40024c0d206ae1c4654a8eab1
+SHA256: ba60cde8305c979fa19756d0bcc87c1ea456eb3a9317c05e5bd951d4f361969c
+Section: Tweaks
+Description: Unlock Lifetime Premium Features
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/agenda/index.html
+Icon: https://mynameisdell.vercel.app/depictions/agenda/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.agendapatch_0.0.1_iphoneos-arm.deb
+Name: Agenda Unlocked
