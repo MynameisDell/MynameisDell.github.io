@@ -838,19 +838,19 @@ Package: com.dell.simplypianopatch
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
-Installed-Size: 2964
+Installed-Size: 2996
 Depends: mobilesubstrate
 Filename: ./debs/com.dell.simplypianopatch_0.0.1_iphoneos-arm.deb
-Size: 935468
-MD5sum: 0b9faf3725993bb0b879fb298ddd4d84
-SHA1: 5e9d96d4613d95051eba63e975e43ee3f199695f
-SHA256: 5f625fe0f796ac83a9bcab6cc31fc0f35f5e1a140299c3f25e3813feb097428e
+Size: 933078
+MD5sum: dec5eae7ffc7cc9f12837d34ca1f5602
+SHA1: 00ee52964a944ea9c82ef579204bca6defa7b947
+SHA256: cab697060a5669d557c3662c271946b9af76e803e39a45e2bdafd0f30c5d7e6b
 Section: Tweaks
 Description: Unlock Family Plan
 Author: Dell <dvq273665536@gmail.com>
-Depiction: https://mynameisdell.github.io/depictions/simplypiano/index.html
-Icon: https://mynameisdell.github.io/depictions/simplypiano/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/com.dell.simplypianopatch_0.0.1_iphoneos-arm.deb
+Depiction: https://mynameisdell.vercel.app/depictions/simplypiano/index.html
+Icon: https://mynameisdell.vercel.app/depictions/simplypiano/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.simplypianopatch_0.0.1_iphoneos-arm.deb
 Name: Simply Piano Unlocked
 
 Package: com.dell.parallellivepatch
