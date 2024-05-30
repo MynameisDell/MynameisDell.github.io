@@ -2505,3 +2505,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/agenda/index.html
 Icon: https://mynameisdell.vercel.app/depictions/agenda/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.agendapatch_0.0.1_iphoneos-arm.deb
 Name: Agenda Unlocked
+
+Package: com.dell.flowkeypatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2948
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.flowkeypatch_0.0.1_iphoneos-arm.deb
+Size: 932022 
+MD5sum: 5a832d64d06dbf0a625189f3354a8829
+SHA1: f6f0e009e9b6015dc21a73e8faebb23e7dfbe834
+SHA256: 4a7791a29022c52500310d250ebeaeaf5f7b7f23f833f7c1131f2dddba11693f
+Section: Tweaks
+Description: Unlock Premium (Full Access)
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/flowkey/index.html
+Icon: https://mynameisdell.vercel.app/depictions/flowkey/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.flowkeypatch_0.0.1_iphoneos-arm.deb
+Name: flowkey Unlocked
