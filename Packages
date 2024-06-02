@@ -2524,3 +2524,41 @@ Depiction: https://mynameisdell.vercel.app/depictions/flowkey/index.html
 Icon: https://mynameisdell.vercel.app/depictions/flowkey/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.flowkeypatch_0.0.1_iphoneos-arm.deb
 Name: flowkey Unlocked
+
+Package: com.dell.accuweatherpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.accuweatherpatch_0.0.1_iphoneos-arm.deb
+Size: 932564 
+MD5sum: 1430f58368bd8a50ffcc6b55e1c40ae2
+SHA1: 1f7ce818930fcca04ff38ab993613712f548d721
+SHA256: 7bd46240955ccdc498e71da04a2268910fc21a12fc2c0eb45127e7ff27a7121c
+Section: Tweaks
+Description: Unlock AccuWeather Premium+ (Annual)
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/accuweather/index.html
+Icon: https://mynameisdell.vercel.app/depictions/accuweather/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.accuweatherpatch_0.0.1_iphoneos-arm.deb
+Name: AccuWeather Unlocked
+
+Package: com.dell.vlognowpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.vlognowpatch_0.0.1_iphoneos-arm.deb
+Size: 935872 
+MD5sum: 7adb766d817b6a40b17b484a0c92254b
+SHA1: 7e915f0cbf7e082ffce47b252a15d84e6082990d
+SHA256: e9d8fa8958cce9ecb446614e85ae1f7adb1f7f69075f8d911f504378dd1d4e28
+Section: Tweaks
+Description: Unlock VN Pro
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/vlognow/index.html
+Icon: https://mynameisdell.vercel.app/depictions/vlognow/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.vlognowpatch_0.0.1_iphoneos-arm.deb
+Name: VN Video Editor Unlocked
