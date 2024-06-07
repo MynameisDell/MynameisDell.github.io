@@ -2562,3 +2562,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/vlognow/index.html
 Icon: https://mynameisdell.vercel.app/depictions/vlognow/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.vlognowpatch_0.0.1_iphoneos-arm.deb
 Name: VN Video Editor Unlocked
+
+Package: com.dell.boldvoicepatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3000
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.boldvoicepatch_0.0.1_iphoneos-arm.deb
+Size: 940322 
+MD5sum: 33e37330eaa33bd3bf1f9b81f554b856
+SHA1: ae3a85f9a16bb2f70c6a36fba7e33e4751cc88ce
+SHA256: a332bc08b880918eb618f8edcd1b933650266527bbf059da0198d700cb57e7ba
+Section: Tweaks
+Description: Unlock Premium
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/boldvoice/index.html
+Icon: https://mynameisdell.vercel.app/depictions/boldvoice/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.boldvoicepatch_0.0.1_iphoneos-arm.deb
+Name: BoldVoice Unlocked
