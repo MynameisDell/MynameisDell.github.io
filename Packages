@@ -2581,3 +2581,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/boldvoice/index.html
 Icon: https://mynameisdell.vercel.app/depictions/boldvoice/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.boldvoicepatch_0.0.1_iphoneos-arm.deb
 Name: BoldVoice Unlocked
+
+Package: com.dell.quizletpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.quizletpatch_0.0.1_iphoneos-arm.deb
+Size: 945216 
+MD5sum: c7a72be4beccc37119dc038f3ff4537c
+SHA1: 8d944f376b8e6c9d9c5dac6324d0c8a1a45be097
+SHA256: 071b6cf04cb7cb2b9a6c9c196cd5de550e3e7f9cb70ce5345df11b7ed5777e55
+Section: Tweaks
+Description: Unlock Quizlet Plus
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/quizlet/index.html
+Icon: https://mynameisdell.vercel.app/depictions/quizlet/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.quizletpatch_0.0.1_iphoneos-arm.deb
+Name: Quizlet Unlocked
