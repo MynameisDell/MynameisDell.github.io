@@ -762,19 +762,19 @@ Package: com.dell.simplyguitarpatch
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
-Installed-Size: 2964
+Installed-Size: 3016
 Depends: mobilesubstrate
 Filename: ./debs/com.dell.simplyguitarpatch_0.0.1_iphoneos-arm.deb
-Size: 933572
-MD5sum: c2ac74a8e2f5ef3dba02400fcc202511
-SHA1: c0715a73ce822093b826197183604ff08e05cf3d
-SHA256: ddd8fe1bcf445b5443c5fbf42b8fb44645e92b87819c32504234e3fdbb94c028
+Size: 946322
+MD5sum: 1338e130c9fbed6bf842596b8228edd8
+SHA1: 8b9c58935df1a55d15ecb15a7ef64ad1795959e1
+SHA256: 31b1d674ef49a27f8029a4f53ebb4d60613abc9b11c155b4b65b4b1304db1f6f
 Section: Tweaks
 Description: Unlock Simply Guitar Premium Full Access
 Author: Dell <dvq273665536@gmail.com>
-Depiction: https://mynameisdell.github.io/depictions/simplyguitar/index.html
-Icon: https://mynameisdell.github.io/depictions/simplyguitar/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/com.dell.simplyguitarpatch_0.0.1_iphoneos-arm.deb
+Depiction: https://mynameisdell.vercel.app/depictions/simplyguitar/index.html
+Icon: https://mynameisdell.vercel.app/depictions/simplyguitar/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.simplyguitarpatch_0.0.1_iphoneos-arm.deb
 Name: Simply Guitar Unlocked
 
 Package: com.dell.busuupatch
