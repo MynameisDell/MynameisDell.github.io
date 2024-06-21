@@ -2619,3 +2619,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/onesec/index.html
 Icon: https://mynameisdell.vercel.app/depictions/onesec/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.onesecpatch_0.0.1_iphoneos-arm.deb
 Name: one sec Unlocked
+
+Package: com.dell.cleanerpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3032
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.cleanerpatch_0.0.1_iphoneos-arm.deb
+Size: 946702 
+MD5sum: e6ef40111130195eb36e5b289e1fa526
+SHA1: 9592a726119198fc967b580d5a483883581377fb
+SHA256: bc79726e74c19efb38022b842f12e1600b421fd755519613be247c7122f5dab5
+Section: Tweaks
+Description: Unlock Lifetime-Cleaner Purchase
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/cleaner/index.html
+Icon: https://mynameisdell.vercel.app/depictions/cleaner/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.cleanerpatch_0.0.1_iphoneos-arm.deb
+Name: Phone Cleaner・ Unlocked
