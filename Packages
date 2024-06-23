@@ -2638,3 +2638,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/cleaner/index.html
 Icon: https://mynameisdell.vercel.app/depictions/cleaner/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.cleanerpatch_0.0.1_iphoneos-arm.deb
 Name: Phone Cleaner・ Unlocked
+
+Package: com.dell.nightskypatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3048
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.nightskypatch_0.0.1_iphoneos-arm.deb
+Size: 952552 
+MD5sum: c3e7306472d3976b55d8f236e1c3d590
+SHA1: b58d81cad9489bfe351a135e950147639e8f6836
+SHA256: b765f2e2512e40324bd61eaaa8af9483a576affb85ae8f6bf86dcc4188d31044
+Section: Tweaks
+Description: Unlock Night Sky+ Unlimited
+Author: Dell <dvq273665536@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/nightsky/index.html
+Icon: https://mynameisdell.vercel.app/depictions/nightsky/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.nightskypatch_0.0.1_iphoneos-arm.deb
+Name: Night Sky Unlocked
