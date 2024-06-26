@@ -2657,3 +2657,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/nightsky/index.html
 Icon: https://mynameisdell.vercel.app/depictions/nightsky/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.nightskypatch_0.0.1_iphoneos-arm.deb
 Name: Night Sky Unlocked
+
+Package: com.dell.udictionarypatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.udictionarypatch_0.0.1_iphoneos-arm.deb
+Size: 943742 
+MD5sum: 3f4666442f5bde9b88a0e7e1b0e464fc
+SHA1: 934bcdc4b123c87ba90cc30bde5a41f6f24094e2
+SHA256: 706dec6bacb70e3cef4f283ca30dcd3a1e28277c13b581f80ba3195a42b2ae15
+Section: Tweaks
+Description: Unlock U Dictionary PRO-1 year
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/udictionary/index.html
+Icon: https://mynameisdell.vercel.app/depictions/udictionary/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.udictionarypatch_0.0.1_iphoneos-arm.deb
+Name: UDictionary Unlocked
