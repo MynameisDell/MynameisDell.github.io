@@ -2695,3 +2695,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/stemz/index.html
 Icon: https://mynameisdell.vercel.app/depictions/stemz/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.stemzpatch_0.0.1_iphoneos-arm.deb
 Name: Stemz Unlocked
+
+Package: com.dell.datacamppatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.datacamppatch_0.0.1_iphoneos-arm.deb
+Size: 946710 
+MD5sum: e45c09bc0911d605bdb80bb47ea492dc
+SHA1: 7f3b7ab4da4f15f6741e56bfcaf1f72e557e4bef
+SHA256: 1d820d9f05735324a1313bd59c012bf0a527ab8b41c2a8ce43d3212c341c1335
+Section: Tweaks
+Description: Unlock Yearly Mobile Subscription
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/datacamp/index.html
+Icon: https://mynameisdell.vercel.app/depictions/datacamp/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.datacamppatch_0.0.1_iphoneos-arm.deb
+Name: DataCamp Unlocked
