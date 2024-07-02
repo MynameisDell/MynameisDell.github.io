@@ -2714,3 +2714,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/datacamp/index.html
 Icon: https://mynameisdell.vercel.app/depictions/datacamp/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.datacamppatch_0.0.1_iphoneos-arm.deb
 Name: DataCamp Unlocked
+
+Package: com.dell.pytopatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.pytopatch_0.0.1_iphoneos-arm.deb
+Size: 946410 
+MD5sum: 450161827942256d4f5717f07a3d2520
+SHA1: 2eb43e66ab9be4991c1ff7551411e4e4f755503d
+SHA256: e225fdd2555721482fb4c0a6094ed23c13ce33716a9b21c97cd068d1fa3b53a3
+Section: Tweaks
+Description: Unlock Full Version
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/pyto/index.html
+Icon: https://mynameisdell.vercel.app/depictions/pyto/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.pytopatch_0.0.1_iphoneos-arm.deb
+Name: Pyto Unlocked
