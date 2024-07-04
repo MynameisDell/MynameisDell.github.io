@@ -2733,3 +2733,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/pyto/index.html
 Icon: https://mynameisdell.vercel.app/depictions/pyto/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.pytopatch_0.0.1_iphoneos-arm.deb
 Name: Pyto Unlocked
+
+Package: com.dell.appravenpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.appravenpatch_0.0.1_iphoneos-arm.deb
+Size: 945130 
+MD5sum: 753e770b7bde81062814152823e9ab54
+SHA1: 2b67e035ea69044773a019de0a893e15b49e0534
+SHA256: f573030d41b8c7ac632d88ce2428101bdfc33159f6c65b74d77449d8653eb732
+Section: Tweaks
+Description: Unlock AppRaven Lifetime
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/appraven/index.html
+Icon: https://mynameisdell.vercel.app/depictions/appraven/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.appravenpatch_0.0.1_iphoneos-arm.deb
+Name: AppRaven Unlocked
