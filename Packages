@@ -1598,13 +1598,13 @@ Package: com.dell.flightradar24patch
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
-Installed-Size: 3036
+Installed-Size: 3032
 Depends: mobilesubstrate
 Filename: ./debs/com.dell.flightradar24patch_0.0.1_iphoneos-arm.deb
-Size: 946702 
-MD5sum: fdea16fe4e09407fd08d2737b0545ddb
-SHA1: 956d4ac978fdc12123d0d00b9c8157c5172746b9
-SHA256: a066d2fb065086f9f3254de474e409fd4c16ca6459ec1c99c9c592f21137545a
+Size: 949904 
+MD5sum: f3470cb8d6867925c002dee6364fdb50
+SHA1: fc1e44b018766cb5fe1a8ee7f3ac4be41f212bc9
+SHA256: a8769e7b77ad4d2553657ec87fdbbf3c0596524458581ba5469ce9c6e3513190
 Section: Tweaks
 Description: Unlock Gold Plan - Annual
 Author: Dell <dvq273665536@gmail.com>
