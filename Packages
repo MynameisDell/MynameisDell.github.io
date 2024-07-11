@@ -2752,3 +2752,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/appraven/index.html
 Icon: https://mynameisdell.vercel.app/depictions/appraven/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.appravenpatch_0.0.1_iphoneos-arm.deb
 Name: AppRaven Unlocked
+
+Package: com.dell.plantumpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.plantumpatch_0.0.1_iphoneos-arm.deb
+Size: 946394 
+MD5sum: 441e653fc0bb1fb03a83aca9a6e5a6f1
+SHA1: 9251efcd890e3facde9c75da7b82a09ab5313f85
+SHA256: ad7b989fd896beb38f459b92aaed9c09077099a2576181718d0e1f7c5987c4a2
+Section: Tweaks
+Description: Unlock Premium
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/plantum/index.html
+Icon: https://mynameisdell.vercel.app/depictions/plantum/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.plantumpatch_0.0.1_iphoneos-arm.deb
+Name: Plantum Unlocked
