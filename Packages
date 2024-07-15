@@ -2771,3 +2771,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/plantum/index.html
 Icon: https://mynameisdell.vercel.app/depictions/plantum/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.plantumpatch_0.0.1_iphoneos-arm.deb
 Name: Plantum Unlocked
+
+Package: com.dell.hitmealpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.hitmealpatch_0.0.1_iphoneos-arm.deb
+Size: 946114 
+MD5sum: aa901c367b02a3aabf79c2464a34a251
+SHA1: dc7884022297be2b5c2b7b8dcb35613728bbb725
+SHA256: 522852c1359c0eddbae9eafded99c508d6c057a2cdafabd929357b2cc9ebf7ec
+Section: Tweaks
+Description: Unlock Premium
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/hitmeal/index.html
+Icon: https://mynameisdell.vercel.app/depictions/hitmeal/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.hitmealpatch_0.0.1_iphoneos-arm.deb
+Name: HitMeal Unlocked
