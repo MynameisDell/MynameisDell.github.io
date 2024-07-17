@@ -2225,13 +2225,13 @@ Package: com.dell.stravapatch
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
-Installed-Size: 2964
+Installed-Size: 3016
 Depends: mobilesubstrate
 Filename: ./debs/com.dell.stravapatch_0.0.1_iphoneos-arm.deb
-Size: 934266 
-MD5sum: d72708070201b8c71b93c6ba82f2a129
-SHA1: 6a57cfae55def911dd2c337352a490b3c0d34dc9
-SHA256: 1c967cc6d438ce83b5f35f7256e52ca9926d88cb400ffda2f0994adec2c19b7f
+Size: 946208 
+MD5sum: 1fe41ec8f7f92d918b36eabe15cd10d6
+SHA1: 648bf36db3a8999e66b1c5f4b5a869f1173c8793
+SHA256: 5291ad9b12e59cec785f5c61b1023fe5291f23e5c6cc27ec2f9e90340d93a2a3
 Section: Tweaks
 Description: Unlock Strava Premium
 Author: Dell <dvq273665536@gmail.com>
