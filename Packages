@@ -2790,3 +2790,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/hitmeal/index.html
 Icon: https://mynameisdell.vercel.app/depictions/hitmeal/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.hitmealpatch_0.0.1_iphoneos-arm.deb
 Name: HitMeal Unlocked
+
+Package: com.dell.lingqpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3000
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.lingqpatch_0.0.1_iphoneos-arm.deb
+Size: 942238 
+MD5sum: 7ceb0bd6883b03b634b5419f9a4363e6
+SHA1: 68fe559a56b4cb2f3aacad86cb1c5f431c477e4b
+SHA256: a559e70edd221d3a01a343c815dad2bfb9c91a85366b28f01eb56ee21424449c
+Section: Tweaks
+Description: Unlock LingQ Premium
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/lingq/index.html
+Icon: https://mynameisdell.vercel.app/depictions/lingq/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.lingqpatch_0.0.1_iphoneos-arm.deb
+Name: LingQ Unlocked
