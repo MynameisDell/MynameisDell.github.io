@@ -2809,3 +2809,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/lingq/index.html
 Icon: https://mynameisdell.vercel.app/depictions/lingq/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.lingqpatch_0.0.1_iphoneos-arm.deb
 Name: LingQ Unlocked
+
+Package: com.dell.bandlabpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.bandlabpatch_0.0.1_iphoneos-arm.deb
+Size: 946264 
+MD5sum: be52bcd77ebd32c7450118c9d42e63df
+SHA1: 573d7c96fbd148827e058b2bfe6d11ea092625d6
+SHA256: 0f3de53363dce9fe6d8373573e8793f802dd5f74bcf5aabc8316f930b7bd28aa
+Section: Tweaks
+Description: Unlock Boost Membership
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/bandlab/index.html
+Icon: https://mynameisdell.vercel.app/depictions/bandlab/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.bandlabpatch_0.0.1_iphoneos-arm.deb
+Name: BandLab Unlocked
