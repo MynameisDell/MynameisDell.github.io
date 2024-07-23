@@ -230,13 +230,13 @@ Package: com.dell.retouchpatch
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
-Installed-Size: 3028
+Installed-Size: 3032
 Depends: mobilesubstrate
 Filename: ./debs/com.dell.retouchpatch_0.0.1_iphoneos-arm.deb
-Size: 951152
-MD5sum: 2c2766a8192958e33acd6eeb3bb310d2
-SHA1: 2e210d0c604f6ee156eb8750cc6217c691d3a633
-SHA256: 198cbb1856f02d17c588ae6d72156e32ba8928c3e13333c47744cb105fd6f228
+Size: 950726
+MD5sum: 1fe8e2b700ff4470ef5d38e56ac1edbe
+SHA1: ede7f5064ef1ba8d928cc1997f21e828832242f5
+SHA256: bdf234aa1811d1cfcc3ba0218211410f03277efccc38646ac0c207680e849509
 Section: Tweaks
 Description: Unlock Lifetime Subs
 Author: Dell <dvq273665536@gmail.com>
