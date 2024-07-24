@@ -2828,3 +2828,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/bandlab/index.html
 Icon: https://mynameisdell.vercel.app/depictions/bandlab/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.bandlabpatch_0.0.1_iphoneos-arm.deb
 Name: BandLab Unlocked
+
+Package: com.dell.translatenowpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3048
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.translatenowpatch_0.0.1_iphoneos-arm.deb
+Size: 951510 
+MD5sum: 20d789f38fa54d6d859c9e1925979f89
+SHA1: d3d633e07777e0fc46eba611c9add02bb967f401
+SHA256: 246c74f64cc49236e109acbe43a0920294c13bdf076aa34f133233fada55c143
+Section: Tweaks
+Description: Unlock Air Apps One - 1 Year
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/translatenow/index.html
+Icon: https://mynameisdell.vercel.app/depictions/translatenow/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.translatenowpatch_0.0.1_iphoneos-arm.deb
+Name: Translate Now Unlocked
