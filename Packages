@@ -686,13 +686,13 @@ Package: com.dell.snapeditpatch
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
-Installed-Size: 2980
+Installed-Size: 3016
 Depends: mobilesubstrate
 Filename: ./debs/com.dell.snapeditpatch_0.0.1_iphoneos-arm.deb
-Size: 941464
-MD5sum: 0b14d05d55c325f97cc440fdb1b065ab
-SHA1: f111803c0cecaa229a109c1fbd31ee4abb50d6a0
-SHA256: 3e186dd224096dcedcd090e392391c338882d148293b51b136ff36f1f49a011f
+Size: 946670
+MD5sum: 2555bc176e41f42986bb00fc6598b9f3
+SHA1: 55c20b1c3455a387ec339efb7f2fd1110e5583f3
+SHA256: a33cc344b05eccd907c619cfae29fab907de692711110d5f942ae26f5b89fe34
 Section: Tweaks
 Description: Unlock Lifetime
 Author: Dell <dvq273665536@gmail.com>
