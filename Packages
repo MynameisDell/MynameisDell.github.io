@@ -211,19 +211,19 @@ Package: com.dell.locketpatch
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
-Installed-Size: 2948
+Installed-Size: 3016
 Depends: mobilesubstrate
 Filename: ./debs/com.dell.locketpatch_0.0.1_iphoneos-arm.deb
-Size: 931156
-MD5sum: 735869b602541d6c03df25d572213c16
-SHA1: 21530be0c18f77cbd7e695cde8aa0f73dfab9f3c
-SHA256: 140067e3dcf9f4d0511c592c2a8e5bbb23d56a2a5310a64e12c2c770eb908a72
+Size: 947058
+MD5sum: 034e31255051426a2fa67fa71174b2c0
+SHA1: da8a053fbd200a6d525325bb09769fd4ec464497
+SHA256: c73be486e06d48bc463bffa77a813341184f66c70085388de5a4bde7e9a33356
 Section: Tweaks
 Description: Unlock Locket Gold
 Author: Dell <dvq273665536@gmail.com>
-Depiction: https://mynameisdell.github.io/depictions/locket/index.html
-Icon: https://mynameisdell.github.io/depictions/locket/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/com.dell.locketpatch_0.0.1_iphoneos-arm.deb
+Depiction: https://mynameisdell.vercel.app/depictions/locket/index.html
+Icon: https://mynameisdell.vercel.app/depictions/locket/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.locketpatch_0.0.1_iphoneos-arm.deb
 Name: Locket Widget Unlocked
 
 Package: com.dell.retouchpatch
