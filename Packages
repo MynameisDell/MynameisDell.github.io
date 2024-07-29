@@ -2847,3 +2847,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/translatenow/index.html
 Icon: https://mynameisdell.vercel.app/depictions/translatenow/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.translatenowpatch_0.0.1_iphoneos-arm.deb
 Name: Translate Now Unlocked
+
+Package: com.dell.sketcharpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3032
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.sketcharpatch_0.0.1_iphoneos-arm.deb
+Size: 950022 
+MD5sum: c46872052fa8538ac81c25d949dfb418
+SHA1: 634b3609ce9df7927503d9251cf082af15e80c03
+SHA256: 315ae39b4966eb7c1ffbb025ed275e0ed5523a0488afd54e248be88d38a945dd
+Section: Tweaks
+Description: Unlock Lifetime
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/sketchar/index.html
+Icon: https://mynameisdell.vercel.app/depictions/sketchar/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.sketcharpatch_0.0.1_iphoneos-arm.deb
+Name: Sketchar Unlocked
