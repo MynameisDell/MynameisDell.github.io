@@ -2866,3 +2866,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/sketchar/index.html
 Icon: https://mynameisdell.vercel.app/depictions/sketchar/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.sketcharpatch_0.0.1_iphoneos-arm.deb
 Name: Sketchar Unlocked
+
+Package: com.dell.photoapppatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3032
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.photoapppatch_0.0.1_iphoneos-arm.deb
+Size: 950684 
+MD5sum: 6f5c2b5981b23139147f72a161423407
+SHA1: 337287df0b75559cf26cac2c720372b8c762db41
+SHA256: 0182af088b386a750dadf3e9bbded7228c574cb460ccf7125b60907c3a8a3ded
+Section: Tweaks
+Description: Unlock Lifetime
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/photoapp/index.html
+Icon: https://mynameisdell.vercel.app/depictions/photoapp/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.photoapppatch_0.0.1_iphoneos-arm.deb
+Name: PhotoApp Unlocked
