@@ -2885,3 +2885,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/photoapp/index.html
 Icon: https://mynameisdell.vercel.app/depictions/photoapp/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.photoapppatch_0.0.1_iphoneos-arm.deb
 Name: PhotoApp Unlocked
+
+Package: com.dell.plantapppatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3032
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.plantapppatch_0.0.1_iphoneos-arm.deb
+Size: 950584 
+MD5sum: 2ae9690aa0cff38c8ec065c06443f628
+SHA1: 97b41f3a35454b8012a6380e8f604ac867fa909d
+SHA256: 57ff8862c6ab7a37726edb5c0b807b616c729fa1677c271307271ce96739ae35
+Section: Tweaks
+Description: Unlock Lifetime Plant Identifier Subs
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/plantapp/index.html
+Icon: https://mynameisdell.vercel.app/depictions/plantapp/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.plantapppatch_0.0.1_iphoneos-arm.deb
+Name: Plant App Unlocked
