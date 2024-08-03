@@ -2904,3 +2904,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/plantapp/index.html
 Icon: https://mynameisdell.vercel.app/depictions/plantapp/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.plantapppatch_0.0.1_iphoneos-arm.deb
 Name: Plant App Unlocked
+
+Package: com.dell.mimopatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3056
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.mimopatch_0.0.1_iphoneos-arm.deb
+Size: 948084 
+MD5sum: 205f391370752946470701bedc83fac0
+SHA1: e786aaaf5933729edf02ecc4ab31dcd180283fc9
+SHA256: da34b2e67c2ca35ef9434024a9ef68965c1a84b5e2f06cc17ea03b723a8a8540
+Section: Tweaks
+Description: Unlock Mimo Pro
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/mimo/index.html
+Icon: https://mynameisdell.vercel.app/depictions/mimo/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.mimopatch_0.0.1_iphoneos-arm.deb
+Name: Mimo Unlocked
