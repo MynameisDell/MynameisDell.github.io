@@ -2938,7 +2938,26 @@ SHA256: 7773700f646d2517622986756de89c3ad4275b52905a1a7f80836a9a3215b9e4
 Section: Tweaks
 Description: Unlock One-Year Subscription
 Author: Dell <tranthikimchi2601@gmail.com>
-Depiction: https://mynameisdell.vercel.app/ewa/mimo/index.html
+Depiction: https://mynameisdell.vercel.app/depictions/ewa/index.html
 Icon: https://mynameisdell.vercel.app/depictions/ewa/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.ewapatch_0.0.1_iphoneos-arm.deb
 Name: EWA Unlocked
+
+Package: com.dell.ardrawingpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3056
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.ardrawingpatch_0.0.1_iphoneos-arm.deb
+Size: 949324 
+MD5sum: 7905ca9b917944626265632d2e99ebb0
+SHA1: 815c5def555b67cd842edf8e2598df1c6f10a731
+SHA256: 11e462f868042686f8b1c30ee39fe6a157403ca4a517eac567617e3bb9181c05
+Section: Tweaks
+Description: Unlock AR Drawing Premium
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/ardrawing/index.html
+Icon: https://mynameisdell.vercel.app/depictions/ardrawing/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.ardrawingpatch_0.0.1_iphoneos-arm.deb
+Name: AR Drawing Unlocked
