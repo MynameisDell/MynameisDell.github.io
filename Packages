@@ -2961,3 +2961,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/ardrawing/index.html
 Icon: https://mynameisdell.vercel.app/depictions/ardrawing/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.ardrawingpatch_0.0.1_iphoneos-arm.deb
 Name: AR Drawing Unlocked
+
+Package: com.dell.moovitpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3056
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.moovitpatch_0.0.1_iphoneos-arm.deb
+Size: 946720 
+MD5sum: 63249513e628d488fda7e859d77074ad
+SHA1: 522ae82115790986b3afedf4026fe6f30cef2a63
+SHA256: 0aa63d05452142136a4b29b6bab7ffb128081b793308211c94cd832946c2ad74
+Section: Tweaks
+Description: Unlock plan
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/moovit/index.html
+Icon: https://mynameisdell.vercel.app/depictions/moovit/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.moovitpatch_0.0.1_iphoneos-arm.deb
+Name: Moovit Unlocked
