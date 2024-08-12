@@ -2980,3 +2980,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/moovit/index.html
 Icon: https://mynameisdell.vercel.app/depictions/moovit/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.moovitpatch_0.0.1_iphoneos-arm.deb
 Name: Moovit Unlocked
+
+Package: com.dell.studiopatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.studiopatch_0.0.1_iphoneos-arm.deb
+Size: 944676 
+MD5sum: d77e76aabd5609bc101b5a519415b5b7
+SHA1: 350478892ff6cce0c938325e2a4749f04d78dc41
+SHA256: e673795b202055dec0984a98733cce2d82f453cd65e0e59a54618cb398f7963a
+Section: Tweaks
+Description: Unlock Over Pro Yearly
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/studio/index.html
+Icon: https://mynameisdell.vercel.app/depictions/studio/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.studiopatch_0.0.1_iphoneos-arm.deb
+Name: GoDaddy Studio (Over) Unlocked
