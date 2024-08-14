@@ -2999,3 +2999,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/studio/index.html
 Icon: https://mynameisdell.vercel.app/depictions/studio/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.studiopatch_0.0.1_iphoneos-arm.deb
 Name: GoDaddy Studio (Over) Unlocked
+
+Package: com.dell.lingokidspatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3032
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.lingokidspatch_0.0.1_iphoneos-arm.deb
+Size: 948288 
+MD5sum: 6a212ac0e5d49f2e09e8b5ac7201d2d9
+SHA1: e56b7ed49d3a90e9cb4ce814bd75af776b7959ed
+SHA256: d96402a588200f0fb14c8292d9cbceb793fb2bd74a9eec4ecf9a05480d83c065
+Section: Tweaks
+Description: Unlock Plus Yearly Membership
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/lingokids/index.html
+Icon: https://mynameisdell.vercel.app/depictions/lingokids/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.lingokidspatch_0.0.1_iphoneos-arm.deb
+Name: Lingokids Unlocked
