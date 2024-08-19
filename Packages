@@ -3037,3 +3037,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/beelinguapp/index.html
 Icon: https://mynameisdell.vercel.app/depictions/beelinguapp/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.beelinguapppatch_0.0.1_iphoneos-arm.deb
 Name: Beelinguapp Unlocked
+
+Package: com.dell.edjingmixpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3048
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.edjingmixpatch_0.0.1_iphoneos-arm.deb
+Size: 947584 
+MD5sum: 298dba1ccabbf3f1f5e3cc7aa5e56977
+SHA1: 4f89523f0ef016163ddba1f9b56dbdab43f654de
+SHA256: 038753a3e35105274dea2f57d28275be33ae9802433a0ec1e662033a9405214d
+Section: Tweaks
+Description: Unlock Annual subscription
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/edjingmix/index.html
+Icon: https://mynameisdell.vercel.app/depictions/edjingmix/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.edjingmixpatch_0.0.1_iphoneos-arm.deb
+Name: Edjing Mix Unlocked
