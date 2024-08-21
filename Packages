@@ -3056,3 +3056,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/edjingmix/index.html
 Icon: https://mynameisdell.vercel.app/depictions/edjingmix/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.edjingmixpatch_0.0.1_iphoneos-arm.deb
 Name: Edjing Mix Unlocked
+
+Package: com.dell.tradingviewpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3032
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.tradingviewpatch_0.0.1_iphoneos-arm.deb
+Size: 949026 
+MD5sum: f0f13331e985500561f427d4e190df12
+SHA1: 7d82fbd09dd31425750f7c464f63bcb70ed8480a
+SHA256: f26fcb08ba944b14af5fd0f344e476f07833bb6d48b29ae8e512141891822fab
+Section: Tweaks
+Description: Unlock TradingView Premium
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/tradingview/index.html
+Icon: https://mynameisdell.vercel.app/depictions/tradingview/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.tradingviewpatch_0.0.1_iphoneos-arm.deb
+Name: TradingView Unlocked
