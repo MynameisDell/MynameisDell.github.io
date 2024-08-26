@@ -3094,3 +3094,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/surge/index.html
 Icon: https://mynameisdell.vercel.app/depictions/surge/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.surgepatch_0.0.1_iphoneos-arm.deb
 Name: SURGE – Gay Dating & Chat Unlocked
+
+Package: com.dell.beautypluspatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.beautypluspatch_0.0.1_iphoneos-arm.deb
+Size: 946288 
+MD5sum: 322ba5ce433b725b1404f4959c67e659
+SHA1: 70eeca3b95d5db27f1362c2ff50a4e0a33e47796
+SHA256: 3fec42ec380edc968626a013b1ff36cf5d0f686f8475c9f361922d5c2245d48f
+Section: Tweaks
+Description: Unlock BeautyPlus Premium
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/beautyplus/index.html
+Icon: https://mynameisdell.vercel.app/depictions/beautyplus/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.beautypluspatch_0.0.1_iphoneos-arm.deb
+Name: BeautyPlus Unlocked
