@@ -3132,3 +3132,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/slopes/index.html
 Icon: https://mynameisdell.vercel.app/depictions/slopes/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.slopespatch_0.0.1_iphoneos-arm.deb
 Name: Slopes Unlocked
+
+Package: com.dell.lingvistpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3048
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.lingvistpatch_0.0.1_iphoneos-arm.deb
+Size: 953962 
+MD5sum: 7e7d2ddcc15ce99d9ba4fa791a6d7e54
+SHA1: f3954ebd668baeb619fc21e8a3cf62f1dcc760ee
+SHA256: 2ce2ea35cf6863ea778be020cacd8de32a044d709190b4c705296eda68d9359f
+Section: Tweaks
+Description: Unlock Plan
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/lingvist/index.html
+Icon: https://mynameisdell.vercel.app/depictions/lingvist/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.lingvistpatch_0.0.1_iphoneos-arm.deb
+Name: Lingvist Unlocked
