@@ -1028,19 +1028,19 @@ Package: com.dell.bodyfastpatch
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
-Installed-Size: 2996
+Installed-Size: 3048
 Depends: mobilesubstrate
 Filename: ./debs/com.dell.bodyfastpatch_0.0.1_iphoneos-arm.deb
-Size: 940660
-MD5sum: 7c81f16f7a133688718b89d5f0eac3fb
-SHA1: f7361381e529b1f8f5682843e431268467636bec
-SHA256: 842db6eceb0b2be9fb494f2bbe9305258147d9c0a94570e9ad061351353b9c49
+Size: 952714
+MD5sum: e399b75ab1c216582b511bfaa0ff6249
+SHA1: 064556b8b09d1e56026bac0c3f134058edb14421
+SHA256: 2574fec9d3f045db064893f7da98d30525b967ef67da60f509e01809cfb4d3e1
 Section: Tweaks
 Description: Unlock Coach subscription 12 months
 Author: Dell <dvq273665536@gmail.com>
-Depiction: https://mynameisdell.github.io/depictions/bodyfast/index.html
-Icon: https://mynameisdell.github.io/depictions/bodyfast/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/com.dell.bodyfastpatch_0.0.1_iphoneos-arm.deb
+Depiction: https://mynameisdell.vercel.app/depictions/bodyfast/index.html
+Icon: https://mynameisdell.vercel.app/depictions/bodyfast/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.bodyfastpatch_0.0.1_iphoneos-arm.deb
 Name: BodyFast Unlocked
 
 Package: com.dell.deepstashpatch
