@@ -3151,3 +3151,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/lingvist/index.html
 Icon: https://mynameisdell.vercel.app/depictions/lingvist/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.lingvistpatch_0.0.1_iphoneos-arm.deb
 Name: Lingvist Unlocked
+
+Package: com.dell.drkegelpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3032
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.drkegelpatch_0.0.1_iphoneos-arm.deb
+Size: 948020 
+MD5sum: 67a44e7a12d36145abf83afde263ee89
+SHA1: 5dac3935949a6868704e539f02ea8ed37e215938
+SHA256: ac27eb7857039deb04c8a7b377f5631af621e87adf17ccc73c6e3b3935f3d75e
+Section: Tweaks
+Description: Unlock 1-Year
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/drkegel/index.html
+Icon: https://mynameisdell.vercel.app/depictions/drkegel/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.drkegelpatch_0.0.1_iphoneos-arm.deb
+Name: Dr. Kegel Unlocked
