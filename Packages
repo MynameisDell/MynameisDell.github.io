@@ -3170,3 +3170,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/drkegel/index.html
 Icon: https://mynameisdell.vercel.app/depictions/drkegel/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.drkegelpatch_0.0.1_iphoneos-arm.deb
 Name: Dr. Kegel Unlocked
+
+Package: com.dell.geminipatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.geminipatch_0.0.1_iphoneos-arm.deb
+Size: 947444 
+MD5sum: 675205a1bb877e46da8ef433c4c7ff66
+SHA1: f55321330d50495feb7be2ec680ff7bf6acd6368
+SHA256: 70cad656b29ad55164ba39ead2b9dbd2a5e490d52b0e061e93f975ed2cec5ed3
+Section: Tweaks
+Description: Unlock Unlimited access
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/gemini/index.html
+Icon: https://mynameisdell.vercel.app/depictions/gemini/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.geminipatch_0.0.1_iphoneos-arm.deb
+Name: CleanMy®Phone Unlocked
