@@ -3189,3 +3189,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/gemini/index.html
 Icon: https://mynameisdell.vercel.app/depictions/gemini/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.geminipatch_0.0.1_iphoneos-arm.deb
 Name: CleanMy®Phone Unlocked
+
+Package: com.dell.gpstrackspatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.gpstrackspatch_0.0.1_iphoneos-arm.deb
+Size: 945612 
+MD5sum: d330bcdbd7c0be3582673d3d93338940
+SHA1: 5eaa54482853d454bbc12bc79a69e982a9df721c
+SHA256: 8fa55722e2bec99610079915c2c10fc7816a580763550d984ad247577c50860d
+Section: Tweaks
+Description: Unlock GPS Tracks Premium
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/gpstracks/index.html
+Icon: https://mynameisdell.vercel.app/depictions/gpstracks/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.gpstrackspatch_0.0.1_iphoneos-arm.deb
+Name: GPS Tracks Unlocked
