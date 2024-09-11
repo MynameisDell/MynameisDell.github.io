@@ -3208,3 +3208,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/gpstracks/index.html
 Icon: https://mynameisdell.vercel.app/depictions/gpstracks/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.gpstrackspatch_0.0.1_iphoneos-arm.deb
 Name: GPS Tracks Unlocked
+
+Package: com.dell.airbrushpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.airbrushpatch_0.0.1_iphoneos-arm.deb
+Size: 945576 
+MD5sum: 3f5153c7f6eff33b9a9cdd41dd1787a9
+SHA1: 52d8c7ef1d017c15cbfaa5377cb446ef488c48cd
+SHA256: f624aa45d7e2d4fffea50bbc460d3fd0a3074d7f654955abb9d0a63225a3dea5
+Section: Tweaks
+Description: Unlock Premium
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/airbrush/index.html
+Icon: https://mynameisdell.vercel.app/depictions/airbrush/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.airbrushpatch_0.0.1_iphoneos-arm.deb
+Name: AirBrush Unlocked
