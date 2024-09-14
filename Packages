@@ -3246,3 +3246,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/flo/index.html
 Icon: https://mynameisdell.vercel.app/depictions/flo/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.flopatch_0.0.1_iphoneos-arm.deb
 Name: Flo Period Unlocked
+
+Package: com.dell.wallpaperspatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.wallpaperspatch_0.0.1_iphoneos-arm.deb
+Size: 946922 
+MD5sum: 44d5f9540794fa358038708cd164987e
+SHA1: 950614790e38752cf61e1547e0891ed9f3d389ed
+SHA256: e2caa3aaf0598d768a0a965d1c82f83c86fb0679b6e34ec8ef31a758ec627fa0
+Section: Tweaks
+Description: Unlock Premium 1 Year
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/wallpapers/index.html
+Icon: https://mynameisdell.vercel.app/depictions/wallpapers/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.wallpaperspatch_0.0.1_iphoneos-arm.deb
+Name: Wallpapers & Themes for Me Unlocked
