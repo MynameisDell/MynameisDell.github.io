@@ -3265,3 +3265,41 @@ Depiction: https://mynameisdell.vercel.app/depictions/wallpapers/index.html
 Icon: https://mynameisdell.vercel.app/depictions/wallpapers/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.wallpaperspatch_0.0.1_iphoneos-arm.deb
 Name: Wallpapers & Themes for Me Unlocked
+
+Package: com.dell.livewallpapersfreepatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.livewallpapersfreepatch_0.0.1_iphoneos-arm.deb
+Size: 947014 
+MD5sum: 9f38dca9400a02931c85be583a08e613
+SHA1: d0cadb064c1111346488b15ba49f015346a1a81d
+SHA256: 292c9931b23ec4b2ad342a862afedcc1cafe614a39cd23b541d56511e5c158ae
+Section: Tweaks
+Description: Unlock Premium 1 Year
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/livewallpapersfree/index.html
+Icon: https://mynameisdell.vercel.app/depictions/livewallpapersfree/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.livewallpapersfreepatch_0.0.1_iphoneos-arm.deb
+Name: Live Wallpapers for Me Unlocked
+
+Package: com.dell.footpathpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.footpathpatch_0.0.1_iphoneos-arm.deb
+Size: 949100 
+MD5sum: 572f7fa256af975035677d1fcd8b4f9f
+SHA1: 1f1b44bae604e828eb6fa44f59a97f6889b36941
+SHA256: 5afd544b3dac2e92c12e2463453667907556e501a8d04be521f0a582943c4d8c
+Section: Tweaks
+Description: Unlock Footpath Elite (Yearly)
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/footpath/index.html
+Icon: https://mynameisdell.vercel.app/depictions/footpath/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.footpathpatch_0.0.1_iphoneos-arm.deb
+Name: Footpath Unlocked
