@@ -3303,3 +3303,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/footpath/index.html
 Icon: https://mynameisdell.vercel.app/depictions/footpath/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.footpathpatch_0.0.1_iphoneos-arm.deb
 Name: Footpath Unlocked
+
+Package: com.dell.productivepatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.productivepatch_0.0.1_iphoneos-arm.deb
+Size: 948894 
+MD5sum: 7bb41ac138b8eafaffdddce4879e5cb0
+SHA1: ace9564e215658c089e7c8f23167d769db25af1e
+SHA256: 17b6a3df2b74e69f241455382a09b82eb1b01ca8d8a70ccca8da4e9beb639db0
+Section: Tweaks
+Description: Unlock Productive Premium 1 Year
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/productive/index.html
+Icon: https://mynameisdell.vercel.app/depictions/productive/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.productivepatch_0.0.1_iphoneos-arm.deb
+Name: Productive Unlocked
