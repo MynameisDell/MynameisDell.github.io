@@ -3360,3 +3360,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/workout/index.html
 Icon: https://mynameisdell.vercel.app/depictions/workout/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.workoutpatch_0.0.1_iphoneos-arm.deb
 Name: Workout Unlocked
+
+Package: com.dell.fishbrainpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3032
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.fishbrainpatch_0.0.1_iphoneos-arm.deb
+Size: 948038 
+MD5sum: c24f58e71815ad8072c5a1338a561a14
+SHA1: 9acd93ecd40c8225363267b079cb45e4c1c186b5
+SHA256: 6d653130a5a85210a024b62fadfa1890f3fad888b3b0ec40211bac0a8de1e4c3
+Section: Tweaks
+Description: Unlock Annual Power Fishing Package
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/fishbrain/index.html
+Icon: https://mynameisdell.vercel.app/depictions/fishbrain/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.fishbrainpatch_0.0.1_iphoneos-arm.deb
+Name: Fishbrain Unlocked
