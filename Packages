@@ -3379,3 +3379,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/fishbrain/index.html
 Icon: https://mynameisdell.vercel.app/depictions/fishbrain/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.fishbrainpatch_0.0.1_iphoneos-arm.deb
 Name: Fishbrain Unlocked
+
+Package: com.dell.hablopatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.hablopatch_0.0.1_iphoneos-arm.deb
+Size: 946866 
+MD5sum: d5330dd9dc8026cadfb9c8fbd455f5b5
+SHA1: 2093c234ab69a6e8feacf36b64e56de1eeeb2e4e
+SHA256: 39aeb9c6f1e9662e9985a9d9cdddff88c0e386c7b3c2b82958a81b17857ec9fe
+Section: Tweaks
+Description: Unlock Hablo Pro Yearly
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/hablo/index.html
+Icon: https://mynameisdell.vercel.app/depictions/hablo/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.hablopatch_0.0.1_iphoneos-arm.deb
+Name: Hablo Unlocked
