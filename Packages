@@ -3417,3 +3417,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/wutacam/index.html
 Icon: https://mynameisdell.vercel.app/depictions/wutacam/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.wutacampatch_0.0.1_iphoneos-arm.deb
 Name: Wuta Camera Unlocked
+
+Package: com.dell.imprintpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3032
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.imprintpatch_0.0.1_iphoneos-arm.deb
+Size: 951242 
+MD5sum: 59bb26c499cc17dc19d73ddcd3cb0423
+SHA1: 6972f916594fc35d1f3322005bb861fc97483d50
+SHA256: 3e5df9bb75f1c8a4841ad66f26b0f241e74d06c8dbccd0925cdfb732745a918f
+Section: Tweaks
+Description: Unlock Yearly Subscription
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/imprint/index.html
+Icon: https://mynameisdell.vercel.app/depictions/imprint/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.imprintpatch_0.0.1_iphoneos-arm.deb
+Name: Imprint Unlocked
