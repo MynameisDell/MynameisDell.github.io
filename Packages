@@ -515,19 +515,19 @@ Package: com.dell.kikakeyboardpatch
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
-Installed-Size: 2948
+Installed-Size: 3016
 Depends: mobilesubstrate
 Filename: ./debs/com.dell.kikakeyboardpatch_0.0.1_iphoneos-arm.deb
-Size: 934446
-MD5sum: ad7b297125f1f0b21f2adc81f7c6535f
-SHA1: a8d9f30bf8222ae78d737f12c7a9606fd2e716c4
-SHA256: ad528ff8e77a975f1d1b7bc06869d71661946ca4434f9b995ff55f35cea8c5f3
+Size: 947556
+MD5sum: 460f4d394ca01f517283ed32a10cf320
+SHA1: c0a07f0967d07df5b8138a5ada9159fdac413de1
+SHA256: 02524be13701eb6cc5ff91f4f1a6cfb78554710955731184569f6b7c800897f6
 Section: Tweaks
 Description: Unlock Yearly Premium
 Author: Dell <dvq273665536@gmail.com>
-Depiction: https://mynameisdell.github.io/depictions/kikakeyboard/index.html
-Icon: https://mynameisdell.github.io/depictions/kikakeyboard/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/com.dell.kikakeyboardpatch_0.0.1_iphoneos-arm.deb
+Depiction: https://mynameisdell.vercel.app/depictions/kikakeyboard/index.html
+Icon: https://mynameisdell.vercel.app/depictions/kikakeyboard/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.kikakeyboardpatch_0.0.1_iphoneos-arm.deb
 Name: Kika Keyboard Unlocked
 
 Package: com.dell.noteplanpatch
