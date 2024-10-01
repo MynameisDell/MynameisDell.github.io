@@ -3474,3 +3474,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/runestone/index.html
 Icon: https://mynameisdell.vercel.app/depictions/runestone/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.runestonepatch_0.0.1_iphoneos-arm.deb
 Name: Runestone Unlocked
+
+Package: com.dell.funimatepatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.funimatepatch_0.0.1_iphoneos-arm.deb
+Size: 949382 
+MD5sum: b89cdfd57ddc3c4604b0831ea7f18a9a
+SHA1: 6a90f7889e33fdaaa7d7f3db92970b3d120d1a1c
+SHA256: bcaa3b4f5aa38bc8adeaf472d5c304df3299d06f7806202739c6fb26c72d8dc0
+Section: Tweaks
+Description: Unlock Everything
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/funimate/index.html
+Icon: https://mynameisdell.vercel.app/depictions/funimate/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.funimatepatch_0.0.1_iphoneos-arm.deb
+Name: Funimate Unlocked
