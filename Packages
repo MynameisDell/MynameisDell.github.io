@@ -3512,3 +3512,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/shred/index.html
 Icon: https://mynameisdell.vercel.app/depictions/shred/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.shredpatch_0.0.1_iphoneos-arm.deb
 Name: SHRED Unlocked
+
+Package: com.dell.opalpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3032
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.opalpatch_1_iphoneos-arm.deb
+Size: 951266 
+MD5sum: f46a60fb8a5a73199812dbd40cbaf985
+SHA1: 245ef3e25ba9f803f50bd8d78a8e1812f0828c31
+SHA256: 332e7b3a95d75915f54c1f7d699799b5cc8d063ac033745a26bf4a604d719443
+Section: Tweaks
+Description: Unlock Yearly Plan
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/opal/index.html
+Icon: https://mynameisdell.vercel.app/depictions/opal/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.opalpatch_1_iphoneos-arm.deb
+Name: Opal Unlocked
