@@ -3550,3 +3550,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/videoleap/index.html
 Icon: https://mynameisdell.vercel.app/depictions/videoleap/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.videoleappatch_0.0.1_iphoneos-arm.deb
 Name: Videoleap Unlocked
+
+Package: com.dell.mockviewpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.mockviewpatch_0.0.1_iphoneos-arm.deb
+Size: 948958 
+MD5sum: a35f0bc9f9f43bafb23bdd806fc8683d
+SHA1: 8e5458f4e1720d9f8603034683837e4cf09ae774
+SHA256: 046484fb863c086eb79ec53ce48f13b231fcc0d1c8a6f62a772888be03d1f3b6
+Section: Tweaks
+Description: Unlock Yearly
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/mockview/index.html
+Icon: https://mynameisdell.vercel.app/depictions/mockview/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.mockviewpatch_0.0.1_iphoneos-arm.deb
+Name: Mockview Unlocked
