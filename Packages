@@ -3588,3 +3588,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/filmicpro/index.html
 Icon: https://mynameisdell.vercel.app/depictions/filmicpro/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.filmicpropatch_0.0.1_iphoneos-arm.deb
 Name: Filmic Pro Unlocked
+
+Package: com.dell.nctpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.nctpatch_0.0.1_iphoneos-arm.deb
+Size: 948328 
+MD5sum: 55982e01afa57b8f9e55af9fe039ac81
+SHA1: c8ae312f3fe0635dda61c724359a6965ec3bccb6
+SHA256: c9a191980ee8ccefd28a1caf1d96735e5a2f831b4d8ff34693c479657db98eb5
+Section: Tweaks
+Description: Unlock Annual NhacCuaTui VIP
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/nct/index.html
+Icon: https://mynameisdell.vercel.app/depictions/nct/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.nctpatch_0.0.1_iphoneos-arm.deb
+Name: NCT Unlocked
