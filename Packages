@@ -3607,3 +3607,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/nct/index.html
 Icon: https://mynameisdell.vercel.app/depictions/nct/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.nctpatch_0.0.1_iphoneos-arm.deb
 Name: NCT Unlocked
+
+Package: com.dell.artleappatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.artleappatch_0.0.1_iphoneos-arm.deb
+Size: 947986 
+MD5sum: 54d80c494a4f2fb7cfcdace155ecd54e
+SHA1: d2d6d8889cc00af198be45faadb3c6bd035e9a8f
+SHA256: 3018c99d95efa30a423a7ba1df4d3b22b506a091c95210f07d7181c4442ae0e3
+Section: Tweaks
+Description: Unlock Unlimited access
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/artleap/index.html
+Icon: https://mynameisdell.vercel.app/depictions/artleap/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.artleappatch_0.0.1_iphoneos-arm.deb
+Name: Artleap Unlocked
