@@ -3626,3 +3626,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/artleap/index.html
 Icon: https://mynameisdell.vercel.app/depictions/artleap/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.artleappatch_0.0.1_iphoneos-arm.deb
 Name: Artleap Unlocked
+
+Package: com.dell.photoleappatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.photoleappatch_0.0.1_iphoneos-arm.deb
+Size: 948602 
+MD5sum: 156aee336047de8183a233668ee0d9fc
+SHA1: 65c5f11a92a632b2e80ac2881d8ba324310e1965
+SHA256: 7b11c98eda241bf2f37bdd384c2a57f4aacd20b9bc86cd52c1fb3a9d50e8738c
+Section: Tweaks
+Description: Unlock Subscription 1 Year
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/photoleap/index.html
+Icon: https://mynameisdell.vercel.app/depictions/photoleap/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.photoleappatch_0.0.1_iphoneos-arm.deb
+Name: Photoleap Unlocked
