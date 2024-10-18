@@ -3645,3 +3645,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/photoleap/index.html
 Icon: https://mynameisdell.vercel.app/depictions/photoleap/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.photoleappatch_0.0.1_iphoneos-arm.deb
 Name: Photoleap Unlocked
+
+Package: com.dell.pixomaticpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.pixomaticpatch_0.0.1_iphoneos-arm.deb
+Size: 949618 
+MD5sum: 6b11cd32a143be5282fa207f8380489a
+SHA1: 2cbc3e89b335fa72bd4196076891a6fb76884b32
+SHA256: 3b4164c69cd9bf7a2e2fb881464416f3537c8d800e4869241794206f69d6d258
+Section: Tweaks
+Description: Unlock Subscription 1 Year
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/pixomatic/index.html
+Icon: https://mynameisdell.vercel.app/depictions/pixomatic/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.pixomaticpatch_0.0.1_iphoneos-arm.deb
+Name: Pixomatic Unlocked
