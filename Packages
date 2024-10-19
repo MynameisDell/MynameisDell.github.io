@@ -3664,3 +3664,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/pixomatic/index.html
 Icon: https://mynameisdell.vercel.app/depictions/pixomatic/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.pixomaticpatch_0.0.1_iphoneos-arm.deb
 Name: Pixomatic Unlocked
+
+Package: com.dell.boostcamppatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3032
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.boostcamppatch_0.0.1_iphoneos-arm.deb
+Size: 949440 
+MD5sum: 70f3610037a0de23caef8fdf2b554dad
+SHA1: a0f65788cb59a21385e03a76ca2ae848e5386da5
+SHA256: 949a3c143d5c6b9c02cc4a08c61e660b5be7a5fda23ff37574cc422f0a9f8dda
+Section: Tweaks
+Description: Unlock Boostcamp Pro
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/boostcamp/index.html
+Icon: https://mynameisdell.vercel.app/depictions/boostcamp/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.boostcamppatch_0.0.1_iphoneos-arm.deb
+Name: Boostcamp Unlocked
