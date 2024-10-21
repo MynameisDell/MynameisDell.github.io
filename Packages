@@ -3702,3 +3702,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/camera360/index.html
 Icon: https://mynameisdell.vercel.app/depictions/camera360/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.camera360patch_0.0.1_iphoneos-arm.deb
 Name: Camera360 Unlocked
+
+Package: com.dell.deepfacerpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3032
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.deepfacerpatch_0.0.1_iphoneos-arm.deb
+Size: 948934 
+MD5sum: 62a3b9fb87c4f24cbb6420bde9fb6a30
+SHA1: 0ca7c1dab4b26349149220ecd4baf34615785691
+SHA256: 0c8150b8ae8b980f8d2b1c38880198ef1bce6233918718755cceb3e4ffb15614
+Section: Tweaks
+Description: Unlock Yearly
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/deepfacer/index.html
+Icon: https://mynameisdell.vercel.app/depictions/deepfacer/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.deepfacerpatch_0.0.1_iphoneos-arm.deb
+Name: Deep Face Unlocked
