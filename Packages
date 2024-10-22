@@ -3721,3 +3721,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/deepfacer/index.html
 Icon: https://mynameisdell.vercel.app/depictions/deepfacer/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.deepfacerpatch_0.0.1_iphoneos-arm.deb
 Name: Deep Face Unlocked
+
+Package: com.dell.flipaclippatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.flipaclippatch_0.0.1_iphoneos-arm.deb
+Size: 949764 
+MD5sum: 4f92c030e2ff2e9e24f75b29cd874fb8
+SHA1: 9628805d28615ccbc0d7e9f30cc1395295fd6179
+SHA256: 7394497be7e9585424e7da480b2aa7de648d327c4ee01acbcdd38a9e928466ac
+Section: Tweaks
+Description: Unlock FlipaClip Plus
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/flipaclip/index.html
+Icon: https://mynameisdell.vercel.app/depictions/flipaclip/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.flipaclippatch_0.0.1_iphoneos-arm.deb
+Name: FlipaClip Unlocked
