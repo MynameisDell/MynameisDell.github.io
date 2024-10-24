@@ -3740,3 +3740,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/flipaclip/index.html
 Icon: https://mynameisdell.vercel.app/depictions/flipaclip/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.flipaclippatch_0.0.1_iphoneos-arm.deb
 Name: FlipaClip Unlocked
+
+Package: com.dell.wanderlogpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3756
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.wanderlogpatch_0.0.1_iphoneos-arm.deb
+Size: 604374 
+MD5sum: 94e3df29697db657027882efabe37694
+SHA1: d9a931511323471b3e261ca7371d77dd588b637c
+SHA256: e8eb0efa6cf7177cfd507fd069e9c9f61a31c6255dc85b3c81ae869eecd06ee8
+Section: Tweaks
+Description: Unlock Wanderlog Pro: Annual Plan
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/wanderlog/index.html
+Icon: https://mynameisdell.vercel.app/depictions/wanderlog/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.wanderlogpatch_0.0.1_iphoneos-arm.deb
+Name: Wanderlog Unlocked
