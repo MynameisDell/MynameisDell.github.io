@@ -3778,3 +3778,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/simplydraw/index.html
 Icon: https://mynameisdell.vercel.app/depictions/simplydraw/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.simplydrawpatch_0.0.1_iphoneos-arm.deb
 Name: Simply Draw Unlocked
+
+Package: com.dell.sleeppatch(bending)_0.0.1_iphoneos-arm.deb
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 2212
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.sleeppatch(bending)_0.0.1_iphoneos-arm.deb
+Size: 227532 
+MD5sum: deefd7c9c3302acf073fa13b7b751263
+SHA1: 5edbca46264bba394126defe85948edd0d541494
+SHA256: 23085c64e7ff0dfa5d7263cc2af1fb47fa0eeed2841aa51f624876c21245e9df
+Section: Tweaks
+Description: Unlock Bundle - Weekly
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/sleep(bending)/index.html
+Icon: https://mynameisdell.vercel.app/depictions/sleep(bending)/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.sleeppatch(bending)_0.0.1_iphoneos-arm.deb
+Name: Sleep Unlocked
