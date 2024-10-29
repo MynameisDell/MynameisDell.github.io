@@ -3797,3 +3797,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/sleep(bending)/index.html
 Icon: https://mynameisdell.vercel.app/depictions/sleep(bending)/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.sleeppatch(bending)_0.0.1_iphoneos-arm.deb
 Name: Sleep Unlocked
+
+Package: com.dell.ankipropatch_0.0.1_iphoneos-arm.deb
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.ankipropatch_0.0.1_iphoneos-arm.deb
+Size: 948240 
+MD5sum: ccb1f1f8b518326adafe306c897efcdb
+SHA1: 9a2a721e194a5ab714c5f09c02c0f20d35f240a0
+SHA256: a242d870c5e3988a1e4bae307b34c468d4bbd93966f1a9767b924c6c4352b48f
+Section: Tweaks
+Description: Unlock Anki Pro Premium Lifetime
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/ankipro/index.html
+Icon: https://mynameisdell.vercel.app/depictions/ankipro/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.ankipropatch_0.0.1_iphoneos-arm.deb
+Name: Anki Pro Unlocked
