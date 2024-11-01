@@ -3779,8 +3779,7 @@ Icon: https://mynameisdell.vercel.app/depictions/simplydraw/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.simplydrawpatch_0.0.1_iphoneos-arm.deb
 Name: Simply Draw Unlocked
 
-Package: com.dell.sleeppatch(bending)_0.0.1_iphoneos-arm.deb
-Version: 0.0.1
+Package: com.dell.sleeppatch(bending)
 Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
 Installed-Size: 2212
@@ -3798,7 +3797,7 @@ Icon: https://mynameisdell.vercel.app/depictions/sleep(bending)/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.sleeppatch(bending)_0.0.1_iphoneos-arm.deb
 Name: Sleep Unlocked
 
-Package: com.dell.ankipropatch_0.0.1_iphoneos-arm.deb
+Package: com.dell.ankipropatch
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
@@ -3816,3 +3815,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/ankipro/index.html
 Icon: https://mynameisdell.vercel.app/depictions/ankipro/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.ankipropatch_0.0.1_iphoneos-arm.deb
 Name: Anki Pro Unlocked
+
+Package: com.dell.euforiapatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 3016
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.euforiapatch_0.0.1_iphoneos-arm.deb
+Size: 948968 
+MD5sum: fa0291f2eb686169565b570f5e5abcab
+SHA1: 7a3671026aba423ef83bda1e978d8de2d2294071
+SHA256: 1fafe8c1f0d7a213a5e221f35ed39a7d6f8714a8f8b5047bc98f849deb2ab0d9
+Section: Tweaks
+Description: Unlock Euforia MAX Annual
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/euforia/index.html
+Icon: https://mynameisdell.vercel.app/depictions/euforia/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.euforiapatch_0.0.1_iphoneos-arm.deb
+Name: Euforia Unlocked
