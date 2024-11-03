@@ -3834,3 +3834,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/euforia/index.html
 Icon: https://mynameisdell.vercel.app/depictions/euforia/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.euforiapatch_0.0.1_iphoneos-arm.deb
 Name: Euforia Unlocked
+
+Package: com.dell.alightmotionpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 1036
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.alightmotionpatch_0.0.1_iphoneos-arm.deb
+Size: 197366 
+MD5sum: 508ed9a1bbac908de97c8e281b712850
+SHA1: 4ed015a40c667c34b023b06029cdbcb4f0ef16dc
+SHA256: dc5c13c7b4e1598af939972e27eadd30f95cd3d389ef310b17f51b93370172c8
+Section: Tweaks
+Description: Unlock Subscription
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/alightmotion/index.html
+Icon: https://mynameisdell.vercel.app/depictions/alightmotion/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.alightmotionpatch_0.0.1_iphoneos-arm.deb
+Name: Alight Motion Unlocked
