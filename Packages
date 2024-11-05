@@ -3853,3 +3853,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/alightmotion/index.html
 Icon: https://mynameisdell.vercel.app/depictions/alightmotion/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.alightmotionpatch_0.0.1_iphoneos-arm.deb
 Name: Alight Motion Unlocked
+
+Package: com.dell.vospatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 828
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.vospatch_0.0.1_iphoneos-arm.deb
+Size: 158750 
+MD5sum: fee717db914c555c90946711c5780d27
+SHA1: eed2e1b11ea253619044e531d83ec83670fc708a
+SHA256: 6dba9b2e8d3f1cf2f0e54ecba203888b6632f1c693684367f0bed7a5aee2b443
+Section: Tweaks
+Description: Unlock VOS - Annual Membership
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/vos/index.html
+Icon: https://mynameisdell.vercel.app/depictions/vos/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.vospatch_0.0.1_iphoneos-arm.deb
+Name: VOS Unlocked
