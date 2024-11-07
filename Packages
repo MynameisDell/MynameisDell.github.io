@@ -3872,3 +3872,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/vos/index.html
 Icon: https://mynameisdell.vercel.app/depictions/vos/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.vospatch_0.0.1_iphoneos-arm.deb
 Name: VOS Unlocked
+
+Package: com.dell.flowpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 1664
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.flowpatch_0.0.1_iphoneos-arm.deb
+Size: 302772 
+MD5sum: 7e9dc2af3f84c4672108558ccdf3fe6c
+SHA1: b13397009c1281f6868246fa0c4609ffd2b9ec7a
+SHA256: 39779739a7b712308731913b64810603a5342abba18cd69acbbf82537ded5eb3
+Section: Tweaks
+Description: Unlock Flow Pro
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/flow/index.html
+Icon: https://mynameisdell.vercel.app/depictions/flow/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.flowpatch_0.0.1_iphoneos-arm.deb
+Name: Flow Studio Unlocked
