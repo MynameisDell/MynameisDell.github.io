@@ -154,19 +154,19 @@ Package: com.dell.promovapatch
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Dell <dvq273665536@gmail.com>
-Installed-Size: 2964
+Installed-Size: 2052
 Depends: mobilesubstrate
 Filename: ./debs/com.dell.promovapatch_0.0.1_iphoneos-arm.deb
-Size: 932582
-MD5sum: 0485c96d51dd790b53a0057df781019d
-SHA1: 49abfcb47356f6d1f972bc942cb00a1e877a2e8d
-SHA256: 3729270319c8fcce7747fe6292225c0cf567fbabe1da0b4247061b90dad4e37f
+Size: 371726
+MD5sum: 4bbb43334b0d20f4eeb390a4f9598ca2
+SHA1: 366769ab4dd6102dc1e449f6e4e92a46ec9d49a1
+SHA256: 9e497fb736447b1e8dff113494a1bce30e7043f018260024f0fec16316682160
 Section: Tweaks
 Description: Unlock Premium
 Author: Dell <dvq273665536@gmail.com>
-Depiction: https://mynameisdell.github.io/depictions/promova/index.html
-Icon: https://mynameisdell.github.io/depictions/promova/assets/icon.png
-Deb: https://mynameisdell.github.io/debs/com.dell.promovapatch_0.0.1_iphoneos-arm.deb
+Depiction: https://mynameisdell.vercel.app/depictions/promova/index.html
+Icon: https://mynameisdell.vercel.app/depictions/promova/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.promovapatch_0.0.1_iphoneos-arm.deb
 Name: Promova Unlocked
 
 Package: com.dell.ticktickpatch
