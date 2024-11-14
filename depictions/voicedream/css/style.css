@@ -1,0 +1,246 @@
+body {
+  background: linear-gradient(45deg, #121212, #000000);
+  color: #fff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px; /* Đặt kích thước cơ bản cho body */
+  margin: 0;
+}
+
+/* style.css */
+
+/* Common styles for all sections */
+h1 img {
+  height: 1em;
+  width: auto;
+  margin-left: 10px;
+  transform-origin: center;
+  transition: transform 0.5s ease, color 0.5s ease, filter 0.5s ease;
+}
+
+/* Animation for the About section */
+.about h1 img {
+  animation: pulseRotate 2s infinite;
+}
+
+/* Animation for the Apps section */
+.apps h1 img {
+  animation: spinAndScale 3s infinite;
+}
+
+/* Animation for the Information section */
+.dev h1 img {
+  animation: colorShift 5s infinite;
+}
+
+/* Animation for the Contact section */
+.info h1 img {
+  animation: bounceInRotateAndColor 2s infinite;
+}
+
+/* Keyframes for animations */
+@keyframes pulseRotate {
+  0%, 100% {
+    transform: scale(1) rotate(0deg);
+  }
+  50% {
+    transform: scale(1.2) rotate(180deg);
+  }
+}
+
+@keyframes spinAndScale {
+  0%, 100% {
+    transform: rotate(0deg) scale(1);
+  }
+  25% {
+    transform: rotate(90deg) scale(1.2);
+  }
+  50% {
+    transform: rotate(180deg) scale(0.8);
+  }
+  75% {
+    transform: rotate(270deg) scale(1.2);
+  }
+}
+
+@keyframes colorShift {
+  0%, 100% {
+    filter: hue-rotate(0deg);
+  }
+  50% {
+    filter: hue-rotate(360deg);
+  }
+}
+
+@keyframes bounceInRotateAndColor {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0) rotate(0deg);
+    opacity: 1;
+    filter: hue-rotate(0deg) saturate(100%);
+  }
+  40% {
+    transform: translateY(-20px) rotate(20deg);
+    opacity: 0.8;
+    filter: hue-rotate(90deg) saturate(50%);
+  }
+  60% {
+    transform: translateY(-10px) rotate(-10deg);
+    opacity: 0.9;
+    filter: hue-rotate(180deg) saturate(150%);
+  }
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1.25em; /* Sử dụng padding thay vì pixel để giữ kích thước tương đối */
+  box-sizing: border-box;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.container:hover {
+  box-shadow: 0 0 40px rgba(255, 255, 255, 0.3);
+}
+
+.about h1 {
+  font-size: 1.5em; /* Giảm kích thước chữ của tiêu đề */
+  color: #00ffcc;
+}
+
+.screenshots {
+  margin-top: 40px;
+}
+
+.screenshots ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.screenshots li {
+  flex: 0 0 48%;
+}
+
+.screenshots img {
+  width: 100%;
+  height: auto;
+  border: 2px solid #00ffcc;
+  border-radius: 8px;
+  transition: transform 0.5s ease-in-out;
+  transform-origin: center center;
+}
+
+.screenshots img:hover {
+  transform: scale(1.1) translateY(-10px);
+  border-color: #ff6600;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.info-label-value {
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out;
+}
+
+@keyframes imageEffect {
+  0% {
+    transform: scale(1);
+    filter: brightness(1);
+  }
+  50% {
+    transform: scale(1.2);
+    filter: brightness(1.5);
+  }
+  100% {
+    transform: scale(1);
+    filter: brightness(1);
+  }
+}
+
+.info-label-value {
+  display: flex;
+  align-items: center;
+}
+
+.info-label-value img {
+  height: 1em;
+  width: auto;
+  margin-right: 5px;
+  animation: imageEffect 3s infinite; /* Thay đổi giá trị thời gian để điều chỉnh tốc độ hiệu ứng */
+}
+
+.info-label {
+  font-weight: bold;
+  color: #00ffcc;
+  font-size: 1em; /* Điều chỉnh kích thước của nhãn thông tin */
+  margin-right: 8px;
+  display: block;
+  position: relative;
+  transition: transform 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.info-label a {
+    text-decoration: none; /* Loại bỏ đường gạch chân */
+    color: #00ffcc;
+}
+
+.info-label::before {
+  content: '';
+  width: 10px;
+  height: 10px;
+  background-color: #00ffcc;
+  border-radius: 50%;
+  margin-right: 5px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.info-label:hover::before {
+  transform: scale(1.2);
+}
+
+.info-value {
+  font-size: 0.9em; /* Điều chỉnh kích thước của giá trị thông tin */
+  color: #fff;
+  word-break: break-all;
+  transition: color 0.3s ease-in-out;
+}
+
+.info-value a {
+  text-decoration: none;
+  color: #007BFF;
+  transition: color 0.3s ease-in-out;
+}
+
+.info-value a:hover {
+  color: #00ffcc;
+}
+
+.info-value:hover {
+  transform: translateX(5px);
+  color: #ff6600;
+}
+
+.info-label-value:hover {
+  background: linear-gradient(45deg, #00ffcc, #ff4d00, #aa00ff, #00aaff);
+  animation: gradientAnimation 5s infinite alternate;
+  transition: background 0.3s ease-in-out;
+  transform: scale(1.05);
+}
+
+@keyframes gradientAnimation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}

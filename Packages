@@ -3891,3 +3891,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/flow/index.html
 Icon: https://mynameisdell.vercel.app/depictions/flow/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.flowpatch_0.0.1_iphoneos-arm.deb
 Name: Flow Studio Unlocked
+
+Package: com.dell.voicedreampatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 1440
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.voicedreampatch_0.0.1_iphoneos-arm.deb
+Size: 260416 
+MD5sum: e6eea8851ce93d7843c41a7c6538ca3d
+SHA1: 0a3f792095a0ce9b7824937a98748fed4171392d
+SHA256: 638aa0d792f9afa3cbc8d8f32d9d99eb22595139ae19ef50bb754b03620744e1
+Section: Tweaks
+Description: Unlock Premium
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/voicedream/index.html
+Icon: https://mynameisdell.vercel.app/depictions/voicedream/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.voicedreampatch_0.0.1_iphoneos-arm.deb
+Name: Voice Dream Unlocked
