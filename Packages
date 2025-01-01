@@ -3929,3 +3929,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/bear/index.html
 Icon: https://mynameisdell.vercel.app/depictions/bear/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.bearpatch_0.0.1_iphoneos-arm.deb
 Name: Bear Unlocked
+
+Package: com.dell.fatsecretpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 488
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.fatsecretpatch_0.0.1_iphoneos-arm.deb
+Size: 91302 
+MD5sum: 70e5295248574a0a95ff9e9176badb6d
+SHA1: 316c145331e39f7d2561585b517c558ae8277a57
+SHA256: 1a63eeb2819c5ce9befe5f4eedf28591643d8522f66aa131e166c5d83ad49d08
+Section: Tweaks
+Description: Unlock Annual Subscription
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/fatsecret/index.html
+Icon: https://mynameisdell.vercel.app/depictions/fatsecret/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.fatsecretpatch_0.0.1_iphoneos-arm.deb
+Name: fatsecret Unlocked
