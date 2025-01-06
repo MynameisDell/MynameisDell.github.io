@@ -3967,3 +3967,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/wallpics/index.html
 Icon: https://mynameisdell.vercel.app/depictions/wallpics/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.wallpicspatch_0.0.1_iphoneos-arm.deb
 Name: WallPics Unlocked
+
+Package: com.dell.speedsmartpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 488
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.speedsmartpatch_0.0.1_iphoneos-arm.deb
+Size: 91576 
+MD5sum: 1f813ad502a00d2f3bf15b6967578363
+SHA1: a41d3a48611f3655026bdfdb4329de552debe08d
+SHA256: 9060a2ca584e4d8cd45362d55ea38fbe6a3899d7528b9056a30e323c871c3533
+Section: Tweaks
+Description: Unlock Pro Mode
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/speedsmart/index.html
+Icon: https://mynameisdell.vercel.app/depictions/speedsmart/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.speedsmartpatch_0.0.1_iphoneos-arm.deb
+Name: SpeedSmart Unlocked
