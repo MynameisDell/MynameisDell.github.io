@@ -3986,3 +3986,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/speedsmart/index.html
 Icon: https://mynameisdell.vercel.app/depictions/speedsmart/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.speedsmartpatch_0.0.1_iphoneos-arm.deb
 Name: SpeedSmart Unlocked
+
+Package: com.dell.1blockerpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 472
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.1blockerpatch_0.0.1_iphoneos-arm.deb
+Size: 88080 
+MD5sum: 239c42f5901cf7b0c96561a572c87cd5
+SHA1: 2354ac44c8e1bdb158d472f9d0127987ae9bb4f6
+SHA256: 707684a48f2fdf5b7619948fed2ef42d7902403f45e4f9a99e434599508747b9
+Section: Tweaks
+Description: Unlock 1Blocker Lifetime
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/1blocker/index.html
+Icon: https://mynameisdell.vercel.app/depictions/1blocker/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.1blockerpatch_0.0.1_iphoneos-arm.deb
+Name: 1Blocker Unlocked
