@@ -4005,3 +4005,22 @@ Depiction: https://mynameisdell.vercel.app/depictions/1blocker/index.html
 Icon: https://mynameisdell.vercel.app/depictions/1blocker/assets/icon.png
 Deb: https://mynameisdell.vercel.app/debs/com.dell.1blockerpatch_0.0.1_iphoneos-arm.deb
 Name: 1Blocker Unlocked
+
+Package: com.dell.bikemappatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dell <dvq273665536@gmail.com>
+Installed-Size: 488
+Depends: mobilesubstrate
+Filename: ./debs/com.dell.bikemappatch_0.0.1_iphoneos-arm.deb
+Size: 89518 
+MD5sum: 003ba877318f821e4673e06352ca7ec3
+SHA1: 133e9ebf1da42286a55f660d53901ccf4ea5bf5c
+SHA256: 2be9d527e03bfe2e60710f1eb6cb6e3f463ae5e742571683154e6ef37875e0cd
+Section: Tweaks
+Description: Unlock Bikemap Premium Yearly
+Author: Dell <tranthikimchi2601@gmail.com>
+Depiction: https://mynameisdell.vercel.app/depictions/bikemap/index.html
+Icon: https://mynameisdell.vercel.app/depictions/bikemap/assets/icon.png
+Deb: https://mynameisdell.vercel.app/debs/com.dell.bikemappatch_0.0.1_iphoneos-arm.deb
+Name: Bikemap Unlocked
